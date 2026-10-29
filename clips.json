@@ -1,0 +1,388 @@
+{
+ "clips": [
+  {
+   "id": "h1",
+   "section": "hook",
+   "text": "It is minus thirty outside, and tonight your only heater is a fire you must keep alive with your own hands.",
+   "image": "Wide shot at dusk of a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots standing outside a low dome shelter of mammoth bones and hides on a snowy steppe, wind blowing snow past him, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "h2",
+   "section": "hook",
+   "text": "There is no house here as you would recognise one. No brick walls, no glass windows, no switch on the wall, and no warm air waiting behind a door.",
+   "image": "Wide shot of a low hide-covered dome shelter in deep snow at blue dusk, smoke rising from a small opening at the top, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "h3",
+   "section": "hook",
+   "text": "And yet, by morning, your family will still be here, warm enough to wake, fed enough to move, and ready to do it all again. Tonight is how that was possible.",
+   "image": "Close-up of an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots smiling faintly as she pulls a fur hood close around her face in falling snow at dusk, firelight glowing behind her, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "n1",
+   "section": "night",
+   "text": "The sun is already gone, and the light is leaving fast. Snow squeaks under your boots, and every breath turns white and vanishes before it reaches your chest.",
+   "image": "Over-shoulder shot of a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots walking through deep snow toward a low shelter at indigo dusk, his breath visible in cold air, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "n2",
+   "section": "night",
+   "text": "Your hands are the first problem. The cold pulls the feeling out of your fingers, and the small jobs, tying a knot, gripping a hide edge, suddenly take twice as long.",
+   "image": "Close-up detail of a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots fumbling with a hide tie with stiff cold fingers outside the shelter in snow, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "n3",
+   "section": "night",
+   "text": "Inside, the air is different at once. It is not warm, not the way a heated room is warm, but the wind stops hitting your face, and that alone feels like rescue.",
+   "image": "an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots lifting a heavy hide flap and stepping inside a dim dome shelter, snow on her shoulders, warm firelight inside, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "n4",
+   "section": "night",
+   "text": "Your child is already tucked between the adults, small and still, wrapped so tightly that only the eyes and the tip of a nose show above the fur.",
+   "image": "Close-up of a small child with short dark hair, wearing a small fitted fur parka with a fur hood and fur mittens wrapped in furs lying between two adults inside a dim shelter, eyes open, firelight on the fur, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "n5",
+   "section": "night",
+   "text": "The elder checks everyone the way a captain checks a crew. Hands, feet, faces. Anyone too quiet, anyone too still, gets moved closer to the fire.",
+   "image": "an elderly woman with grey hair in a braid, wearing a layered fur cloak and fur boots kneeling inside a shelter and holding the hands of a small child with short dark hair, wearing a small fitted fur parka with a fur hood and fur mittens to check them, firelight on their faces, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "n6",
+   "section": "night",
+   "text": "This is the rule of the night, and you learn it without anyone saying it. Nobody sleeps alone at the edge. The warm centre is shared, or nobody stays warm at all.",
+   "image": "Wide interior shot of a family group lying close together in furs around a small central fire inside a dome shelter, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "sh1",
+   "section": "shelter",
+   "text": "Look up, and you see what this shelter really is. A frame of long bones and tusks, bent into a dome, with hides stretched tight over the top like a skin over ribs.",
+   "image": "Wide interior shot looking up at a dome frame of mammoth bones and tusks with hides stretched over it, firelight below, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": "mammoth bones",
+   "overlay": null
+  },
+  {
+   "id": "sh2",
+   "section": "shelter",
+   "text": "Outside, the hunter packs snow around the base, sealing the gaps where the wind would find its way in. Snow is cold, but packed snow blocks the wind, and the wind is the thief here.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots packing snow with his hands around the base of a hide-covered dome shelter outside in falling snow, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "sh3",
+   "section": "shelter",
+   "text": "A low doorway keeps the heat from pouring out. You duck to enter, and you do not mind the stoop, because every opening is a place the night can get in.",
+   "image": "an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots ducking through a low hide doorway into a dome shelter, snow piled around the entrance, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "sh4",
+   "section": "shelter",
+   "text": "The floor matters as much as the roof. Layer after layer of hide and dried grass goes down first, so your body never sleeps directly on frozen ground.",
+   "image": "Detail shot of hands laying a hide over dried grass on the floor inside a dome shelter, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "sh5",
+   "section": "shelter",
+   "text": "This is not one camp we can point to on a map and name. It is a reconstruction, built from many sites, because no single night from twenty thousand years ago survived intact for us to watch.",
+   "image": "Wide shot of a small cluster of low hide shelters on a snowy steppe at night with one fire glowing inside the nearest shelter, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "sh6",
+   "section": "shelter",
+   "text": "What did survive is the pattern. Bone frames, hide covers, hearths in the middle, and pits dug nearby. Different camps, same answer to the same cold.",
+   "image": "Detail shot of a mammoth leg bone and a stone tool lying beside a small hearth inside a shelter, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "f1",
+   "section": "fire",
+   "text": "Now the fire, because everything else depends on it. The elder tends it the way you would tend a small animal, feeding it little and often, never letting it gorge and never letting it starve.",
+   "image": "an elderly woman with grey hair in a braid, wearing a layered fur cloak and fur boots kneeling by a small central fire inside a shelter, placing a thin piece of wood onto the flames, firelight on her face, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": "fire",
+   "overlay": "FIRE"
+  },
+  {
+   "id": "f2",
+   "section": "fire",
+   "text": "The fuel is whatever the steppe gives you. Dry wood where you can find it, carried back in bundles through the snow, because a fire that goes out in this cold is not a small mistake.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots carrying a bundle of dry sticks on his back through deep snow toward a shelter at dusk, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "f3",
+   "section": "fire",
+   "text": "Someone stays awake, in turns, all night. Not because the fire is greedy, but because a fire left alone will die quietly, and cold does not announce itself.",
+   "image": "Close-up of an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots awake beside a low fire at night inside a shelter, adding a stick while others sleep in furs behind her, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "f4",
+   "section": "fire",
+   "text": "Watch the smoke. It rises through the opening at the top, and if the wind shifts, it finds your eyes first. The shelter is warm and smoky at once, and you accept the trade.",
+   "image": "Interior shot of smoke rising from a small fire through a smoke opening at the top of a hide dome shelter, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "f5",
+   "section": "fire",
+   "text": "Heat here is not like heat from a radiator. It is a small island in a cold room. Step two paces away from the flames, and the night takes you back.",
+   "image": "a small child with short dark hair, wearing a small fitted fur parka with a fur hood and fur mittens warming small mittened hands over a small fire inside a shelter, cold shadows beyond the firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "f6",
+   "section": "fire",
+   "text": "So you move the work to the fire. Tools are repaired beside it, hides are softened beside it, food is cooked beside it. The fire is the kitchen, the workshop, and the lamp, all at once.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots repairing a wooden spear shaft beside a small fire inside a shelter, tools laid on a hide, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "c1",
+   "section": "clothing",
+   "text": "Before you sleep, you check your clothing, because clothing is your real house tonight. It travels with you, and it fails the moment a gap opens.",
+   "image": "an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots checking the fur hood and collar of a small child with short dark hair, wearing a small fitted fur parka with a fur hood and fur mittens inside a shelter, adjusting the fit around the child's face, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "c2",
+   "section": "clothing",
+   "text": "The layers work together, and that is the point. A soft inner layer next to the skin, a thicker fur layer over it, and every opening closed at the neck, the wrists, and the ankles.",
+   "image": "Close-up detail of layered fur clothing at the wrist of a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots, fur cuff pulled tight over a sleeve, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "c3",
+   "section": "clothing",
+   "text": "Loose skins flap and leak warm air. Fitted skins hold it. That difference is not fashion. In this cold, it is the difference between shivering through the night and sleeping through it.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots pulling a fitted fur parka tight around his waist with a hide cord inside a shelter, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "c4",
+   "section": "clothing",
+   "text": "Your boots are stuffed with dry grass, and your mittens are thick enough to make your fingers clumsy. You trade dexterity for warmth, gladly, because numb fingers cannot work at all.",
+   "image": "Detail shot of fur boots stuffed with dry grass beside a fire inside a shelter, steam rising as they dry, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "c5",
+   "section": "clothing",
+   "text": "Wet is the enemy, worse than cold alone. Wet fur loses its trapped air, and wet skin loses heat fast, so wet boots come off by the fire, even when taking them off feels colder for a minute.",
+   "image": "an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots placing wet fur boots near a small fire inside a shelter to dry, water dripping onto a hide, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "c6",
+   "section": "clothing",
+   "text": "The child wears the smallest version of everything, made and remade as the child grows. Nothing here is bought in a size. It is cut, sewn, and adjusted by the hands that know the child.",
+   "image": "an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots sewing a small fur garment with a bone needle beside a fire inside a shelter, a small child with short dark hair, wearing a small fitted fur parka with a fur hood and fur mittens watching, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": "bone needle",
+   "overlay": null
+  },
+  {
+   "id": "fo1",
+   "section": "food",
+   "text": "Hunger wakes you before dawn, and the cold makes it sharper. Your body is burning fuel all night just to stay warm, even while you sleep, and it wants paying back.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots sitting up in furs inside a shelter at night, rubbing his cold hands together, firelight low, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "fo2",
+   "section": "food",
+   "text": "Outside, buried under snow and stone, is meat kept by the cold itself. In a winter like this, the world is a freezer, and meat left in it stays edible far longer than it would in summer.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots lifting a stone slab and pulling wrapped meat from a snow-covered cache outside a shelter at night, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": "frozen meat",
+   "overlay": null
+  },
+  {
+   "id": "fo3",
+   "section": "food",
+   "text": "Nobody here wastes the rich parts. Fat is food and fuel at once, the part of the animal that carries the most energy in the smallest load, and in winter, energy is warmth.",
+   "image": "Close-up of hands cutting a piece of pale animal fat on a hide beside a fire inside a shelter, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "fo4",
+   "section": "food",
+   "text": "The meat goes onto the fire, or into hot water heated with stones, and the smell fills the shelter before the taste does. Cooking is not a luxury here. It makes tough food easier to eat and safer to share.",
+   "image": "an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots turning meat over a small fire inside a shelter on a wooden spit, smoke rising, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "fo5",
+   "section": "food",
+   "text": "You eat slowly, in small portions, and you save some back. A winter camp that eats everything on a good day has nothing for a bad one, and bad days arrive without warning.",
+   "image": "Wide interior shot of a family group eating small portions of cooked meat around a fire inside a shelter, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "fo6",
+   "section": "food",
+   "text": "Bones are not thrown away lightly. They are cracked for marrow, and the long ones may end up as tools, or as part of the next shelter. In a place with little wood, nothing useful is wasted.",
+   "image": "Detail shot of a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots cracking a long bone with a stone to reach the marrow beside a fire inside a shelter, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "sc1",
+   "section": "science",
+   "text": "Now, what do we actually know, and what are we guessing? Archaeologists think the shelter you have just slept in is real in its parts, even if no one night can be proved in full.",
+   "image": "an elderly woman with grey hair in a braid, wearing a layered fur cloak and fur boots sitting beside a small fire inside a shelter looking thoughtfully toward the entrance, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "sc2",
+   "section": "science",
+   "text": "At Kostenki, in what is now Russia, hunters built a huge ring of mammoth bones about twenty-five thousand years ago, from the bones of at least sixty mammoths, twelve and a half metres across.",
+   "image": "Wide aerial-style shot of a large circular ring of mammoth bones on a snowy plain, people small beside it, cold daylight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": "mammoth ring",
+   "overlay": "25,000 YEARS AGO"
+  },
+  {
+   "id": "sc3",
+   "section": "science",
+   "text": "But here is the honest part. That great ring may not have been a house at all. It is hard to roof, and few tools were found inside, so researchers also suggest storage, or gathering, or ceremony. We do not know for sure.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots standing inside a large open ring of mammoth bones looking up at the open sky, no roof overhead, cold daylight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "sc4",
+   "section": "science",
+   "text": "At Mezhyrich, in what is now Ukraine, smaller bone huts are a clearer case for homes. Older reports put them around fifteen thousand years ago, but newer radiocarbon dating puts one structure at about eighteen thousand years ago, so we use the newer date.",
+   "image": "Wide shot of a small dome hut built from mammoth bones and hides on a snowy river bank, smoke from its top, cold daylight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": "ABOUT 18,000 YEARS AGO"
+  },
+  {
+   "id": "sc5",
+   "section": "science",
+   "text": "Much earlier, about three hundred thousand years ago at Schöningen in Germany, fine cut marks on cave bear paw bones suggest people carefully stripped bear skins. That is a wrapped skin, not a sewn fitted coat, and the distinction matters.",
+   "image": "Close-up detail of hands carefully cutting the skin from a bear paw with a stone tool, fur and snow around, cold daylight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": "bear skin",
+   "overlay": "ABOUT 300,000 YEARS AGO"
+  },
+  {
+   "id": "sc6",
+   "section": "science",
+   "text": "The sewn step comes much later. Eyed bone needles appear from about forty thousand years ago, first at Denisova Cave in Siberia, and researchers link them to finer, fitted clothing, with layers that trap warm air against the skin.",
+   "image": "Close-up detail of a small eyed bone needle pulling thread through fur beside a fire, hands sewing, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": "eyed needle",
+   "overlay": "ABOUT 40,000 YEARS AGO"
+  },
+  {
+   "id": "t1",
+   "section": "today",
+   "text": "Now step back into your own winter for a moment. Your heater runs while you sleep. Your house holds its heat behind walls and glass. Your food waits in a freezer that never needs snow.",
+   "image": "Wide shot of a modern house at night in snow with warm light in its windows, a person inside turning a thermostat, cool blue night, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "t2",
+   "section": "today",
+   "text": "Their winter had none of that, and yet the same physics applied. Trap warm air, block the wind, keep the fire fed, eat enough fuel, and stay dry. The tools changed. The body did not.",
+   "image": "Split-style wide shot: a modern person in a winter coat zipping up beside a campfire scene of a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots in furs, snow around both, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "t3",
+   "section": "today",
+   "text": "That is the surprising mechanism at the heart of this night. Survival was not one invention. It was a system, shelter plus fire plus fitted clothing plus stored food, each one covering the weakness of the others.",
+   "image": "Wide interior shot of a family group around a fire inside a hide shelter, furs, food and tools all close at hand, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "t4",
+   "section": "today",
+   "text": "Take away any one part, and the night gets harder. Lose the fire, and the shelter is just a cold tent. Lose the fitted clothing, and the fire cannot follow you outside. Lose the food, and your own body runs out of fuel to burn.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots standing at the doorway of a shelter at dawn looking out over a snowy steppe, breath visible, pale morning light, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "ch1",
+   "section": "choice",
+   "text": "Dawn comes slowly, grey over white, and the fire is still alive. Someone kept it going while you slept, and that is the whole story in one small fact. Survival was shared work.",
+   "image": "Wide shot of a shelter at pale dawn with thin smoke rising from its top, a figure adding wood to a fire inside, snow blue-white, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "ch2",
+   "section": "choice",
+   "text": "You step outside, stamp your boots, and feel the cold hit your face again. It is still minus thirty in the story we started with, but now you know what stands between you and it.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots stepping outside a shelter at dawn, stamping snow from his fur boots, breath visible in pale light, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "ch3",
+   "section": "choice",
+   "text": "Not a single hero, and not a single invention. A dome that blocks the wind, a fire that never sleeps, clothing that fits, and food saved for the morning after.",
+   "image": "Wide shot of a small family group outside a hide shelter at dawn, packing bundles and checking furs, snow around them, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "ch4",
+   "section": "choice",
+   "text": "So here is our question for you. If you had to spend one Ice Age night with no modern help at all, which job would you take: tending the fire, sewing the clothing, or finding the food? Tell us in the comments, and tell us why.",
+   "image": "an adult woman with long dark braided hair, wearing a fitted fur parka with a fur hood, fur trousers and fur boots looking warmly toward the viewer beside a small fire inside a shelter at dawn, as if asking a question, firelight, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  },
+  {
+   "id": "ch5",
+   "section": "choice",
+   "text": "And subscribe, because the next story asks a question just as cold, and just as human, and we will walk into it together.",
+   "image": "a tall adult hunter with short dark hair and a beard, wearing a fitted fur parka with a fur hood, fur trousers and fur boots and a small child with short dark hair, wearing a small fitted fur parka with a fur hood and fur mittens waving goodbye outside a hide shelter at dawn, snow falling lightly, pale morning light, deep indigo night, snow blue-white, warm firelight amber-orange, fur browns",
+   "keyword": null,
+   "overlay": null
+  }
+ ]
+}
