@@ -10,7 +10,7 @@ import sys
 
 import edge_tts
 
-VOICE = "en-US-GuyNeural"
+VOICE = "en-US-BrianNeural"
 RATE = "+0%"
 OUTDIR = "out"
 
