@@ -1,232 +1,565 @@
 {
  "clips": [
   {
-   "id": "g1",
-   "text": "Your garden is screaming right now — dozens of times an hour, at the volume of a normal conversation. You can't hear a single one."
+   "id": "a1",
+   "section": "armor",
+   "text": "Your sweat is an antibiotic. Every drop carries a 47-amino-acid protein that punches holes in E. coli, staph, and even tuberculosis bacteria \u2014 and your body makes it without asking, every single day.",
+   "interrupt": "visual",
+   "image": "Extreme macro of human skin with a glowing teal shimmer like an invisible shield, warm skin tones, photorealistic, cinematic light, no text",
+   "overlay": "47 AMINO ACIDS",
+   "sfx": "impact",
+   "transition": "wipeleft",
+   "note": "rule 20: aggressive zoom-punch + keyword overlay of the concrete number; 250-400ms pause after claim before re-orientation"
   },
   {
-   "id": "g2",
-   "text": "This is what your garden looks like to ears that can actually hear it."
+   "id": "a2",
+   "section": "armor",
+   "text": "This is that protein at work \u2014 zinc-braced channels drilling straight through a bacterium's membrane.",
+   "interrupt": "structural",
+   "image": "PAYOFF FLASH: reuse twist asset (c7 crop) \u2014 zinc-stabilized dermcidin channels perforating a bacterial membrane, deep teal microscopy, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "wiperight",
+   "note": "rule 20: 1.5-2s payoff flash reusing the twist visual; NO new image (reuse c7 asset)"
   },
   {
-   "id": "g3",
-   "text": "In the next nine minutes: the lab that heard it, the farm that uses it, and the question nobody can answer. And it starts earlier than you'd think — with a walk you take every morning without hearing a thing."
+   "id": "a3",
+   "section": "armor",
+   "text": "In the next nine minutes: the armor you wake up wearing, the workout that turns sweat into artillery, the tiny allies patrolling your skin, and the betrayal that happens every time you shower. But it starts the second you open your eyes.",
+   "interrupt": "audio",
+   "image": "Split triptych feel in one frame: bedroom morning, runner at dawn, shower steam, warm skin tones, photorealistic with teal accents, no text",
+   "overlay": null,
+   "sfx": "music_in",
+   "transition": "circleopen",
+   "note": "re-orientation: 3-bullet outline + payoff preview; music fades in ONLY after a1's first spoken sentence"
   },
   {
-   "id": "g4",
-   "text": "It starts with a gift — one you should probably be careful what you wish for."
+   "id": "a4",
+   "section": "armor",
+   "text": "You wake up and you do not feel armored. You feel groggy, a little sticky, and your first thought is the shower \u2014 hot water, soap, the whole reset ritual. But your skin has been standing guard all night.",
+   "interrupt": "character",
+   "image": "Close-up of brown-haired young man in a blue hoodie waking up in warm morning light, faint teal shimmer on his skin like a garrison glow, photorealistic, no text",
+   "overlay": "EVERY MORNING",
+   "sfx": null,
+   "transition": "horzopen",
+   "note": "open loop 1 (mini): tease overlay + push-in"
   },
   {
-   "id": "g5",
-   "text": "Tonight, while you sleep, someone hands you hearing that reaches a hundred kilohertz — five times higher than any human ear. Tomorrow morning, you walk into your garden."
+   "id": "a5",
+   "section": "armor",
+   "text": "The guard is a protein called dermcidin. Only forty-seven amino acids long \u2014 tiny, even by protein standards \u2014 and your sweat glands manufacture it around the clock.",
+   "interrupt": "visual",
+   "image": "Extreme close-up of forearm skin, beads of sweat glowing faint teal like a line of sentries, deep teal and cyan electron-microscopy style, dark background accents, photorealistic, no text",
+   "overlay": "DERMCIDIN",
+   "sfx": null,
+   "transition": "smoothup",
+   "note": null
   },
   {
-   "id": "m1",
-   "text": "The first thing you notice is that your garden is not quiet. It never was. A tomato plant by the fence is clicking — sharp little pops, thirty-five times an hour."
+   "id": "a6",
+   "section": "armor",
+   "text": "Not when you are sick. Not when you are cut. Always. Your eccrine glands \u2014 the ones behind ordinary, everyday sweat \u2014 pour it out constitutively. That is the scientists' way of saying the factory never closes.",
+   "interrupt": "audio",
+   "image": "Coiled eccrine sweat gland deep under skin surface, glowing teal, deep teal and cyan electron-microscopy style, dark background, scientific illustration feel, no text",
+   "overlay": "ALWAYS ON",
+   "sfx": null,
+   "transition": "pixelize",
+   "note": null
   },
   {
-   "id": "m2",
-   "text": "That's not a metaphor. Researchers in Tel Aviv measured it: a thirsty tomato clicks about thirty-five times an hour. A healthy one? Less than once. The difference between a thirsty plant and a happy one is the difference between a fire alarm and a library."
+   "id": "a7",
+   "section": "armor",
+   "text": "And it does not just sit there. Give it salt, give it a little acid, give it a workout \u2014 and the armor goes on the attack. That is the stress test.",
+   "interrupt": "structural",
+   "image": "brown-haired young man in a blue hoodie lacing up running shoes at dawn, warm light, determined expression, faint teal glow on skin, photorealistic, no text",
+   "overlay": "THE STRESS TEST",
+   "sfx": "riser",
+   "transition": "wipeleft",
+   "note": "chapter-end open loop 2: tease overlay + push-in + 1s riser"
   },
   {
-   "id": "m3",
-   "text": "The clicks are loud, too — about as loud as a normal conversation. But they're pitched at fifty thousand hertz, and your old human ears quit at twenty."
+   "id": "b1",
+   "section": "stress",
+   "text": "Chapter two: the stress test. You go for a run, and everything your body was quietly doing turns loud.",
+   "interrupt": "audio",
+   "image": "brown-haired young man in a blue hoodie running at dawn through a park, sweat beads catching light with teal glints, warm skin tones, photorealistic, photorealistic, no text",
+   "overlay": null,
+   "sfx": "riser",
+   "transition": "wiperight",
+   "note": null
   },
   {
-   "id": "m4",
-   "text": "So every garden on Earth is full of distress calls, and every gardener in history has been deaf to all of them. Think of every garden you've ever walked through. All that silence was an illusion — your ears were just tuned to the wrong station."
+   "id": "b2",
+   "section": "stress",
+   "text": "Here is the twist nobody expects: dermcidin is lazy in a test tube of clean water. It wakes up inside sweat \u2014 in the salt and the slight acidity of a real workout. The conditions you associate with being gross are the conditions that arm the weapon.",
+   "interrupt": "visual",
+   "image": "Extreme macro of a sweat bead on skin, crystalline salt patterns forming inside, teal tint, photorealistic, no text",
+   "overlay": "SALT + ACID",
+   "sfx": null,
+   "transition": "circleopen",
+   "note": null
   },
   {
-   "id": "m5",
-   "text": "You crouch by the tomato. It sounds urgent. Three beds over, the basil is barely whispering. The succulent on the windowsill says nothing at all."
+   "id": "b3",
+   "section": "stress",
+   "text": "A microbiologist at UC San Diego once called sweat almost like an antibiotic juice. His words, not mine \u2014 colorful phrasing, but the chemistry underneath it is real.",
+   "interrupt": "character",
+   "image": "brown-haired young man in a blue hoodie mid-stride running, slow-motion sweat spray catching golden light, teal shimmer, photorealistic, no text",
+   "overlay": "ANTIBIOTIC JUICE",
+   "sfx": null,
+   "transition": "horzopen",
+   "note": "open loop 3 (mini): Gallo quote as color, uncertainty kept (his phrasing)"
   },
   {
-   "id": "m6",
-   "text": "Each plant has a signature. Drought sounds different from a cut stem — one is a dry rattle, the other a sharp snap. You start learning the vocabulary before breakfast."
+   "id": "b4",
+   "section": "stress",
+   "text": "As the water evaporates, the good stuff concentrates. The salt, the acids, the dermcidin \u2014 all of it gets stronger as you dry off. Your post-run glow is, chemically speaking, a shield hardening.",
+   "interrupt": "audio",
+   "image": "Macro time-lapse feel: sweat evaporating off skin, teal glow intensifying as water leaves, warm skin tones, photorealistic, photorealistic, no text",
+   "overlay": null,
+   "sfx": "whoosh",
+   "transition": "smoothup",
+   "note": null
   },
   {
-   "id": "m6b",
-   "text": "There is a cost to the gift, and you feel it by noon. Every stressed plant in the neighborhood is now your problem — a chorus of complaints you cannot switch off, only learn to live with."
+   "id": "b5",
+   "section": "stress",
+   "text": "In the lab, dermcidin kills E. coli, staphylococcus aureus, and a yeast called candida albicans \u2014 on contact, no immune system required. A one-protein army.",
+   "interrupt": "visual",
+   "image": "Three types of bacteria under microscope being perforated by glowing channels, teal battlefield, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": "E. COLI / STAPH / CANDIDA",
+   "sfx": null,
+   "transition": "pixelize",
+   "note": null
   },
   {
-   "id": "m7",
-   "text": "And then you notice the strangest thing of all. The plants aren't just making noise. What if somebody out there is listening?"
-  },
-  {
-   "id": "m8",
-   "text": "To understand what you're hearing, you have to visit the lab where a plant was first caught screaming — on tape."
-  },
-  {
-   "id": "l1",
-   "text": "March 2023. A basement lab at Tel Aviv University. Two researchers — Itzhak Khait and Lilach Hadany — seal a tomato plant inside an acoustic chamber and point ultrasonic microphones at it."
-  },
-  {
-   "id": "l2",
-   "text": "The microphones hear from twenty to two hundred fifty kilohertz — more than ten times higher than you. Then they stop watering the plant, and they wait. Acoustic foam swallows every echo. The only sound left in that chamber is whatever the plant itself is doing."
-  },
-  {
-   "id": "l3",
-   "text": "What comes back is not silence. Clicks. Pops. Little ultrasonic snaps — thirty-five an hour from the thirsty tomato, twenty-five from a freshly cut stem."
-  },
-  {
-   "id": "l4",
-   "text": "And here is the number that should unsettle you: at ten centimeters from the plant, those clicks hit about sixty-two decibels — the volume of a normal conversation. Sixty-two decibels is a conversation. Your tomato has been talking at conversation volume since before you were born — you just never had the ears."
-  },
-  {
-   "id": "l5",
-   "text": "Ten centimeters. Not across the room — close enough to lean in. Your garden has been holding conversations at conversation volume your entire life."
-  },
-  {
-   "id": "l5b",
-   "text": "The paper estimates that an animal which hears ultrasound could pick up those clicks from three to five meters away. Your garden is not whispering. It is broadcasting."
-  },
-  {
-   "id": "l6",
-   "text": "Most of the sound energy peaks between forty and eighty kilohertz — fifty for the thirsty tomato, fifty-seven for the cut one. All of it above the twenty-kilohertz ceiling of human hearing."
-  },
-  {
-   "id": "l7",
-   "text": "The team fed the recordings to a machine-learning classifier. It could tell a drought-stressed plant from a cut one about seventy percent of the time. Not perfect. But far better than chance — and chance is all anyone had before March 2023."
-  },
-  {
-   "id": "l8",
-   "text": "Seventy percent is not a language. It's a hint — a suggestion that the clicks carry information about what's wrong. And a hint is all you need to start asking dangerous questions."
-  },
-  {
-   "id": "l9",
-   "text": "Because Hadany, the senior author, asked the one question nobody had asked: if the clicks travel through air, and they carry information — who might be listening?"
-  },
-  {
-   "id": "l10",
-   "text": "But before the listeners — the farmers found something stranger."
+   "id": "b6",
+   "section": "stress",
+   "text": "But a shield you never see is easy to ignore \u2014 until something gets through. Which brings us to the smallest, stupidest injury of your life. The paper cut.",
+   "interrupt": "structural",
+   "image": "Close-up of hand reaching for a sheet of paper, warm tones, a tiny teal spark at the fingertip, photorealistic, no text",
+   "overlay": "THE PAPER CUT",
+   "sfx": "riser",
+   "transition": "wipeleft",
+   "note": "chapter-end open loop 4: tease overlay + push-in + 1s riser"
   },
   {
    "id": "c1",
-   "text": "So what makes the click? The leading hypothesis is almost disappointingly physical. The xylem is plumbing, not poetry — and plumbing, it turns out, can scream."
+   "section": "invasion",
+   "text": "Chapter three: the invasion. A paper cut is nothing \u2014 a slit a fraction of a millimeter deep. And yet, the moment it happens, an entire defense grid lights up.",
+   "interrupt": "audio",
+   "image": "Paper edge slicing a fingertip, extreme macro, warm skin tones, photorealistic, dramatic side light, photorealistic, no text",
+   "overlay": null,
+   "sfx": "riser",
+   "transition": "wiperight",
+   "note": null
   },
   {
    "id": "c2",
-   "text": "Inside every stem run the xylem — microscopic tubes hauling water upward from the roots."
+   "section": "invasion",
+   "text": "Bacteria are everywhere \u2014 on the paper, on your skin, in the air itself. The cut is a doorway, and they pour toward it. Most never make it past the lobby. This is the moment the armor earns its name.",
+   "interrupt": "visual",
+   "image": "Bacteria swarming toward a breach in skin, teal battlefield microscopy, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": "INVASION",
+   "sfx": null,
+   "transition": "circleopen",
+   "note": null
   },
   {
    "id": "c3",
-   "text": "Under drought stress, the water column snaps. An air bubble forms — then collapses."
+   "section": "invasion",
+   "text": "You feel the sting and reach for a bandage. But before the bandage, something older is already moving: sweat, welling into the wound, carrying dermcidin straight to the breach.",
+   "interrupt": "character",
+   "image": "brown-haired young man in a blue hoodie wincing, examining a paper cut on his finger, warm indoor light, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "horzopen",
+   "note": null
   },
   {
    "id": "c4",
-   "text": "That collapse is the click. Not a voice. A plumbing accident, amplified."
+   "section": "invasion",
+   "text": "The mechanism has four moves. First: the gland. Coiled deep in your skin, it squeezes dermcidin into the sweat before the drop even surfaces.",
+   "interrupt": "structural",
+   "image": "ONE sweat-gland diagram asset, full view: coiled eccrine gland under skin layers, dermcidin molecules as glowing teal dots flowing upward, deep teal scientific diagram style, dark background, NO text, NO labels, NO letters",
+   "overlay": "1/4 THE GLAND",
+   "sfx": null,
+   "transition": "smoothup",
+   "note": "dataScene beat 1 of 4: staged reveal, one asset; c5-c7 are true crops of this"
   },
   {
    "id": "c5",
-   "text": "Hypothesis, not verdict. But it explains why thirst screams loudest — and why a cut stem snaps once, then goes quiet."
+   "section": "invasion",
+   "text": "Second: activation. The salt and mild acid of your sweat fold the protein into its working shape. Without them, dermcidin is a key that does not fit the lock.",
+   "interrupt": "audio",
+   "image": "TRUE CROP of the c4 gland asset, zoomed into the activation zone: salt crystals and acidic tint folding a protein ribbon, deep teal, no text",
+   "overlay": "2/4 SALT + ACID",
+   "sfx": null,
+   "transition": "pixelize",
+   "note": "dataScene beat 2: true crop of c4 asset"
+  },
+  {
+   "id": "c6",
+   "section": "invasion",
+   "text": "Third: the channels. Dermcidin molecules link up into tiny pores \u2014 and zinc ions already floating in your sweat lock them rigid, like rivets in a bridge.",
+   "interrupt": "visual",
+   "image": "TRUE CROP of the c4 gland asset, zoomed into channel formation: protein pores with glowing zinc spheres bracing them, deep teal, no text",
+   "overlay": "3/4 ZINC CHANNELS",
+   "sfx": null,
+   "transition": "wipeleft",
+   "note": "dataScene beat 3: true crop of c4 asset"
+  },
+  {
+   "id": "c7",
+   "section": "invasion",
+   "text": "Fourth: the breach. Those rigid channels punch into the bacterial membrane, and the cell leaks to death. This \u2014 right here \u2014 is the protein from the opening seconds, doing exactly what I promised.",
+   "interrupt": "structural",
+   "image": "TRUE CROP of the c4 gland asset, zoomed into membrane perforation: zinc-braced channels drilling through a bacterium's membrane, the TWIST visual, deep teal microscopy, no text",
+   "overlay": "4/4 BREACH",
+   "sfx": null,
+   "transition": "wiperight",
+   "note": "dataScene beat 4 = TWIST; a2 payoff flash reuses this exact asset"
+  },
+  {
+   "id": "c8",
+   "section": "invasion",
+   "text": "And it goes further than the usual suspects. In the laboratory, dermcidin even worked against mycobacterium tuberculosis \u2014 the bacterium behind TB. In the laboratory. That distinction matters, and I will come back to it.",
+   "interrupt": "audio",
+   "image": "Petri dish with tuberculosis bacteria colonies, a clear zone where dermcidin was applied, teal lab glow, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": "TB \u2014 IN THE LAB",
+   "sfx": "impact",
+   "transition": "circleopen",
+   "note": "uncertainty: TB result is a LAB finding, stated explicitly"
+  },
+  {
+   "id": "c9",
+   "section": "invasion",
+   "text": "Your paper cut heals, and you credit the bandage. But the first responder was the sweat you barely noticed \u2014 one layer of a front-line defense you wear every single day.",
+   "interrupt": "visual",
+   "image": "Healed fingertip, smooth skin, faint teal shimmer of renewed shield, warm skin tones, photorealistic, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "horzopen",
+   "note": null
+  },
+  {
+   "id": "c10",
+   "section": "invasion",
+   "text": "But dermcidin is not fighting alone. Your skin is a crowded city \u2014 and some of the residents are on your side. Meet the allies.",
+   "interrupt": "structural",
+   "image": "Microscopic city of diverse bacteria on skin surface, garrison lights glowing teal, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": "THE ALLIES",
+   "sfx": "riser",
+   "transition": "smoothup",
+   "note": "chapter-end open loop 5: tease overlay + push-in + 1s riser"
+  },
+  {
+   "id": "d1",
+   "section": "allies",
+   "text": "Chapter four: the allies. About two hundred species of bacteria live on your skin right now. Most are harmless. A few are hired guns.",
+   "interrupt": "audio",
+   "image": "Diverse skin bacteria colony city under microscope, hundreds of species, teal and amber glows, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": "200 SPECIES",
+   "sfx": "impact",
+   "transition": "pixelize",
+   "note": null
+  },
+  {
+   "id": "d2",
+   "section": "allies",
+   "text": "One of them is called staphylococcus hominis. It lives in your sweat glands \u2014 and it makes its own antibiotic, a chemical weapon aimed with sniper precision at MRSA, the drug-resistant staph that terrifies hospitals.",
+   "interrupt": "visual",
+   "image": "Staphylococcus hominis colony, friendly golden spheres among teal bacteria, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "wipeleft",
+   "note": null
+  },
+  {
+   "id": "d3",
+   "section": "allies",
+   "text": "You did not recruit it. You did not pay it. It just lives there, in the salty dark of your glands, murdering your enemies for rent. Your body outsourced part of its defense to a microbe \u2014 and the microbe delivers.",
+   "interrupt": "character",
+   "image": "brown-haired young man in a blue hoodie smiling, close-up of healthy glowing skin, warm light, teal shimmer, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "wiperight",
+   "note": null
+  },
+  {
+   "id": "d4",
+   "section": "allies",
+   "text": "Scientists at UC San Diego are turning that discovery into an eczema cream \u2014 borrowing the bacterium's weapon to calm inflamed skin. The trials are preliminary. Promising, but preliminary. This is not a pharmacy shelf yet.",
+   "interrupt": "audio",
+   "image": "Laboratory vials and cream research, scientist hands in gloves, teal lab glow, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "circleopen",
+   "note": "uncertainty: eczema cream = preliminary trials, stated explicitly"
+  },
+  {
+   "id": "d5",
+   "section": "allies",
+   "text": "Think about that number again: two hundred species, and evolution has tuned at least one of them to hunt the germ that beats our strongest drugs.",
+   "interrupt": "visual",
+   "image": "Visual comparison: two hundred tiny bacteria silhouettes surrounding one large MRSA invader, teal battlefield, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": "200 VS 1",
+   "sfx": null,
+   "transition": "horzopen",
+   "note": null
+  },
+  {
+   "id": "d6",
+   "section": "allies",
+   "text": "So your skin is a garrison: your own protein artillery, plus allied bacteria running patrols. Which raises an uncomfortable question about your daily routine.",
+   "interrupt": "structural",
+   "image": "brown-haired young man in a blue hoodie looking at his own hands thoughtfully, warm bathroom light, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "smoothup",
+   "note": null
+  },
+  {
+   "id": "d7",
+   "section": "allies",
+   "text": "Because twice a day, you do the one thing that strips the whole garrison away. You step into the shower.",
+   "interrupt": "visual",
+   "image": "Shower running, steam rising, teal shimmer washing down the drain, dramatic, photorealistic, no text",
+   "overlay": "THE SHOWER",
+   "sfx": "riser",
+   "transition": "pixelize",
+   "note": "chapter-end open loop 6: tease overlay + push-in + 1s riser"
+  },
+  {
+   "id": "e1",
+   "section": "betrayal",
+   "text": "Chapter five: the betrayal. Hot water, soap, scrubbing \u2014 the shower is a siege engine, and your armor is what it is besieging.",
+   "interrupt": "audio",
+   "image": "Shower water blasting across skin, teal armor visibly dissolving, dramatic slow motion, photorealistic, no text",
+   "overlay": null,
+   "sfx": "riser",
+   "transition": "wipeleft",
+   "note": null
+  },
+  {
+   "id": "e2",
+   "section": "betrayal",
+   "text": "Every wash rinses away the dermcidin layer and most of the two hundred species. The garrison does not surrender \u2014 it gets evicted. Soap does not distinguish between the invaders and the guards.",
+   "interrupt": "visual",
+   "image": "Dermcidin molecules and bacteria washing away in a drain swirl, teal fading to grey, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "wiperight",
+   "note": null
+  },
+  {
+   "id": "e3",
+   "section": "betrayal",
+   "text": "You step out feeling clean, and you are \u2014 the smell is gone, the grime is gone. But the shield is gone too, and the rebuild starts immediately.",
+   "interrupt": "character",
+   "image": "brown-haired young man in a blue hoodie stepping out of the shower with a towel, clean skin, warm bathroom light, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "circleopen",
+   "note": null
+  },
+  {
+   "id": "e4",
+   "section": "betrayal",
+   "text": "Here is the good news: within ten minutes of washing, your skin's bacteria start moving back in. Ten minutes \u2014 a timeline you can set a watch by.",
+   "interrupt": "structural",
+   "image": "Timeline visual: bacteria repopulating skin minute by minute, 0 to 10 minutes, teal regrowth spreading, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": "10 MINUTES",
+   "sfx": "impact",
+   "transition": "horzopen",
+   "note": null
+  },
+  {
+   "id": "e5",
+   "section": "betrayal",
+   "text": "One honest caveat: not everyone's armor is equal. Dermcidin levels vary from person to person \u2014 your shield might be a fortress and mine might be a fence. The science is still mapping why.",
+   "interrupt": "visual",
+   "image": "Split comparison: one person's strong bright teal skin shield versus another's fainter shield, warm skin tones, photorealistic, photorealistic, no text",
+   "overlay": "IT VARIES",
+   "sfx": null,
+   "transition": "smoothup",
+   "note": "uncertainty: individual variation, stated explicitly"
+  },
+  {
+   "id": "e6",
+   "section": "betrayal",
+   "text": "So here is the question nobody asks in the pharmacy aisle: if your sweat is medicine \u2014 do you really need to shower twice a day? Or are you washing away the armor?",
+   "interrupt": "structural",
+   "image": "brown-haired young man in a blue hoodie staring into a bathroom mirror, question in his eyes, warm light, slow cinematic feel, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "pixelize",
+   "note": "RHETORICAL-QUESTION beat: slower drift + music duck; 1.75s full silence after (gap)"
   },
   {
    "id": "f1",
-   "text": "Now walk the gift into a wheat field in a dry year. The farmer doesn't need a laboratory — she needs to know which row is thirsty before the leaves curl. She walks the rows at dawn, the way farmers have for ten thousand years — except this time, the field is talking back."
+   "section": "lab",
+   "text": "Chapter six: the lab. The year is 2001, and a team led by Birgit Schittek publishes a discovery in Nature Immunology: human sweat contains a brand-new antibiotic protein. Forty-seven amino acids. They name it dermcidin.",
+   "interrupt": "audio",
+   "image": "2001 laboratory, scientist at a bench discovering a glowing protein sample, teal lab glow, photorealistic, no text",
+   "overlay": "2001",
+   "sfx": "impact",
+   "transition": "wipeleft",
+   "note": null
   },
   {
    "id": "f2",
-   "text": "With your ears, you'd hear it weeks early: the clicking rising from twenty-five to fifty an hour as the soil dries. An early-warning system with no batteries."
-  },
-  {
-   "id": "f2b",
-   "text": "Think about what that replaces: soil probes, satellite maps, and a farmer's gut feeling — all outperformed by simply listening to the plants themselves."
+   "section": "lab",
+   "text": "Forty-seven amino acids \u2014 small enough to count, strange enough to matter. Nobody had ever seen a human antibiotic built quite like this one.",
+   "interrupt": "visual",
+   "image": "Protein ribbon of 47 units glowing teal against dark background, deep teal and cyan electron-microscopy style, dark background, scientific visualization, no text",
+   "overlay": "47 AMINO ACIDS",
+   "sfx": null,
+   "transition": "wiperight",
+   "note": null
   },
   {
    "id": "f3",
-   "text": "Researchers are already training sensors to do what your gift does — ultrasonic ears in the field, listening for the stress chorus, watering only the rows that scream."
+   "section": "lab",
+   "text": "Years later, researchers across Edinburgh, G\u00f6ttingen, T\u00fcbingen and Strasbourg cracked its atomic structure \u2014 published in PNAS \u2014 and found the zinc trick: the channels only hold their shape because zinc ions brace them. Without zinc, the pores collapse like a tent without poles.",
+   "interrupt": "character",
+   "image": "Scientist at an electron microscope, European lab montage feel, teal accents, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "circleopen",
+   "note": null
   },
   {
    "id": "f4",
-   "text": "Precision irrigation by eavesdropping. Less water, same harvest — because the plants told you exactly when they were thirsty. Roughly seventy percent of the world's freshwater goes to agriculture. Listening could save a river."
+   "section": "lab",
+   "text": "That is rare in biology \u2014 a weapon that needs its battlefield's chemistry to work. Salt to wake it, acid to shape it, zinc to arm it. Your workout is the assembly line.",
+   "interrupt": "audio",
+   "image": "Atomic model of a dermcidin channel, glowing zinc spheres bracing the structure, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "horzopen",
+   "note": null
   },
   {
    "id": "f5",
-   "text": "But the farm is only the practical half. The strange half is still waiting in the dark — because something out there has been listening all along."
+   "section": "lab",
+   "text": "The same PNAS work showed it killing tuberculosis bacteria. Let me be precise, because precision is the point: that happened in a laboratory dish. It is not a treatment. It is not a cure. Sweat does not cure disease \u2014 it is one layer of a front-line defense.",
+   "interrupt": "visual",
+   "image": "Tuberculosis bacteria versus dermcidin channels in a lab dish, teal battlefield, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": "TB \u2014 IN THE LAB",
+   "sfx": "impact",
+   "transition": "smoothup",
+   "note": "uncertainty: lab finding, NOT clinical; never claim sweat cures disease"
   },
   {
-   "id": "w1",
-   "text": "Back in Tel Aviv, two years after the clicks were recorded, the same labs asked Hadany's question properly. If plants scream in ultrasound — does anything answer?"
+   "id": "f6",
+   "section": "lab",
+   "text": "You will find blogs claiming dermcidin fights the flu. That claim is unverified \u2014 the studies do not show it, so this video will not either. A good shield does not need fairy tales.",
+   "interrupt": "structural",
+   "image": "Person scrolling a phone skeptically, warm light, teal accents, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "pixelize",
+   "note": "uncertainty: flu claim REJECTED explicitly on camera"
   },
   {
-   "id": "w2",
-   "text": "Enter the Egyptian cotton leafworm — a moth whose females choose where to lay their eggs. In 2025, researchers gave them a choice: a box playing the clicks of a thirsty tomato, or a silent box. Spodoptera littoralis — the Egyptian cotton leafworm. A moth nobody writes poems about, about to make scientific history."
+   "id": "f7",
+   "section": "lab",
+   "text": "So what do you do with a shield you have been washing down the drain? That is today.",
+   "interrupt": "visual",
+   "image": "brown-haired young man in a blue hoodie walking through a morning city, blue hoodie, warm light, faint teal shimmer on skin, photorealistic, no text",
+   "overlay": "TODAY",
+   "sfx": "riser",
+   "transition": "wipeleft",
+   "note": "chapter-end open loop 7: tease overlay + push-in + 1s riser"
   },
   {
-   "id": "w3",
-   "text": "The moths chose the sound box. A distressed plant, heard but not seen, beat no plant at all."
+   "id": "g1",
+   "section": "today",
+   "text": "Chapter seven: today. You do not need to change your life. But you might change one habit.",
+   "interrupt": "audio",
+   "image": "Sunrise over a city, brown-haired young man in a blue hoodie stretching on a balcony, blue hoodie, warm light, photorealistic, no text",
+   "overlay": null,
+   "sfx": "riser",
+   "transition": "wiperight",
+   "note": null
   },
   {
-   "id": "w4",
-   "text": "Then the researchers neutralized the moths' hearing organs — tiny ears on their bodies — and the preference vanished. It was never the smell. It was the sound."
+   "id": "g2",
+   "section": "today",
+   "text": "Remember what sweat is in this story: not a cure, not a miracle \u2014 one layer. Soap still matters. Deodorant still matters. Antibiotics still matter. The armor just deserves a vote.",
+   "interrupt": "visual",
+   "image": "Skin cross-section showing defense layers, outermost glowing teal shield, deep teal and cyan electron-microscopy style, dark background with warm skin tones, photorealistic, no text",
+   "overlay": "ONE LAYER",
+   "sfx": null,
+   "transition": "circleopen",
+   "note": null
   },
   {
-   "id": "w5",
-   "text": "With two healthy plants to choose from, the females picked the silent one. A screaming plant, it turns out, is a bad nursery — stressed hosts make weak offspring."
+   "id": "g3",
+   "section": "today",
+   "text": "Maybe the second shower becomes a rinse. Maybe the antibacterial soap \u2014 the one that nukes all two hundred species \u2014 stays in the cabinet on ordinary days.",
+   "interrupt": "character",
+   "image": "brown-haired young man in a blue hoodie choosing a shorter shower, smiling, warm bathroom light, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "horzopen",
+   "note": null
   },
   {
-   "id": "w5b",
-   "text": "The males got a control test — a generic ultrasound with no plant meaning behind it. They showed no preference at all. The females weren't reacting to sound. They were reacting to a message."
+   "id": "g4",
+   "section": "today",
+   "text": "And maybe, on your next run, when the sweat starts, you do not curse it. That is the artillery deploying. Those are the forty-seven amino acids clocking in \u2014 the same protein from the first seconds of this video, still on duty.",
+   "interrupt": "audio",
+   "image": "brown-haired young man in a blue hoodie running at sunset, sweat glowing teal in golden light, cinematic, photorealistic, no text",
+   "overlay": null,
+   "sfx": "whoosh",
+   "transition": "smoothup",
+   "note": null
   },
   {
-   "id": "w6",
-   "text": "One species. Lab playback, not the wild. Egg-laying decisions only. But it is the first time anyone has caught an animal answering a plant back."
+   "id": "g5",
+   "section": "today",
+   "text": "If your sweat is medicine \u2014 do you still shower twice a day, or do you let the armor stay? Tell us why.",
+   "interrupt": "structural",
+   "image": "brown-haired young man in a blue hoodie looking straight at camera, blue hoodie, warm confident light, photorealistic, no text",
+   "overlay": "YOUR TURN",
+   "sfx": null,
+   "transition": "pixelize",
+   "note": "COMMENT QUESTION: 1.5s VO pause + deeper bed duck after"
   },
   {
-   "id": "w7",
-   "text": "Not talking. Answering. The garden isn't a collection of silent objects — it's a room full of conversations you're not invited to."
+   "id": "g6",
+   "section": "today",
+   "text": "Science note, plainly stated: dermcidin levels vary between people; the tuberculosis and atomic-structure results are laboratory findings, not clinical treatments; the eczema cream is in early trials.",
+   "interrupt": "visual",
+   "image": "Microscopic battlefield panorama, dermcidin channels versus bacteria, deep teal and cyan electron-microscopy style, dark background, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "wipeleft",
+   "note": "uncertainty recap, explicit"
   },
   {
-   "id": "w8",
-   "text": "And moths are just the beginning. Bats navigate by ultrasound. Mice hear it. Other plants may feel it as vibration. The night garden is crowded with ears. Three to five meters — that is the paper's estimate for how far the clicks carry to ultrasonic ears. Your whole garden is within earshot. Just not yours."
+   "id": "g7",
+   "section": "today",
+   "text": "The named studies, so you can check me: Schittek and colleagues, Nature Immunology, 2001; Zachariae and colleagues, PNAS, on the atomic structure; and the UC San Diego team \u2014 Gallo and Nakatsuji \u2014 on sweat's antibiotic chemistry and the MRSA-hunting bacterium.",
+   "interrupt": "audio",
+   "image": "Lab notebook and petri dishes, teal lab glow, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "wiperight",
+   "note": "rule 24: named studies in VO"
   },
   {
-   "id": "q1",
-   "text": "So here is the uneasy question your gift leaves you with. If a moth can hear a plant's distress and act on it — what does the scream mean? A moth the size of your thumbnail can hear a thirsty tomato and change where its children are born. You, with all your engineering, hear nothing."
-  },
-  {
-   "id": "q2",
-   "text": "Not pain. Plants have no nervous system, no brain, nothing that could feel. The click is physics — a bubble collapsing in a tube."
-  },
-  {
-   "id": "q3",
-   "text": "'Scream' is our word, not theirs. Journalists needed a verb; the truth needed a paragraph. But the shorthand stuck — because it feels true."
-  },
-  {
-   "id": "q3b",
-   "text": "Does that make the scream a lie? No. It makes it a translation — our clumsy human word for a physical event we were never equipped to hear."
-  },
-  {
-   "id": "q4",
-   "text": "You wanted a superpower that would let you talk to nature. Instead you learned something stranger."
-  },
-  {
-   "id": "q5",
-   "text": "Nature was already talking — you were just deaf to it."
-  },
-  {
-   "id": "t1",
-   "text": "Tonight, walk into your garden and stand still. Somewhere in the dark, a tomato is clicking thirty times an hour at fifty kilohertz — holding a conversation at conversation volume."
-  },
-  {
-   "id": "t1b",
-   "text": "Fifty kilohertz. Thirty times an hour. Sixty-two decibels at ten centimeters. Numbers don't make it poetic — they make it undeniable."
-  },
-  {
-   "id": "t2",
-   "text": "You will never hear it. Your ears top out at twenty kilohertz, and evolution never filed the paperwork to upgrade them."
-  },
-  {
-   "id": "t3",
-   "text": "Maybe that's a mercy. Because once you've heard the garden complain, you can never un-hear it. The gift was never really about the plants. It was about discovering how much of the world happens outside your senses."
-  },
-  {
-   "id": "t4",
-   "text": "If you could hear your houseplants complain — would you water them more, or wish you'd never asked? Tell us in the comments."
-  },
-  {
-   "id": "t5",
-   "text": "The science is real, and the uncertainties are honest. The clicks were recorded by Khait and colleagues at Tel Aviv University, published in Cell in March 2023. The moths answered back in 2025 — Seltzer and colleagues, eLife. What the clicks mean is still an open question — and that is the most interesting part."
+   "id": "g8",
+   "section": "today",
+   "text": "You have been wearing armor your whole life. You just thought it was sweat.",
+   "interrupt": "character",
+   "image": "brown-haired young man in a blue hoodie walking away into morning light, blue hoodie, teal shimmer on skin, cinematic wide shot, photorealistic, no text",
+   "overlay": null,
+   "sfx": null,
+   "transition": "wipeleft",
+   "note": "closing line; hold on final frame"
   }
  ]
 }
