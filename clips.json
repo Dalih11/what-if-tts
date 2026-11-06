@@ -1,28 +1,200 @@
 {
  "clips": [
   {
-   "id": "s1",
-   "text": "Your sweat is medicine. Not metaphorically \u2014 chemically. A 47-amino-acid protein called dermcidin, made by your own skin, kills germs on contact."
+   "id": "a1",
+   "text": "Right now, an invisible force is passing straight through your body \u2014 and your brain may already be listening. In 2019, 34 people sat in a dark room while scientists rotated a magnetic field around their heads. Nobody felt a thing. Their brainwaves disagreed."
   },
   {
-   "id": "s2",
-   "text": "It wakes up in salt and acid \u2014 the exact chemistry of a workout \u2014 and punches holes in bacteria like E. coli and staph."
+   "id": "a2",
+   "text": "This is what those brainwaves were answering \u2014 a field you cannot see, that a bird might."
   },
   {
-   "id": "s3",
-   "text": "Your skin even hires allies: one resident bacterium makes its own antibiotic that hunts drug-resistant MRSA."
+   "id": "a3",
+   "text": "In the next nine minutes: the dark room where 34 brains answered a field nobody felt, the animals that navigate by it, the quantum trick inside a bird's eye, and the test \u2014 what your life would look like if you could feel it. It starts with the force passing through you right now."
   },
   {
-   "id": "s4",
-   "text": "And twice a day, you wash the whole army away. Hot water, soap, scrubbing \u2014 the shower is a siege engine."
+   "id": "a4",
+   "text": "You are standing inside it. Right now. It passes through your walls, your phone, your body \u2014 a magnetic field, generated 3,000 kilometres below your feet, in Earth's liquid iron core."
   },
   {
-   "id": "s5",
-   "text": "The good news: within ten minutes, the garrison starts moving back in. So here's the loop back to the start."
+   "id": "a5",
+   "text": "You cannot feel it. You have never felt it. And yet your compass finds north with it, your phone orients its maps with it, and migrating birds cross whole oceans with it."
   },
   {
-   "id": "s6",
-   "text": "Your sweat is an antibiotic. Every drop carries a 47-amino-acid protein that punches holes in germs \u2014 and your body makes it without asking, every single day."
+   "id": "a6",
+   "text": "The field is weak \u2014 about a hundred times weaker than a fridge magnet. A fridge magnet holds a shopping list. Earth's field holds the compass of every animal that migrates."
+  },
+  {
+   "id": "a7",
+   "text": "So the field is real, it is everywhere, and you are blind to it. Or are you? Because in 2019, scientists locked 34 people in the dark \u2014 and found something. That is the chamber."
+  },
+  {
+   "id": "b1",
+   "text": "Chapter two: the dark chamber. Caltech, California. A room built to keep the world out \u2014 no light, no sound, and a set of coils that could rotate a magnetic field around a person's head."
+  },
+  {
+   "id": "b2",
+   "text": "Thirty-four volunteers sat in that dark, one by one, wearing an EEG cap \u2014 a net of electrodes reading their brainwaves. The field around them turned, slowly, like an invisible hand on a dial."
+  },
+  {
+   "id": "b3",
+   "text": "Nobody felt anything. No tingling, no dizziness, no sense of direction. If you asked them, the answer was always the same: nothing happened. The brainwaves told a different story."
+  },
+  {
+   "id": "b4",
+   "text": "When the field rotated, a specific brain rhythm \u2014 the alpha wave \u2014 dropped. Scientists call that drop alpha-ERD. It is the same signature your brain gives when it notices a sound, a flash of light, a touch."
+  },
+  {
+   "id": "b5",
+   "text": "A drop in alpha means the brain detected something. Not imagined it. Detected it. The field moved, and 34 brains answered \u2014 while their owners felt nothing at all."
+  },
+  {
+   "id": "b6",
+   "text": "And here is the detail that makes it stranger: the response only fired for field directions that exist in nature \u2014 the way Earth's field actually points. Your brain, it seems, knows which way is down."
+  },
+  {
+   "id": "c1",
+   "text": "Chapter three: the animals. Because if a human brain can notice a magnetic field, the animal kingdom has been shouting about it for millions of years."
+  },
+  {
+   "id": "c2",
+   "text": "Start with the birds. A robin crosses continents at night and lands within metres of where it was born. No map. No GPS. Just the sky \u2014 and something in its eye."
+  },
+  {
+   "id": "c3",
+   "text": "In 2018, researchers found the suspect: a protein called cryptochrome 4, sitting in the retinas of robins and zebra finches. A light-sensitive molecule that may let a bird literally see the magnetic field."
+  },
+  {
+   "id": "c4",
+   "text": "Then the turtles. A baby sea turtle hatches on a beach, swims out to sea, and years later returns to the same beach to lay its own eggs. It navigates thousands of kilometres of open ocean \u2014 on a magnetic map."
+  },
+  {
+   "id": "c5",
+   "text": "And the dogs. Study after study found the same odd habit: dogs prefer to align their bodies along the north-south axis when they relieve themselves. Nobody trained them. The field is the only explanation that fits."
+  },
+  {
+   "id": "c6",
+   "text": "Three different animals, three different lives \u2014 one shared sense. Birds see it. Turtles map it. Dogs align to it. Which leaves the awkward question: what about us?"
+  },
+  {
+   "id": "c7",
+   "text": "Evolution does not usually keep expensive machinery it never uses. A sense costs energy, wiring, brain space. So if our brains answer the field \u2014 why would we keep a sense we cannot feel?"
+  },
+  {
+   "id": "d1",
+   "text": "Chapter four: the quantum trick. This is where the story goes strange \u2014 because the bird's compass may run on quantum physics."
+  },
+  {
+   "id": "d2",
+   "text": "Cryptochrome is a protein that reacts to light. When blue light hits it, it kicks off a pair of electrons that are quantum-entangled \u2014 linked, no matter the distance between them."
+  },
+  {
+   "id": "d3",
+   "text": "Those two electrons form what physicists call a radical pair. And a radical pair is exquisitely sensitive to magnetic fields \u2014 the field tips the balance of the pair, one way or the other."
+  },
+  {
+   "id": "d4",
+   "text": "The mechanism has four moves. First: the retina. Inside a robin's eye, cryptochrome 4 sits waiting in the light-sensitive cells \u2014 a compass built into the camera."
+  },
+  {
+   "id": "d5",
+   "text": "Second: the pair. Blue light strikes, and two electrons split into a radical pair \u2014 spinning together, entangled, ready to be tipped."
+  },
+  {
+   "id": "d6",
+   "text": "Third: the tip. Earth's magnetic field nudges the pair, changing how long it lasts. The field's direction changes the chemistry \u2014 north reads differently from south."
+  },
+  {
+   "id": "d7",
+   "text": "Fourth: the picture. That chemical difference may paint a pattern across the bird's vision \u2014 a shadow, a shimmer, a direction laid over the world. A compass you can see. This is the twist visual from the opening seconds."
+  },
+  {
+   "id": "d8",
+   "text": "One careful line: this is the bird's mechanism. It is proven in birds. What it means for humans is the next question \u2014 and the answer is more honest than you might expect."
+  },
+  {
+   "id": "e1",
+   "text": "Chapter five: the human question. We have the lab result \u2014 34 brains answering a field. We have the bird mechanism. What we do not have is a human version of it."
+  },
+  {
+   "id": "e2",
+   "text": "Here is the first limit: the response is subconscious only. No volunteer felt anything. There is no evidence it changes behaviour \u2014 no one navigates better, no one finds north. A brain response is not a sense you can use."
+  },
+  {
+   "id": "e3",
+   "text": "Second limit: replication is thin. The Caltech result has been seen again in Japan \u2014 and that is roughly it. A handful of labs, a small effect, a field that does not shout."
+  },
+  {
+   "id": "e4",
+   "text": "Third limit, and the most important: humans do carry cryptochromes \u2014 CRY1 and CRY2. But they are clock proteins. They run your circadian rhythm. Nobody has shown them to be magnetosensitive. We do not have the bird's mechanism \u2014 and this video will not pretend we do."
+  },
+  {
+   "id": "e5",
+   "text": "So why would evolution keep a response you cannot feel? Maybe it is a leftover \u2014 a navigation sense from an ancestor who needed it. Maybe it is a side effect of something else entirely. The honest answer is: we do not know."
+  },
+  {
+   "id": "e6",
+   "text": "Which leaves the strangest possibility of all. What if the sense is still there \u2014 quiet, unused, waiting \u2014 and all it needs is for you to learn to listen?"
+  },
+  {
+   "id": "f1",
+   "text": "Chapter six: the test. Imagine you wake up tomorrow and you can feel it. Not see it, not hear it \u2014 feel it, the way you feel which way is up."
+  },
+  {
+   "id": "f2",
+   "text": "North would be a tug. A gentle pull behind your left ear when you face south, a calm when you face north. No compass app. No signal bars. Just a direction, built in."
+  },
+  {
+   "id": "f3",
+   "text": "You would never get lost in a new city again. Every street would have a direction attached \u2014 that caf\u00e9 is north-east, home is south-west \u2014 and the map in your head would finally match the map in the world."
+  },
+  {
+   "id": "f4",
+   "text": "Your phone would become a backup, not a lifeline. The dead battery would stop being a crisis. The hiker, the sailor, the driver in a tunnel \u2014 all of them carrying their own north."
+  },
+  {
+   "id": "f5",
+   "text": "But a new sense has a price. A city full of power lines, trains, and magnets would buzz. Would the tug become noise? Would you long for the quiet of not knowing? Every sense has a cost \u2014 and this one would charge rent."
+  },
+  {
+   "id": "f6",
+   "text": "And one thing this story is not: the field is not disappearing. Other videos warn about the field switching off \u2014 solar wind, auroras, chaos. That is not this story. Here, the field stays. The only question is whether you can feel it."
+  },
+  {
+   "id": "f7",
+   "text": "So the test is not about the planet. It is about you \u2014 what you would do with a compass you were born with and never knew. That is today."
+  },
+  {
+   "id": "g1",
+   "text": "Chapter seven: today. You cannot feel the field today. But you can notice what it does \u2014 the compass in your pocket, the birds overhead, the turtles crossing oceans on a map you cannot read."
+  },
+  {
+   "id": "g2",
+   "text": "And you can remember the number: 34 people, one dark room, a brainwave drop nobody felt. That is how science finds a sense \u2014 not by asking what you feel, but by watching what your brain does."
+  },
+  {
+   "id": "g3",
+   "text": "Maybe the sense is a leftover. Maybe it is a byproduct. Maybe, one day, a lab will find the human mechanism and the quiet answer becomes a loud one. Until then, the honest version is enough."
+  },
+  {
+   "id": "g4",
+   "text": "Look up tonight. The aurora, if you are lucky, is the field made visible \u2014 charged particles sliding down the lines you cannot feel. Your brain may already be listening to the same lines."
+  },
+  {
+   "id": "g5",
+   "text": "If you woke up tomorrow with a built-in compass \u2014 what's the first place you'd go without GPS? Tell us why."
+  },
+  {
+   "id": "g6",
+   "text": "Science note, plainly stated: the brain response is subconscious only, with no evidence it changes behaviour; replication is limited; human CRY1 and CRY2 are circadian clock proteins, not shown to be magnetosensitive; and nobody is promising you a sixth sense."
+  },
+  {
+   "id": "g7",
+   "text": "The named studies, so you can check me: Wang and colleagues, eNeuro, 2019 \u2014 34 participants and the alpha-wave drop; the 2018 cryptochrome work in robins and zebra finches; and the Caltech human magnetic reception lab, whose dark chamber Derek Muller stepped into for Veritasium."
+  },
+  {
+   "id": "g8",
+   "text": "An invisible force is passing straight through your body right now. Your brain may already be listening. You just never learned to hear it."
   }
  ]
 }
