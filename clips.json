@@ -1,220 +1,28 @@
 {
  "clips": [
   {
-   "id": "a1",
-   "text": "You can barely last 30 seconds underwater \u2014 but one man fell asleep at the bottom of a pool and didn't breathe for 29 minutes. Your body already owns the machinery. You just never learned to use it."
+   "id": "s1",
+   "text": "What if you could hold your breath for an hour? Not with gills. With the body you already have."
   },
   {
-   "id": "a2",
-   "text": "This is what that machinery looks like \u2014 a diver, deep down, calm, while his body runs a survival mode you were born with."
+   "id": "s2",
+   "text": "One man fell asleep at the bottom of a pool and didn't breathe for 29 minutes. His body just... waited."
   },
   {
-   "id": "a3",
-   "text": "In the next nine minutes: the man who napped half an hour without breathing, the alarm that lies, the reflex in your face, and the test \u2014 what an hour underwater would buy you."
+   "id": "s3",
+   "text": "The urge to breathe isn't oxygen running out. It's carbon dioxide building up. Your alarm lies to you."
   },
   {
-   "id": "a4",
-   "text": "Try it in your head. You duck under. Ten seconds, easy. Twenty, your chest tightens. Thirty, and your body screams for air \u2014 though your blood is still nearly full of oxygen."
+   "id": "s4",
+   "text": "Cold water on your face slows your heart. Your spleen squeezes out extra oxygen. You were born with dive gear."
   },
   {
-   "id": "a5",
-   "text": "That scream is the wall. Most people hit it at thirty seconds. Trained freedivers swim straight past it. The difference is knowing what the scream means."
+   "id": "s5",
+   "text": "So here's the test: if you could hold your breath for an hour, what's the first thing you'd do underwater?"
   },
   {
-   "id": "a6",
-   "text": "Picture a fuel gauge flashing empty when the tank is still three-quarters full. That is your urge to breathe. Tonight, we read the real gauge."
-  },
-  {
-   "id": "a7",
-   "text": "The wall is real, the panic is real \u2014 and the panic is wrong. To see how wrong, meet the man who fell asleep at the bottom of a pool. That is the record."
-  },
-  {
-   "id": "b1",
-   "text": "Chapter two: the record. Opatija, Croatia, the 14th of June 2025. A pool, a man lying on the bottom, and a stopwatch that kept running past every limit you have felt."
-  },
-  {
-   "id": "b2",
-   "text": "Vitomir Maricic stayed down for 29 minutes and 3 seconds \u2014 29:03.07, a Guinness World Record. Before he went under, he breathed pure oxygen for ten minutes. That detail matters."
-  },
-  {
-   "id": "b3",
-   "text": "The man before him, Budimir Sobat, held his breath 24 minutes and 37 seconds in Sisak, in 2021 \u2014 and fell asleep mid-hold. Asleep. Underwater. Not breathing. For nearly twenty-five minutes."
-  },
-  {
-   "id": "b4",
-   "text": "Now the honest version. Both records used pure-oxygen pre-breathing, which the Guinness category allows. Without oxygen, the official record is 11 minutes 35 seconds \u2014 Stephane Mifsud, 2009. Still twenty-three times your thirty seconds."
-  },
-  {
-   "id": "b5",
-   "text": "The women's oxygen record is Karoline Meyer's \u2014 18 minutes 32 seconds, also 2009. The lineage runs back to 1959, when Robert Foster held his breath for 13 minutes 42 seconds, before any of this science existed."
-  },
-  {
-   "id": "b6",
-   "text": "So humans can already hold their breath for half an hour \u2014 with help. The question is what the help does. The answer is not bigger lungs. It is a gauge that lies. That is the alarm."
-  },
-  {
-   "id": "c1",
-   "text": "Chapter three: the alarm is a lie. Here is the twist your body never told you \u2014 the urge to breathe is not oxygen running out. It is carbon dioxide building up."
-  },
-  {
-   "id": "c2",
-   "text": "Every breath out removes CO2. Hold your breath, and it climbs. Your brain watches CO2 like a smoke alarm watches smoke \u2014 and it screams long before any fire."
-  },
-  {
-   "id": "c3",
-   "text": "At thirty seconds, your oxygen is barely dented. You could keep going for minutes. But the CO2 alarm is at full volume \u2014 and you obey the alarm, not the tank."
-  },
-  {
-   "id": "c4",
-   "text": "That is why the first minute feels like drowning and the second, for a trained diver, feels almost calm. The alarm peaks. Then your body learns it is crying wolf."
-  },
-  {
-   "id": "c5",
-   "text": "Your diaphragm starts to contract \u2014 little spasms, like hiccups from inside. Beginners read them as an emergency. Freedivers read them as a timetable."
-  },
-  {
-   "id": "c7",
-   "text": "So the urge to breathe is a smoke alarm, not a fuel gauge. But if the alarm is lying, what keeps you alive down there? The answer is in your face. That is the reflex."
-  },
-  {
-   "id": "d1",
-   "text": "Chapter four: the reflex. Splash cold water on your face and something ancient wakes up \u2014 the dive reflex, the wiring that lets whales dive for hours."
-  },
-  {
-   "id": "d2",
-   "text": "Step one: your heart slows. The moment cold water touches your face, your heart rate drops \u2014 bradycardia \u2014 by a third, sometimes by half. A slow heart burns oxygen slower."
-  },
-  {
-   "id": "d3",
-   "text": "Step two: your blood reroutes. Vessels in your arms and legs tighten, pushing blood to the organs that cannot wait \u2014 your brain and your heart. The rest of your body is put on hold."
-  },
-  {
-   "id": "d4",
-   "text": "The mechanism has four moves. First: the face. Cold receptors around your eyes and nose send the signal \u2014 not a decision, a reflex, the same one that makes you gasp."
-  },
-  {
-   "id": "d5",
-   "text": "Second: the slowdown. The vagus nerve tells the heart to ease off, beat by beat, stretching every molecule of oxygen."
-  },
-  {
-   "id": "d6",
-   "text": "Third: the reroute. Blood leaves the limbs and floods the core, and the whale shows how far this goes \u2014 a Cuvier's beaked whale once held its breath 3 hours 42 minutes."
-  },
-  {
-   "id": "d7",
-   "text": "Fourth: the picture. Heart slow, blood central, oxygen rationed \u2014 a survival mode you were born with, running under your skin. This is the twist visual from the opening seconds."
-  },
-  {
-   "id": "d8",
-   "text": "One careful line: the reflex helps, but it is no superpower. It buys minutes, not hours. The hours need a tank \u2014 and you carry one. That is the spleen."
-  },
-  {
-   "id": "e1",
-   "text": "Chapter five: the tank. Tucked under your ribs sits a fist-sized organ you almost never think about \u2014 your spleen. It is a spare oxygen tank you have never used."
-  },
-  {
-   "id": "e2",
-   "text": "When you hold your breath, your spleen contracts \u2014 squeezing stored red blood cells into circulation. More red cells, more oxygen carried, exactly when you need it."
-  },
-  {
-   "id": "e3",
-   "text": "The squeeze is small in most of us, a few percent. But in people who dive for a living, the tank is bigger \u2014 and that is where the story moves to the sea."
-  },
-  {
-   "id": "e4",
-   "text": "Meet the Bajau, sea nomads of Southeast Asia, diving for food for generations \u2014 eight hours a day in the water, sixty percent of it underwater, down past seventy metres."
-  },
-  {
-   "id": "e5",
-   "text": "In 2018, Melissa Ilardo's team scanned their spleens. The Bajau spleen is around fifty percent larger than their neighbours', the Saluan \u2014 and the Bajau carry a variant of a gene, PDE10A, linked to spleen size."
-  },
-  {
-   "id": "e6",
-   "text": "Fifty percent larger. A bigger tank, built by generations of diving. But keep the honest boundary: this is an association, not a proven cause \u2014 fifty-nine Bajau against thirty-four Saluan \u2014 a small sample, and genes are not destiny."
-  },
-  {
-   "id": "e7",
-   "text": "And the famous number needs the same honesty: you will hear the Bajau dive for thirteen minutes. There is no documented record of that. Ilardo's dives lasted thirty seconds to several minutes \u2014 impressive, human, and real."
-  },
-  {
-   "id": "e8",
-   "text": "So the tank is real, the reflex is real, and the alarm lies. Which means a trained person can push and push \u2014 until the gauge itself becomes the danger. That is the blackout."
-  },
-  {
-   "id": "f1",
-   "text": "Chapter six: the danger. Because everything so far sounds like a trick \u2014 fool the alarm, slow the heart, squeeze the tank, hold your breath for an hour. Here is why that trick can kill you."
-  },
-  {
-   "id": "f2",
-   "text": "The trick has a name: hyperventilation. Breathe fast and deep before a dive, and you blow off CO2. The alarm goes quiet. You feel ready. You are not \u2014 you only muted the smoke alarm."
-  },
-  {
-   "id": "f3",
-   "text": "Underwater, your oxygen keeps falling while the alarm stays silent. You feel fine. Then, with no warning, your brain runs out of oxygen \u2014 and you black out. In the water. Alone."
-  },
-  {
-   "id": "f4",
-   "text": "That is shallow-water blackout, and it kills trained swimmers \u2014 strong, fit people who felt fine seconds before. The blackout gives no warning by design, because the warning was the alarm you muted."
-  },
-  {
-   "id": "f5",
-   "text": "So here is the question the story turns on: if the gauge is the only thing keeping you alive \u2014 is ignoring it wisdom, or the most dangerous lesson your body can teach?"
-  },
-  {
-   "id": "f6",
-   "text": "The rule is absolute: never dive alone, never hyperventilate before a dive, and never treat this video as a diving guide. Hold that thought \u2014 the test is next."
-  },
-  {
-   "id": "g1",
-   "text": "Chapter seven: the test. So what would an hour underwater buy you? Not gills \u2014 this is not about growing gills. It is about the breath you are already holding, stretched to its limit."
-  },
-  {
-   "id": "g2",
-   "text": "One hour is a Bajau work shift as your afternoon. Down at seventy metres, the light goes blue, then black, and the reef becomes a world you visit, not a picture."
-  },
-  {
-   "id": "g3",
-   "text": "You could walk a reef like a street \u2014 no tank, no bubbles giving you away, fish that do not flee because you sound like the water."
-  },
-  {
-   "id": "g4",
-   "text": "You could search a wreck, follow a whale, or sit on the sea floor and watch the light move \u2014 the way Maricic sat, and Sobat fell asleep, calm where panic should have been."
-  },
-  {
-   "id": "g5",
-   "text": "But the hour has a price: the cold, the pressure, the blackout at the edge. The hour is not free. It is rented \u2014 from a body that collects, with interest, if you forget the rules."
-  },
-  {
-   "id": "g6",
-   "text": "So the test is not whether you could survive an hour underwater. It is whether you would want to \u2014 what you would do with it, and what you would risk. That is today."
-  },
-  {
-   "id": "h1",
-   "text": "Chapter eight: today. You cannot hold your breath for an hour. But you can notice what you already own \u2014 the alarm, the reflex, the tank \u2014 running quietly under every breath."
-  },
-  {
-   "id": "h2",
-   "text": "Remember the numbers: 29 minutes and 3 seconds with oxygen, 11 minutes 35 without it, a whale at 3 hours 42, and a spleen fifty percent larger in divers."
-  },
-  {
-   "id": "h3",
-   "text": "Maybe one day a lab will find how far the gauge can be trained. Until then, the honest version is enough \u2014 and the pool is still the safest place to feel it."
-  },
-  {
-   "id": "h4",
-   "text": "If you could hold your breath for an hour \u2014 what's the first thing you'd do underwater? Tell us why."
-  },
-  {
-   "id": "h5",
-   "text": "Science note, plainly: the 29:03 and 24:37 records used pure-oxygen pre-breathing; the Bajau thirteen minutes is undocumented; spleen size is an association, not proven cause; shallow-water blackout kills \u2014 never dive alone, never hyperventilate."
-  },
-  {
-   "id": "h6",
-   "text": "The named studies, so you can check me: Guinness, 2025 \u2014 Maricic 29:03.07 in Opatija; Sobat 24:37.36 in Sisak, 2021; Ilardo and colleagues, Cell, 2018 \u2014 Bajau spleens and PDE10A; and Schorr and colleagues, 2014 \u2014 the whale at 3 hours 42."
-  },
-  {
-   "id": "h7",
-   "text": "You can barely last thirty seconds \u2014 and your body already owns the machinery for twenty-nine minutes. You just never learned to use it. Now you know why."
+   "id": "s6",
+   "text": "You can barely last 30 seconds underwater \u2014 but one man fell asleep at the bottom of a pool and didn't breathe for 29 minutes."
   }
  ]
 }
