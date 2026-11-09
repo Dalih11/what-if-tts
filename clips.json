@@ -1,196 +1,28 @@
 {
  "clips": [
   {
-   "id": "a1",
-   "text": "A stranger stubs their toe across the street \u2014 and the pain shoots through YOUR foot. For 1 in 60 people, that isn't empathy. That's an ordinary Tuesday."
+   "id": "s1",
+   "text": "A stranger stubs his toe across the street \u2014 and the pain shoots through YOUR foot."
   },
   {
-   "id": "a2",
-   "text": "Hold on to this picture \u2014 your own reflection, flinching a beat before you do, in a mirror that feels what you feel."
+   "id": "s2",
+   "text": "For one person in sixty, that is not empathy. That is an ordinary Tuesday. Every handshake, every slap, every hug echoes on their skin."
   },
   {
-   "id": "a3",
-   "text": "In the next nine minutes: the morning crowd where every touch echoes, the laboratory where sixteen couples proved your brain already feels for others, the doctor who feels his patients' pain, and the question at the end \u2014 would you keep this gift, or give it back?"
+   "id": "s3",
+   "text": "Your brain already simulates other people's pain. In the lab, sixteen couples proved it: the emotional half of the pain network lights up when a loved one is hurt."
   },
   {
-   "id": "a4",
-   "text": "You wake up and something is wrong before you open your eyes. Your left foot throbs. You look down. Nothing there. No bruise, no swelling. Then, through the window, you see him \u2014 a stranger, hopping on one foot, cursing a kerb."
+   "id": "s4",
+   "text": "In one person in sixty, the simulation crosses the line. A doctor feels his patients' spinal taps in his own back."
   },
   {
-   "id": "a5",
-   "text": "You did not stub your toe. He did. And yet the sting is sitting in your foot like it belongs there. For about ten seconds, you think you are imagining it. You are not."
+   "id": "s5",
+   "text": "Horror movies become unbearable. A stranger's grief sits in your chest. There is no off switch."
   },
   {
-   "id": "a6",
-   "text": "You say the words everyone says, the words you have said a hundred times without thinking: I feel your pain. Today, for the first time, they are literally true."
-  },
-  {
-   "id": "a7",
-   "text": "About one person in sixty lives like this every day \u2014 not metaphorically, not as a figure of speech. And the reason starts with a fact about your brain you were never told. That is the crowd."
-  },
-  {
-   "id": "b1",
-   "text": "Chapter two: the crowd. You step outside, and the city becomes a minefield of other people's bodies. A handshake lands on your palm. A slap on a friend's back stings between your shoulders. A hug squeezes your ribs."
-  },
-  {
-   "id": "b2",
-   "text": "Every touch echoes. Not imagined, not remembered \u2014 felt. A tap on someone else's shoulder arrives on yours, at the same spot, in the same instant, like a letter delivered to the wrong address."
-  },
-  {
-   "id": "b3",
-   "text": "Scientists call it mirror-touch synesthesia. In 2009, Banissy and colleagues tested a general sample of the population and found it in about one point six percent \u2014 roughly one person in sixty. One study, one estimate \u2014 but the people in it were unmistakable."
-  },
-  {
-   "id": "b4",
-   "text": "Some feel it mirrored, like looking in a mirror: a touch on someone's left cheek lands on your right. Others feel it shared, on the same side, as if your bodies were lined up. Two wiring diagrams, one strange result."
-  },
-  {
-   "id": "b5",
-   "text": "And here is the part that matters most: they are not confused. They know perfectly well the touch is not happening to them. They can tell your body from theirs \u2014 they just feel it anyway."
-  },
-  {
-   "id": "b6",
-   "text": "So it is not imagination. It is not confusion. It is a crossed wire in the brain's mirror system \u2014 and to understand the wire, you have to go into the laboratory. That is the mirror."
-  },
-  {
-   "id": "c1",
-   "text": "Chapter three: the mirror in your head. In 2004, Tania Singer and her team at University College London ran an experiment so simple it sounds like a parlour trick \u2014 and it changed how we think about empathy."
-  },
-  {
-   "id": "c2",
-   "text": "Sixteen couples. One partner lies in the scanner. The other sits beside them, holding their hand. A small electric shock is delivered \u2014 sometimes to the person in the scanner, sometimes to the partner they love."
-  },
-  {
-   "id": "c3",
-   "text": "When the shock hit their own hand, the whole pain network lit up \u2014 the sensory half that maps where it hurts, and the emotional half that makes it matter. When it hit their partner's hand, only half the network lit up."
-  },
-  {
-   "id": "c4",
-   "text": "The half that lit up was the affective half: the anterior insula and the rostral anterior cingulate cortex. The sensory half, the part that tells you where it hurts, stayed quiet. That is why empathy does not feel like pain in your own hand."
-  },
-  {
-   "id": "c5",
-   "text": "The mechanism has four moves. First: the signal. A loved one is hurt, and your brain's emotional alarm fires \u2014 the insula and the cingulate, the same regions that fire when you are hurt yourself."
-  },
-  {
-   "id": "c6",
-   "text": "Second: the gate. In most of us, the signal stops there. The sensory cortex stays out of it \u2014 the gate holds, and empathy stays a feeling, not a sensation."
-  },
-  {
-   "id": "c7",
-   "text": "Third: the correlation. The stronger the empathy scores, the stronger the insula and cingulate fired. The link is real \u2014 but it is a correlation, not proof that the trait causes the empathy, or the other way round."
-  },
-  {
-   "id": "c8",
-   "text": "Fourth: the crossing. In mirror-touch synesthetes, the gate opens. The sensory cortex joins in \u2014 and a tap on someone else's shoulder lands on theirs. Your brain already simulates other people's pain. In one person in sixty, the simulation crosses the line into feeling. That is the doctor."
-  },
-  {
-   "id": "d1",
-   "text": "Chapter four: the doctor who feels his patients. Joel Salinas, a Harvard-trained neurologist at Massachusetts General Hospital, has mirror-touch synesthesia. His consulting room is a place where the gate never closes."
-  },
-  {
-   "id": "d2",
-   "text": "When he performs a spinal tap, he feels the needle entering his own lower back. Not a metaphor. Not a wince of sympathy. The pressure, the depth, the sting \u2014 in his body, at the same moment."
-  },
-  {
-   "id": "d3",
-   "text": "A disoriented patient grows angry, and the rage lands in him too \u2014 his own mood tilting, his own pulse rising, as if the emotion had walked across the room and put on his skin."
-  },
-  {
-   "id": "d4",
-   "text": "And when a patient dies, his body feels vacant and lifeless, like a limp balloon. The echo stops, and the silence where a person used to be is something he feels in his own chest."
-  },
-  {
-   "id": "d5",
-   "text": "He calls it compulsory mindfulness \u2014 he cannot look away from what another person is going through, because his body will not let him. But remember: Salinas is one man. His case is his own, not a template for every synesthete."
-  },
-  {
-   "id": "d6",
-   "text": "A doctor who cannot switch off his patients' pain sounds like a gift. In practice, it is a door that never closes \u2014 and the price of an open door is paid every single day. That is the price."
-  },
-  {
-   "id": "e1",
-   "text": "Chapter five: the price. If you felt every touch around you, your life would change in ways that sound small until you live them. Start with the cinema."
-  },
-  {
-   "id": "e2",
-   "text": "A horror movie becomes unbearable. Every punch, every cut, every fall on screen lands on your skin. it is the slow scenes, the long injuries, that you cannot sit through."
-  },
-  {
-   "id": "e3",
-   "text": "Then there is the harder part. A stranger's grief, sitting in your chest on the bus. A child's scraped knee, stinging your own. You did not ask for any of it, and there is no button to turn it off."
-  },
-  {
-   "id": "e4",
-   "text": "And pain is the rarer variant. Most mirror-touch synesthetes feel touch \u2014 a tap, a brush, a squeeze. Feeling actual pain, mirror-pain, is rarer still. Do not confuse the two: a tap is common, the pain itself is the exception."
-  },
-  {
-   "id": "e5",
-   "text": "The day has four marks. Morning: the stubbed toe, the first echo before breakfast. Midday: the handshake, the slap, the hug \u2014 a hundred small touches, each one arriving twice."
-  },
-  {
-   "id": "e6",
-   "text": "Afternoon: the crowded train, the queue, the accidental bump that lands on your ribs like it was aimed at you. The echoes do not get quieter. You just get tired of flinching."
-  },
-  {
-   "id": "e7",
-   "text": "Evening: the film, the news, the stranger on the television wincing \u2014 and your own cheek stinging. Even at a distance, even through a screen, the mirror keeps working."
-  },
-  {
-   "id": "e8",
-   "text": "Night: you lie awake and count the echoes, and the count is the point. One in sixty people do not get to choose when the mirror turns on. The gift is real. The cost is real too. That is the test."
-  },
-  {
-   "id": "f1",
-   "text": "Chapter six: the test. You have felt a stranger's toe, a crowd's touches, a doctor's patients. Now the choice is yours: keep the gift, or give it back?"
-  },
-  {
-   "id": "f2",
-   "text": "Keep it, and you would never misunderstand another person again. You would know, in your body, what a handshake costs a nervous stranger, what a fall costs an old woman, what grief weighs."
-  },
-  {
-   "id": "f3",
-   "text": "But every one of those understandings spends the same currency \u2014 your own skin. The handshake, the fall, the grief: each one arrives on you, uninvited, and there is no refund."
-  },
-  {
-   "id": "f4",
-   "text": "So you start choosing. A day of feeling everything, or a lifetime of feeling only your own? The mirror says keep it. Your skin says give it back. And the question will not go away."
-  },
-  {
-   "id": "f5",
-   "text": "So here is the question the story turns on: if you could feel everyone else's pain for one day \u2014 and then never again \u2014 would you spend the day, or hide from it?"
-  },
-  {
-   "id": "f6",
-   "text": "There is no right answer. There is only the answer you would give \u2014 and that answer says something about you. Which brings us to today. That is the choice."
-  },
-  {
-   "id": "g1",
-   "text": "Chapter seven: today. You still feel only your own pain, your own touches, your own skin. Nothing about you has changed \u2014 except now you know what your brain is doing every time you wince at someone else's fall."
-  },
-  {
-   "id": "g2",
-   "text": "Remember the numbers: about one person in sixty, sixteen couples in a scanner, and two halves of the pain network \u2014 one that feels, one that stays quiet."
-  },
-  {
-   "id": "g3",
-   "text": "Maybe one day a lab will find the switch that opens the gate \u2014 or closes it for those who need quiet. Until then, the honest version is enough: your brain already feels for other people. The mirror is in you, whether it crosses the line or not."
-  },
-  {
-   "id": "g4",
-   "text": "If you felt everyone else's pain for one day \u2014 what's the first thing you'd avoid? Tell us why."
-  },
-  {
-   "id": "g5",
-   "text": "Science note, plainly: the one-in-sixty figure is one study's estimate, not a census; synesthetes know the touch is not theirs; Singer's result is about the emotional half of pain, not the sensory half; mirror-pain is rarer than mirror-touch; and this video is not medical advice."
-  },
-  {
-   "id": "g6",
-   "text": "The named studies, so you can check me: Banissy and colleagues, 2009, in Experimental Brain Research \u2014 the one-point-six percent estimate; Singer and colleagues, 2004, in Science \u2014 sixteen couples and the two halves of pain; Ward and Banissy, 2015; and Salinas, Mirror Touch, 2017."
-  },
-  {
-   "id": "g7",
-   "text": "A stranger stubs their toe across the street \u2014 and for one person in sixty, the pain shoots through their foot. You already feel for other people. Now you know why."
+   "id": "s6",
+   "text": "A stranger stubs his toe across the street \u2014 and the pain shoots through YOUR foot. Would you keep the gift, or give it back?"
   }
  ]
 }
