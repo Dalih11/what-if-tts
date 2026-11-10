@@ -1,28 +1,196 @@
 {
  "clips": [
   {
-   "id": "s1",
-   "text": "A stranger stubs his toe across the street \u2014 and the pain shoots through YOUR foot."
+   "id": "a1",
+   "text": "Your body is 60% water \u2014 and fewer than 100 people on Earth are allergic to it."
   },
   {
-   "id": "s2",
-   "text": "For one person in sixty, that is not empathy. That is an ordinary Tuesday. Every handshake, every slap, every hug echoes on their skin."
+   "id": "a2",
+   "text": "Hold on to this picture \u2014 skin, breaking out in red hives, from nothing but a drop of plain water."
   },
   {
-   "id": "s3",
-   "text": "Your brain already simulates other people's pain. In the lab, sixteen couples proved it: the emotional half of the pain network lights up when a loved one is hurt."
+   "id": "a3",
+   "text": "In the next nine minutes: the shower you cannot take, the rain on your commute, your own sweat turning on you, the 1964 laboratory, and the question at the end \u2014 what would you give up first?"
   },
   {
-   "id": "s4",
-   "text": "In one person in sixty, the simulation crosses the line. A doctor feels his patients' spinal taps in his own back."
+   "id": "a4",
+   "text": "You wake up, and the first thing you do is the thing you cannot do. You stand in front of the shower, hand on the tap, and you do not turn it on. For you, a hot shower is a rash waiting to happen."
   },
   {
-   "id": "s5",
-   "text": "Horror movies become unbearable. A stranger's grief sits in your chest. There is no off switch."
+   "id": "a5",
+   "text": "It is only water. Clear, clean, ordinary water. The same water you drank yesterday, the same water falling on the roof right now. For about ten seconds, you think your skin is overreacting. It is not."
   },
   {
-   "id": "s6",
-   "text": "A stranger stubs his toe across the street \u2014 and the pain shoots through YOUR foot. Would you keep the gift, or give it back?"
+   "id": "a6",
+   "text": "Within twenty minutes, the hives arrive \u2014 red, raised, burning welts, exactly where the water touched you. Not everywhere. Only where the drops landed, like a map of the rain itself."
+  },
+  {
+   "id": "a7",
+   "text": "Fewer than one hundred people in the world live like this \u2014 fewer than a hundred cases ever reported in the medical literature. And the reason starts with something you do every morning without thinking. That is the rain."
+  },
+  {
+   "id": "b1",
+   "text": "Chapter two: the rain. You step outside, umbrella up, hood up, and the city does not care. A bus splashes a puddle across your legs. A drip finds the gap at your collar. Every drop is an appointment with your own skin."
+  },
+  {
+   "id": "b2",
+   "text": "Rain on your skin is not refreshing. It stings, then it itches, then the hives bloom \u2014 each drop a small red island, spreading until your forearm looks like a map of somewhere painful."
+  },
+  {
+   "id": "b3",
+   "text": "Doctors call it aquagenic urticaria \u2014 hives brought on by water. A 2017 review found only thirty-seven cases since 1964. A later review puts the total at around one hundred. Either way, it is one of the rarest conditions a dermatologist will ever see."
+  },
+  {
+   "id": "b4",
+   "text": "The pattern is almost polite. The hives appear within twenty to thirty minutes of contact, and fade within thirty to sixty. No swelling of the throat, no closing airway \u2014 just your skin, protesting water, and then forgiving it."
+  },
+  {
+   "id": "b5",
+   "text": "And here is the part that sounds impossible: most patients can still drink water. The reaction is on the skin only. A glass of water goes down fine. It is the outside of you that cannot stand it."
+  },
+  {
+   "id": "b6",
+   "text": "So the water you drink is safe, and the water that touches you is not. The difference is your skin \u2014 and what it does with water is where this story gets strange. That is the sweat."
+  },
+  {
+   "id": "c1",
+   "text": "Chapter three: the workout. You lace up your shoes, you start to run, and ten minutes in, your own body turns on you. Because sweat is water too \u2014 and your skin does not know the difference."
+  },
+  {
+   "id": "c2",
+   "text": "Your own sweat breaks you out. The harder you run, the worse it gets \u2014 hives blooming across your back and chest, as if your body were allergic to its own effort. The workout that should make you feel alive attacks your skin."
+  },
+  {
+   "id": "c3",
+   "text": "Remember the number: your body is about sixty percent water. Blood, sweat, tears, saliva \u2014 all of it water, all of it you. The substance you are made of is the one your skin cannot tolerate from the outside."
+  },
+  {
+   "id": "c4",
+   "text": "Tears count too. So does saliva. A sad film, a yawn, a kiss \u2014 any of it can set the hives off. Your body is not just reacting to the weather. It is reacting to itself."
+  },
+  {
+   "id": "c5",
+   "text": "The mechanism has four moves. First: the contact. Water touches your skin, and something in the skin's natural oils \u2014 the sebum \u2014 reacts with it, forming a substance that should not be there."
+  },
+  {
+   "id": "c6",
+   "text": "Second: the signal. That substance acts like a histamine liberator \u2014 a chemical key that tells the mast cells in your skin to open up and dump histamine, the same chemical behind a nettle sting."
+  },
+  {
+   "id": "c7",
+   "text": "Third: the hives. The histamine makes the tiny blood vessels under your skin leak a little fluid, and the skin swells into red, raised welts \u2014 exactly where the water touched, nowhere else."
+  },
+  {
+   "id": "c8",
+   "text": "Fourth: the mystery. Nobody has ever proven the sebum theory. It is the leading hypothesis from 1964, and sixty years later, the true cause is still unknown. That is the evening."
+  },
+  {
+   "id": "d1",
+   "text": "Chapter four: the evening. You are on the sofa, watching a sad film, and the tears come \u2014 and with them, the hives. The cruelest twist is not the rain. It is that your own feelings can set it off."
+  },
+  {
+   "id": "d2",
+   "text": "You cry, and your cheeks break out. Not from the film. From the tears themselves \u2014 salt water, your own salt water, running down your own face and raising hives in its path."
+  },
+  {
+   "id": "d3",
+   "text": "Think about what that means. Every emotion that makes you cry \u2014 grief, joy, a wedding, a goodbye \u2014 comes with a price on your skin. The body that feels everything cannot even weep in peace."
+  },
+  {
+   "id": "d4",
+   "text": "Tessa Hansen-Smith, from California, has lived with this since she was eight. She showers twice a month. Her tears, her sweat, her saliva \u2014 all of them break her out. In the most severe cases, even drinking water burns."
+  },
+  {
+   "id": "d5",
+   "text": "Rachel Warwick, in Britain, showers once a week \u2014 and plans her whole life around it. The washing, the swimming, the rainy days other people barely notice: every one of them is a negotiation."
+  },
+  {
+   "id": "d6",
+   "text": "Two women, two lives built around avoiding water. And yet neither of them is allergic in the way you think \u2014 because this is not a true allergy at all. That is the laboratory."
+  },
+  {
+   "id": "e1",
+   "text": "Chapter five: the laboratory. In 1964, two doctors in America, Shelley and Rawnsley, met a patient whose skin broke out after a swim \u2014 and they tested the water itself."
+  },
+  {
+   "id": "e2",
+   "text": "They tried everything. Tap water, distilled water, sea water, rain water \u2014 every kind raised the hives. Temperature did not matter. It was the water itself. That was the first clue, and it is still the biggest one."
+  },
+  {
+   "id": "e3",
+   "text": "In 1981, another team showed the histamine release directly: during water exposure, the mast cells dumped histamine, the chemical behind the swelling and the itch. The mechanism was real, even if the trigger was not understood."
+  },
+  {
+   "id": "e4",
+   "text": "And here is the honest part: the cause is genuinely unknown. The sebum theory is a hypothesis, not a proven fact. It affects women more often, and usually starts at puberty \u2014 and nobody knows why either."
+  },
+  {
+   "id": "e5",
+   "text": "The record has four marks. First: 1964 \u2014 Shelley and Rawnsley describe the first case in the Journal of the American Medical Association, and propose the sebum theory."
+  },
+  {
+   "id": "e6",
+   "text": "Second: 1981 \u2014 Sibbald and his colleagues demonstrate the histamine release during water exposure, proving the mast cells in the skin are doing the damage."
+  },
+  {
+   "id": "e7",
+   "text": "Third: 2017 \u2014 a review of the literature counts only thirty-seven cases in more than fifty years. The condition is so rare that most dermatologists will never see a single patient with it."
+  },
+  {
+   "id": "e8",
+   "text": "Fourth: 2020 \u2014 a new review puts the total at around one hundred cases, and reports a teenage girl helped by omalizumab after antihistamines failed. One case. Not a cure. Not a pattern. Just a door, slightly open. That is the test."
+  },
+  {
+   "id": "f1",
+   "text": "Chapter six: the test. You have dodged the shower, the rain, your sweat, your tears. Now the choice is yours: if you could give up one thing to keep the rest, what would it be?"
+  },
+  {
+   "id": "f2",
+   "text": "Would you give up the hot shower \u2014 the steam, the warmth, the ten quiet minutes at the start of the day? Or the swim \u2014 the cold shock of a lake in summer, the weightless feeling of floating?"
+  },
+  {
+   "id": "f3",
+   "text": "There is no cure. Antihistamines help many patients \u2014 the same pills you take for hay fever \u2014 but they only soften the reaction, they do not stop it. And for some people, even they are not enough."
+  },
+  {
+   "id": "f4",
+   "text": "Omalizumab helped one reported case \u2014 a teenage girl, whose hives would not answer to antihistamines, who improved on monthly injections and stayed well for two years. One case. It is hope, not a treatment."
+  },
+  {
+   "id": "f5",
+   "text": "So here is the question the story turns on: if your body turned against water tomorrow \u2014 the rain, the shower, your own sweat \u2014 what is the first thing you would miss, and could you live without it?"
+  },
+  {
+   "id": "f6",
+   "text": "There is no right answer. There is only the answer you would give \u2014 and that answer says something about how much of your life is made of water. Which brings us to today. That is the choice."
+  },
+  {
+   "id": "g1",
+   "text": "Chapter seven: today. You still shower in the morning, still walk in the rain, still sweat at the gym. Nothing about you has changed \u2014 except now you know there are people for whom each of those is a negotiation."
+  },
+  {
+   "id": "g2",
+   "text": "Remember the numbers: about sixty percent of you is water, fewer than one hundred cases ever reported, hives in twenty to thirty minutes, gone in thirty to sixty."
+  },
+  {
+   "id": "g3",
+   "text": "And remember the twist: most patients can still drink water. The thing you are made of does not poison you from the inside \u2014 it only attacks from the outside, through the skin. The enemy was never the water."
+  },
+  {
+   "id": "g4",
+   "text": "If you were allergic to water \u2014 what's the first thing you'd miss: a hot shower, a swim, or a rainy day? Tell us why."
+  },
+  {
+   "id": "g5",
+   "text": "Science note, plainly: the case count varies by source, so say fewer than one hundred reported cases, never a precise census; the cause is unknown and the sebum theory is only a hypothesis; most patients can drink water; there is no cure, and omalizumab helped one case only; and this is not medical advice."
+  },
+  {
+   "id": "g6",
+   "text": "The named studies, so you can check me: Shelley and Rawnsley, 1964, in the Journal of the American Medical Association; Robles-Tenorio and colleagues, 2020; and the omalizumab case, BMJ Case Reports, 2022."
+  },
+  {
+   "id": "g7",
+   "text": "Your body is sixty percent water \u2014 and fewer than one hundred people on Earth are allergic to it. The next time it rains, you will step outside without thinking. Now you know what that freedom is worth."
   }
  ]
 }
