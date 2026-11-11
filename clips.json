@@ -1,28 +1,204 @@
 {
  "clips": [
   {
-   "id": "s1",
-   "text": "Your body is 60% water \u2014 and fewer than 100 people on Earth are allergic to it. One drop of rain, and their skin breaks out in hives."
+   "id": "a1",
+   "text": "Your left hand just unbuttoned your shirt \u2014 while your right hand was still buttoning it. Only about 150 people in medical history have lived with a hand that has a mind of its own."
   },
   {
-   "id": "s2",
-   "text": "No hot shower. No swim. No walk in the rain. Tessa Hansen-Smith showers twice a month \u2014 and her own tears break her out too."
+   "id": "a2",
+   "text": "Hold on to that picture \u2014 one hand undoing what the other just did. That is not a magic trick. That is a civil war inside one skull."
   },
   {
-   "id": "s3",
-   "text": "Doctors tested every kind of water. Tap, distilled, sea, rain. Every one raised the hives. It was the water itself."
+   "id": "a3",
+   "text": "In the next nine minutes: the breakfast your hand ruins, the mirror where it waves at strangers, the laboratory that split a brain in two, and the question \u2014 what would you do with a hand you cannot trust?"
   },
   {
-   "id": "s4",
-   "text": "The leading theory: water reacts with the oils in your skin, and your mast cells dump histamine. Sixty years on, nobody has proven it."
+   "id": "a4",
+   "text": "You wake up, and before you are even awake, your left hand already is. It reaches for your shirt. Your right hand buttons it. Your left hand unbuttons it. You watch it happen, and you cannot stop it."
   },
   {
-   "id": "s5",
-   "text": "There is no cure. One teenage girl was helped by a drug called omalizumab. One case. Hope, not a treatment."
+   "id": "a5",
+   "text": "It is your hand. You can feel it \u2014 the fabric, the button, the warmth of your own skin. Not numb, not asleep. It knows exactly what it is doing. It just is not listening to you."
   },
   {
-   "id": "s6",
-   "text": "Your body is 60% water \u2014 and fewer than 100 people on Earth are allergic to it. What would you miss first?"
+   "id": "a6",
+   "text": "You hold it down with your good hand, and for a second it works. Then it is moving again \u2014 picking at the buttons, tugging at the collar."
+  },
+  {
+   "id": "a7",
+   "text": "About one hundred and fifty cases like this have been documented \u2014 fewer than the people in one cinema. And the reason starts with a bridge inside your head, two hundred million fibres wide. That is breakfast."
+  },
+  {
+   "id": "b1",
+   "text": "Chapter two: breakfast. You sit down to eat, and your left hand reaches for the pan \u2014 the hot pan, straight off the stove \u2014 while your right hand reaches for the fork."
+  },
+  {
+   "id": "b2",
+   "text": "It grabs the handle and lifts the pan. The eggs slide, and your right hand has to dive in and save the morning before it lands on the table."
+  },
+  {
+   "id": "b3",
+   "text": "Then it pours the coffee \u2014 not into the cup, onto the table, a slow brown river spreading toward your phone. You mop it up while your left hand reaches for the jug again."
+  },
+  {
+   "id": "b4",
+   "text": "This is the callosal kind \u2014 intermanual conflict, doctors call it. One hand undoes what the other does. Button, unbutton. Pour, spill. It is not clumsiness. It is two wills sharing one body."
+  },
+  {
+   "id": "b5",
+   "text": "And the strangest part: you know it is your hand. You can feel it move, you can see it move \u2014 and still, when you tell it to stop, nothing happens."
+  },
+  {
+   "id": "b6",
+   "text": "So the hand that pours your coffee is not broken \u2014 it is disobedient. And the reason it can disobey is the most surprising experiment in neuroscience. That is the mirror."
+  },
+  {
+   "id": "c1",
+   "text": "Chapter three: the mirror. You stand in front of it to shave, and your left hand waves \u2014 waves \u2014 at the stranger in the glass, greeting someone you have never met."
+  },
+  {
+   "id": "c2",
+   "text": "Then it slaps you. Not a joke \u2014 a flat, open slap across your own cheek, from your own hand, while you hold the razor in the other one."
+  },
+  {
+   "id": "c3",
+   "text": "Karen Byrne knows this feeling. After epilepsy surgery at twenty-seven, her seizures stopped \u2014 and her left hand started a war. It slapped her. It punched her. She had to sit on it to keep it still."
+  },
+  {
+   "id": "c4",
+   "text": "She is not making it up, and she is not possessed. Her hand attacked her in her sleep, and she woke up fighting herself \u2014 her good hand pinning her bad hand to the mattress, like a wrestler."
+  },
+  {
+   "id": "c5",
+   "text": "There are three kinds, and they behave differently. The frontal kind gropes and grasps \u2014 it picks things up and cannot let go, with no off switch."
+  },
+  {
+   "id": "c6",
+   "text": "The callosal kind is the one you have seen \u2014 one hand undoing the other. And the posterior kind is the strangest: the hand floats up on its own, drifting away, as if it were trying to leave."
+  },
+  {
+   "id": "c7",
+   "text": "Most patients never attack themselves the way Karen Byrne's hand did. Most hands grasp, grope, and fumble \u2014 frightening, but not violent. Hers is one famous case, not the template."
+  },
+  {
+   "id": "c8",
+   "text": "So how does a hand get its own will? The answer is not in the hand. It is in the bridge between the two halves of your brain \u2014 and in the 1960s, two scientists cut it. That is the laboratory."
+  },
+  {
+   "id": "d1",
+   "text": "Chapter four: the laboratory. In the 1960s, Roger Sperry and Michael Gazzaniga cut the bridge between the two halves of a patient's brain, to stop the seizures."
+  },
+  {
+   "id": "d2",
+   "text": "The bridge is the corpus callosum \u2014 about two hundred million nerve fibres, a thick cable joining the left hemisphere to the right. Cut it, and the two halves stop talking."
+  },
+  {
+   "id": "d3",
+   "text": "And when they stopped talking, each half started acting on its own. Show the right hemisphere a picture, and the left hand would point at it, while the patient swore they had seen nothing."
+  },
+  {
+   "id": "d4",
+   "text": "The left hemisphere speaks. The right hemisphere does not \u2014 but it acts. It draws, it points, it reaches. Two halves, two wills, one skull. That is the standard reading \u2014 though neuroscientists still debate how unified consciousness really is."
+  },
+  {
+   "id": "d5",
+   "text": "The mechanism has four moves. First: the bridge. Two hemispheres, joined by the corpus callosum \u2014 a glowing thread of about two hundred million fibres, keeping both halves in sync."
+  },
+  {
+   "id": "d6",
+   "text": "Second: the cut. Surgery, a stroke, a tumour \u2014 the bridge is damaged, and the messages stop. The left hemisphere no longer knows what the right hemisphere is planning."
+  },
+  {
+   "id": "d7",
+   "text": "Third: the split. The right hemisphere takes charge of the left hand, and acts on its own intentions \u2014 grasping, waving, undoing \u2014 while the talking half watches in confusion."
+  },
+  {
+   "id": "d8",
+   "text": "Fourth: the war. The talking half says stop, and the acting half does not listen \u2014 the order cannot cross a bridge that is gone. That is the civil war, inside one skull. That is the cases."
+  },
+  {
+   "id": "e1",
+   "text": "Chapter five: the cases. The first description came in 1908, from Kurt Goldstein \u2014 a hand behaving as if it belonged to someone else, a century before anyone had a name for it."
+  },
+  {
+   "id": "e2",
+   "text": "The name came in 1972, from Brion and Jedynak, two French neurologists who called it la main \u00e9trang\u00e8re \u2014 the foreign hand. Three patients with tumours on the bridge, three hands that would not obey."
+  },
+  {
+   "id": "e3",
+   "text": "In 2007, Assal and his colleagues watched the disobedient hand in a brain scanner, and saw the two halves firing out of step \u2014 the acting half lighting up, the talking half quiet."
+  },
+  {
+   "id": "e4",
+   "text": "And in 2025, a seventy-seven-year-old woman had an episode lasting just thirty minutes \u2014 reported as the shortest ever recorded, not a settled record. Strokes in both parietal lobes, and her hand left her control."
+  },
+  {
+   "id": "e5",
+   "text": "The record has four marks. First: 1908 \u2014 Goldstein describes the phenomenon, a hand acting on its own, with no name and no explanation."
+  },
+  {
+   "id": "e6",
+   "text": "Second: the 1960s \u2014 Sperry and Gazzaniga split the bridge, and prove that two hemispheres can hold two separate wills."
+  },
+  {
+   "id": "e7",
+   "text": "Third: 1972 \u2014 Brion and Jedynak name it la main \u00e9trang\u00e8re, the foreign hand, after three patients with tumours on the corpus callosum."
+  },
+  {
+   "id": "e8",
+   "text": "Fourth: 2007 \u2014 Assal's team scans the syndrome in action, and the count stands at about one hundred and fifty cases ever documented \u2014 a reported count, not a census, because mild cases are almost certainly missed. That is the test."
+  },
+  {
+   "id": "f1",
+   "text": "Chapter six: the test. You have survived the shirt, the breakfast, the mirror. Now the choice is yours: if your left hand woke up with a mind of its own tomorrow, what would it do first?"
+  },
+  {
+   "id": "f2",
+   "text": "Would it help you \u2014 cook breakfast while you dress, carry the bags while you hold the door? Or fight you \u2014 unbuttoning, spilling, slapping, grabbing the hot pan while you reach for the fork?"
+  },
+  {
+   "id": "f3",
+   "text": "There is no cure. No pill rewires the bridge. What helps is coping: keeping the hand busy, holding it down, sitting on it \u2014 the way Karen Byrne did \u2014 and sometimes Botox to quiet the muscles."
+  },
+  {
+   "id": "f4",
+   "text": "The film Dr. Strangelove, from 1964, made the syndrome famous \u2014 a general whose right hand rises on its own, saluting a cause he does not believe in. A joke in the film. For about one hundred and fifty people, it is Tuesday."
+  },
+  {
+   "id": "f5",
+   "text": "So here is the question the story turns on: if your own hand turned against you tomorrow \u2014 help or fight, and you could not choose \u2014 would you still trust your own body?"
+  },
+  {
+   "id": "f6",
+   "text": "There is no right answer. There is only the answer you would give \u2014 and it says something about how much of your life runs on autopilot. Which brings us to today. That is the choice."
+  },
+  {
+   "id": "g1",
+   "text": "Chapter seven: today. You still button your shirt with both hands, still pour your coffee without thinking. Nothing about you has changed \u2014 except now you know what it costs when the bridge breaks."
+  },
+  {
+   "id": "g2",
+   "text": "Remember the numbers: about one hundred and fifty cases, about two hundred million fibres in the bridge, three kinds of the syndrome, one thirty-minute episode reported as the shortest on record."
+  },
+  {
+   "id": "g3",
+   "text": "And remember the twist: the enemy was never outside you. Never a ghost, never a curse. It was your own brain, split into two wills, the bridge between them gone. The hand was never the problem. The bridge was."
+  },
+  {
+   "id": "g4",
+   "text": "If your left hand suddenly had a mind of its own \u2014 what's the first thing it would do: help you, or fight you? Tell us why."
+  },
+  {
+   "id": "g5",
+   "text": "Science note, plainly: about one hundred and fifty cases is a reported count, not a census; the thirty-minute episode is reported as the shortest, not a settled record; Karen Byrne is one case, not a template; two separate wills is debated; there is no cure; and this is not medical advice \u2014 sudden uncontrolled movement needs a neurologist."
+  },
+  {
+   "id": "g6",
+   "text": "The named studies, so you can check me: Brion and Jedynak, 1972, in the Revue Neurologique; Assal, Schwartz, and Vuilleumier, 2007, in the Annals of Neurology; and Sperry and Gazzaniga's split-brain experiments, in the 1960s."
+  },
+  {
+   "id": "g7",
+   "text": "Your left hand just unbuttoned your shirt \u2014 while your right hand was still buttoning it. The next time both your hands agree, you will not even notice. Now you know what that agreement is worth."
   }
  ]
 }
