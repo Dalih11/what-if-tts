@@ -1,28 +1,204 @@
 {
  "clips": [
   {
-   "id": "s1",
-   "text": "Your left hand just unbuttoned your shirt \u2014 while your right hand was still buttoning it. Only about 150 people have ever lived with a hand that has a mind of its own."
+   "id": "a1",
+   "text": "You step into the morning sun \u2014 and within five minutes, your skin is on fire. About 1 in 100,000 people live like this: allergic to sunlight itself."
   },
   {
-   "id": "s2",
-   "text": "At breakfast, it grabs the hot pan. It pours the coffee on the table. Your right hand has to clean up after your left hand, every single morning."
+   "id": "a2",
+   "text": "Hold on to that picture \u2014 five minutes of sunshine, and your skin turns against you. That is not a sunburn. That is your DNA, breaking, with nobody left to fix it."
   },
   {
-   "id": "s3",
-   "text": "In the mirror, it waves at strangers. It slaps your own face. Karen Byrne had to sit on her hand just to keep it still."
+   "id": "a3",
+   "text": "In the next nine minutes: the suit you wear just to leave the house, the tiny repair crew inside your skin, the summer camp that only opens after dark, and the question \u2014 what would you give up for the sun?"
   },
   {
-   "id": "s4",
-   "text": "The cause is a broken bridge in your brain \u2014 the corpus callosum, about 200 million fibres joining two halves that can each hold their own will."
+   "id": "a4",
+   "text": "You wake up to sunlight pouring through the window, and your first thought is not breakfast. It is the clock. Five minutes. That is how long you have before the burning starts."
   },
   {
-   "id": "s5",
-   "text": "There is no cure. No pill rebuilds the bridge. You learn to live with a hand you cannot trust."
+   "id": "a5",
+   "text": "The hives come fast \u2014 red, raised welts spreading across your arms, your neck, your face. This is solar urticaria: a true allergy to light, and the reaction starts within minutes."
   },
   {
-   "id": "s6",
-   "text": "Your left hand just unbuttoned your shirt \u2014 while your right hand was still buttoning it. What would yours do first \u2014 help you, or fight you?"
+   "id": "a6",
+   "text": "And you cannot hide behind glass. The burning kind of ultraviolet passes straight through a window, through thin clothes, even through a cloudy sky. The sun never actually leaves."
+  },
+  {
+   "id": "a7",
+   "text": "About 1 in 100,000 people worldwide live with the extreme form \u2014 fewer than the crowd in one big stadium. And the reason starts with a repair crew inside your skin. That is the suit."
+  },
+  {
+   "id": "b1",
+   "text": "Chapter two: the suit. Before you can step outside, you dress like an astronaut preparing for a spacewalk \u2014 every inch covered, nothing left to chance."
+  },
+  {
+   "id": "b2",
+   "text": "Ultraviolet-proof fabric, head to toe. A wide-brimmed hat, gloves, and a clear visor over your face. Oliver Kei, a boy with this condition, wears his visor like a second skin."
+  },
+  {
+   "id": "b3",
+   "text": "Then the sunscreen \u2014 thick, head to toe, reapplied like armour. Miss one patch, and the sun finds it within minutes."
+  },
+  {
+   "id": "b4",
+   "text": "Your car windows wear a dark film. Your classroom lightbulbs wear covers. Even indoors, the wrong bulb can set your skin off \u2014 because some light is sunlight in disguise."
+  },
+  {
+   "id": "b5",
+   "text": "And there is a hidden cost: without the sun, your body cannot make vitamin D. So you take it as a pill \u2014 sunshine, swallowed, every single morning."
+  },
+  {
+   "id": "b6",
+   "text": "So the suit works \u2014 but it only works if you never forget, never slip, never get caught by a ray through a window. And the reason you need it at all is the most surprising failure in your own body. That is the laboratory."
+  },
+  {
+   "id": "c1",
+   "text": "Chapter three: the laboratory. Inside every skin cell, a tiny repair crew works around the clock \u2014 and in your body, that crew never showed up."
+  },
+  {
+   "id": "c2",
+   "text": "Every day, ultraviolet light snaps bonds in the DNA of your skin \u2014 tiny breaks called pyrimidine dimers. In a healthy cell, the crew finds the break, cuts it out, and rebuilds the strand."
+  },
+  {
+   "id": "c3",
+   "text": "The crew is called nucleotide excision repair \u2014 eight genes, working in sequence, like a pit crew changing a tyre in seconds. Fast, precise, invisible."
+  },
+  {
+   "id": "c4",
+   "text": "In xeroderma pigmentosum, the genes for that crew are broken. The damage stays. It piles up, it mutates, and the cell either dies \u2014 or turns cancerous. That is why the sun is not a burn. It is a countdown."
+  },
+  {
+   "id": "c5",
+   "text": "The mechanism has four moves. First: the ladder. Your DNA is a long twisted ladder, and every rung is a letter of your genetic code \u2014 the instructions for building you."
+  },
+  {
+   "id": "c6",
+   "text": "Second: the snap. Ultraviolet light fuses two neighbouring rungs together \u2014 a dimer \u2014 and the ladder cannot be read properly past the damage."
+  },
+  {
+   "id": "c7",
+   "text": "Third: the crew. The repair enzymes arrive, snip out the damaged section, and rebuild it letter by letter. In a healthy cell, this happens thousands of times a day, and you never notice."
+  },
+  {
+   "id": "c8",
+   "text": "Fourth: the break. In XP, the crew never arrives. The fused rungs stay fused, the errors pile up, and the ladder slowly fills with mistakes. The sun was never the attacker. The missing crew was. That is the night world."
+  },
+  {
+   "id": "d1",
+   "text": "Chapter four: the night world. If the sun is the enemy, the night is the refuge \u2014 and for one group of children, the night is the whole point."
+  },
+  {
+   "id": "d2",
+   "text": "At Camp Sundown in New York, the camp day starts at sunset. Children with XP swim under the moon, play baseball at midnight, and sit around a bonfire at two in the morning."
+  },
+  {
+   "id": "d3",
+   "text": "The camp began as an idea in 1996, from the parents of a child with XP. By 2005 they had opened a permanent retreat house in Craryville, New York \u2014 free for every camper and one family member."
+  },
+  {
+   "id": "d4",
+   "text": "Moonlight is safe \u2014 it carries no ultraviolet. So the night is not a compromise. It is the one time the world is built for them, not against them."
+  },
+  {
+   "id": "d5",
+   "text": "Sonal Keay knows the other side of this. She has chronic actinic dermatitis \u2014 a sunlight allergy so severe that a single minute outside, even on a cloudy day, can leave her skin in painful blisters."
+  },
+  {
+   "id": "d6",
+   "text": "And in April 2026, a woman named Jennin showed the world her routine on TikTok \u2014 tinted car windows, ultraviolet-proof clothes, sunscreen head to toe, an umbrella for the ten steps to the shop. Eight million people watched."
+  },
+  {
+   "id": "d7",
+   "text": "What the night gives back is quiet: cool air, empty streets, stars you never see in daylight. A whole world that belongs to the people the sun turned away."
+  },
+  {
+   "id": "d8",
+   "text": "But even at night, the light follows you indoors \u2014 fluorescent tubes, bright bulbs, a phone screen at full brightness. The day never really ends. And the history of this condition is older than you think. That is the cases."
+  },
+  {
+   "id": "e1",
+   "text": "Chapter five: the cases. The story of sunlight allergy starts in 1874, with a doctor in Vienna who noticed children whose skin aged decades in a few summers."
+  },
+  {
+   "id": "e2",
+   "text": "Moritz Kaposi gave it a name: xeroderma pigmentosum \u2014 dry, pigmented skin. He could describe it perfectly. He had no idea what caused it."
+  },
+  {
+   "id": "e3",
+   "text": "The cause waited almost a century. In 1968, James Cleaver showed that XP cells cannot repair ultraviolet damage at all \u2014 the first proof that the repair crew itself was broken."
+  },
+  {
+   "id": "e4",
+   "text": "Remember the numbers: about 1 in 100,000 people worldwide, about 1 in 250,000 in the United States, about 1 in 22,000 in Japan. A skin-cancer risk about 1,000 times yours \u2014 and without protection, about half develop skin cancer by the age of ten."
+  },
+  {
+   "id": "e5",
+   "text": "The record has four marks. First: 1874 \u2014 Kaposi names the condition, after children whose skin ages decades in a few summers, with no cause and no cure."
+  },
+  {
+   "id": "e6",
+   "text": "Second: 1968 \u2014 Cleaver proves the repair crew is broken, and the mystery becomes a mechanism: damage in, nothing out."
+  },
+  {
+   "id": "e7",
+   "text": "Third: 1996 \u2014 the parents of a child with XP dream up a camp that runs at night, so their children can have a summer like everyone else."
+  },
+  {
+   "id": "e8",
+   "text": "Fourth: 2005 \u2014 Camp Sundown opens its permanent house, and the count stands at about 1 in 100,000 worldwide \u2014 a figure that varies by place, not a single fixed number. That is the test."
+  },
+  {
+   "id": "f1",
+   "text": "Chapter six: the test. You have survived the morning, the suit, the laboratory, and the night. Now the choice is yours: what would you give up for the sun?"
+  },
+  {
+   "id": "f2",
+   "text": "Would you miss the beach \u2014 the sand, the salt, the long slow afternoons? The morning run? Or just stepping outside without thinking, without a suit, without a clock?"
+  },
+  {
+   "id": "f3",
+   "text": "There is no cure. No pill restarts the repair crew. What helps is avoidance, protection, and watching the skin like a hawk \u2014 plus a vitamin D pill, every morning, for life."
+  },
+  {
+   "id": "f4",
+   "text": "The film Midnight Sun, from 2018, told this story as a romance \u2014 a girl who can only go out after dark. A love story in the film. For about 1 in 100,000 people, it is Tuesday."
+  },
+  {
+   "id": "f5",
+   "text": "So here is the question the story turns on: if the sun itself turned against you tomorrow \u2014 would you miss the light, or the life you lived in it?"
+  },
+  {
+   "id": "f6",
+   "text": "There is no right answer. There is only the answer you would give \u2014 and it says something about how much of your life you take for granted. Which brings us to today. That is the choice."
+  },
+  {
+   "id": "g1",
+   "text": "Chapter seven: today. You still step into the sun without thinking, still feel it warm on your face. Nothing about you has changed \u2014 except now you know what it costs when the repair crew never arrives."
+  },
+  {
+   "id": "g2",
+   "text": "Remember the numbers: about 1 in 100,000 people, a skin-cancer risk about 1,000 times yours, eight repair genes, and five minutes \u2014 the time between sunshine and burning."
+  },
+  {
+   "id": "g3",
+   "text": "And remember the twist: the enemy was never outside you. Never a curse, never bad luck. It was your own repair crew, missing in action. The sun was never the problem. The repair crew was."
+  },
+  {
+   "id": "g4",
+   "text": "If you could never go out in daylight again \u2014 what would you miss most: the beach, the morning run, or just stepping outside without thinking? Tell us why."
+  },
+  {
+   "id": "g5",
+   "text": "Science note, plainly: 1 in 100,000 is the worldwide figure \u2014 it varies by place; solar urticaria and XP are different conditions, and this video covers both; the fewer-than-40-percent survival figure is older data, and modern specialist care is far better; there is no cure; and this is not medical advice \u2014 a rash after sun exposure needs a dermatologist."
+  },
+  {
+   "id": "g6",
+   "text": "The named sources, so you can check me: Kaposi, 1874; Cleaver, 1968, on the DNA repair defect; and the National XP Service in the United Kingdom, on how specialist care has changed survival."
+  },
+  {
+   "id": "g7",
+   "text": "You step into the morning sun \u2014 and within five minutes, your skin is on fire. The next time you walk out without thinking, you will not even notice. Now you know what that freedom is worth."
   }
  ]
 }
