@@ -1,1 +1,28 @@
-{"clips":[{"id":"s1","text":"You step into the morning sun — and within five minutes, your skin is on fire. About 1 in 100,000 people live like this: allergic to sunlight itself."},{"id":"s2","text":"The suit goes on before the door opens: visor, gloves, ultraviolet-proof fabric, sunscreen like armour. Miss one patch, and the sun finds it."},{"id":"s3","text":"The cause is a broken repair crew — eight genes that should fix sun damage in your DNA, switched off. The damage stays, and the risk of skin cancer is about 1,000 times yours."},{"id":"s4","text":"So these kids live at night. At Camp Sundown, the camp day starts at sunset — baseball at midnight, swimming under the moon, a bonfire at two in the morning."},{"id":"s5","text":"There is no cure. Only the suit, the shade, and the night. The sun was never the problem. The repair crew was."},{"id":"s6","text":"You step into the morning sun — and within five minutes, your skin is on fire. Now you know what that freedom is worth."}]}
+{
+ "clips": [
+  {
+   "id": "s1",
+   "text": "You step into the morning sun \u2014 and within five minutes, your skin is on fire. About 1 in 100,000 people live like this: allergic to sunlight itself."
+  },
+  {
+   "id": "s2",
+   "text": "The suit goes on before the door opens: visor, gloves, ultraviolet-proof fabric, sunscreen like armour. Miss one patch, and the sun finds it."
+  },
+  {
+   "id": "s3",
+   "text": "The cause is a broken repair crew: eight genes that should fix sun damage in your DNA. Switched off, the risk of skin cancer is about 1,000 times yours."
+  },
+  {
+   "id": "s4",
+   "text": "So these kids live at night. At Camp Sundown, the day starts at sunset \u2014 baseball at midnight, swimming under the moon, a bonfire at two in the morning."
+  },
+  {
+   "id": "s5",
+   "text": "There is no cure. Only the suit, the shade, and the night. The sun was never the problem. The repair crew was."
+  },
+  {
+   "id": "s6",
+   "text": "You step into the morning sun \u2014 and within five minutes, your skin is on fire. Now you know what that freedom is worth."
+  }
+ ]
+}
