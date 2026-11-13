@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
-"""Generate TTS mp3s for the 48 winter-video clips with edge-tts.
+"""Generate TTS mp3s + word timings with edge-tts.
 
 Runs on GitHub Actions (direct internet). One consistent voice for all clips.
+Reads clips.json, writes out/<id>.mp3 and out/<id>.words.json (word boundary
+offsets in seconds, for kinetic captions).
 """
 import asyncio
 import json
@@ -16,16 +18,30 @@ OUTDIR = "out"
 
 
 async def one(clip_id, text):
-    out = os.path.join(OUTDIR, f"{clip_id}.mp3")
+    out_mp3 = os.path.join(OUTDIR, f"{clip_id}.mp3")
+    out_words = os.path.join(OUTDIR, f"{clip_id}.words.json")
     last = None
     for attempt in range(1, 4):
         try:
-            await edge_tts.Communicate(text, VOICE, rate=RATE).save(out)
-            size = os.path.getsize(out)
-            if size > 1000:
-                print(f"OK {clip_id} attempt={attempt} bytes={size}", flush=True)
+            audio = bytearray()
+            words = []
+            async for chunk in edge_tts.Communicate(text, VOICE, rate=RATE).stream():
+                if chunk["type"] == "audio":
+                    audio += chunk["data"]
+                elif chunk["type"] == "WordBoundary":
+                    words.append({
+                        "word": chunk["text"],
+                        "start": chunk["offset"] / 10_000_000,
+                        "duration": chunk["duration"] / 10_000_000,
+                    })
+            if len(audio) > 1000:
+                with open(out_mp3, "wb") as f:
+                    f.write(audio)
+                with open(out_words, "w", encoding="utf-8") as f:
+                    json.dump({"id": clip_id, "text": text, "words": words}, f)
+                print(f"OK {clip_id} attempt={attempt} bytes={len(audio)} words={len(words)}", flush=True)
                 return True
-            last = f"empty file ({size} bytes)"
+            last = f"empty audio ({len(audio)} bytes)"
         except Exception as e:  # noqa: BLE001
             last = str(e)[:200]
             print(f"{clip_id} attempt {attempt}/3 failed: {last}", flush=True)
