@@ -1,10 +1,1 @@
-{
- "clips": [
-  {"id": "c1s1", "text": "The question was betrayal. The answer is his happiness. Watch the switch."},
-  {"id": "c1s2", "text": "That's the reframe. Describe what you did as care, and the action disappears."},
-  {"id": "c1s3", "text": "It works because care is hard to argue with. Push back, and you look ungrateful."},
-  {"id": "c1s4", "text": "At home, it sounds like this. I only checked your phone because I worry about you."},
-  {"id": "c1s5", "text": "Answer the action, not the motive. I hear you care. We are talking about what happened."},
-  {"id": "c1s6", "text": "Heard a reframe like this? Tell me below."}
- ]
-}
+{"clips":[{"id":"r4b1","text":"The reframe."},{"id":"r4b2","text":"The question was about the act. The answer was about the motive."},{"id":"r4b3","text":"Answer the action, not the motive."}]}
