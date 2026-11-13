@@ -3,7 +3,9 @@
 
 Runs on GitHub Actions (direct internet). One consistent voice for all clips.
 Reads clips.json, writes out/<id>.mp3 and out/<id>.words.json (word boundary
-offsets in seconds, for kinetic captions).
+offsets in seconds, for kinetic captions). boundary="WordBoundary" is
+required: the library defaults to SentenceBoundary, which yields no word
+timings.
 """
 import asyncio
 import json
@@ -25,7 +27,9 @@ async def one(clip_id, text):
         try:
             audio = bytearray()
             words = []
-            async for chunk in edge_tts.Communicate(text, VOICE, rate=RATE).stream():
+            async for chunk in edge_tts.Communicate(
+                text, VOICE, rate=RATE, boundary="WordBoundary"
+            ).stream():
                 if chunk["type"] == "audio":
                     audio += chunk["data"]
                 elif chunk["type"] == "WordBoundary":
@@ -34,14 +38,14 @@ async def one(clip_id, text):
                         "start": chunk["offset"] / 10_000_000,
                         "duration": chunk["duration"] / 10_000_000,
                     })
-            if len(audio) > 1000:
+            if len(audio) > 1000 and words:
                 with open(out_mp3, "wb") as f:
                     f.write(audio)
                 with open(out_words, "w", encoding="utf-8") as f:
                     json.dump({"id": clip_id, "text": text, "words": words}, f)
                 print(f"OK {clip_id} attempt={attempt} bytes={len(audio)} words={len(words)}", flush=True)
                 return True
-            last = f"empty audio ({len(audio)} bytes)"
+            last = f"empty audio ({len(audio)} bytes) or no word timings ({len(words)} words)"
         except Exception as e:  # noqa: BLE001
             last = str(e)[:200]
             print(f"{clip_id} attempt {attempt}/3 failed: {last}", flush=True)
