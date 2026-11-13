@@ -16,12 +16,13 @@ jobs:
           python-version: "3.12"
       - run: pip install edge-tts
       - run: python generate.py
-      - name: Commit MP3s back to the repo
+      - name: Commit MP3s and word timings back to the repo
         run: |
           mkdir -p mp3
           cp out/*.mp3 mp3/
+          cp out/*.words.json mp3/ 2>/dev/null || true
           git config user.name "tts-bot"
           git config user.email "tts-bot@local"
           git add mp3/
-          git commit -m "winter vo mp3s" || echo "nothing to commit"
+          git commit -m "tts outputs" || echo "nothing to commit"
           git push
