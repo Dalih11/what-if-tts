@@ -2,80 +2,31 @@
  "clips": [
   {
    "id": "s1",
-   "section": "short",
-   "text": "You step off the kerb \u2014 and your shoe stays dry.",
-   "interrupt": "visual",
-   "image": "ACTION/AFTERMATH: a young man with brown hair in a blue hoodie stepping off a rainy city kerb, one shoe hovering over a puddle, the shoe completely dry, rain falling, storm-grey city rain, wet asphalt, slate grey, rain silver, neon reflections in puddles, cinematic, no text",
-   "overlay": "STAYS DRY",
-   "sfx": null,
-   "transition": "wipeup",
-   "note": "FUNNEL: verbatim the long\u2019s a1 line + reuses the long\u2019s a1 visual beat/asset."
+   "text": "You step off the kerb \u2014 and your shoe stays dry."
   },
   {
    "id": "s2",
-   "section": "short",
-   "text": "He takes another step. Still dry. Then another. He crosses the whole puddle, then the whole street, without one splash \u2014 while everyone else steps around the water.",
-   "interrupt": "audio",
-   "image": "a young man with brown hair in a blue hoodie crossing a whole rain puddle on dry shoes, then stepping onto the street, rain falling, storm-grey city rain, wet asphalt, slate grey, rain silver, neon reflections in puddles, photorealistic, no text",
-   "overlay": "STILL DRY",
-   "sfx": null,
-   "transition": "circleopen",
-   "note": "escalation: puddle to street. No numbers, no mechanism names."
+   "text": "He takes another step. Still dry. He crosses the whole puddle, then the whole street, without one splash."
   },
   {
    "id": "s3",
-   "section": "short",
-   "text": "Look at his feet. Each foot slaps the water faster than you can blink \u2014 and the water holds him up, one slap at a time, like the puddle forgot how to be wet.",
-   "interrupt": "structural",
-   "image": "Extreme close-up of a shoe slapping a rain puddle faster than a blink, water bursting sideways, the shoe dry, storm-grey palette, slate grey, rain silver, photorealistic, no text",
-   "overlay": "FASTER THAN A BLINK",
-   "sfx": null,
-   "transition": "dissolve",
-   "note": "Layer-1 PAYOFF IN SHORT: the dry shoe is real, the slap is blink-fast. No number."
+   "text": "Look at his feet. Each foot slaps the water faster than you can blink \u2014 and the water holds him up, one slap at a time."
   },
   {
    "id": "s4",
-   "section": "short",
-   "text": "Now he crosses a whole river, dry shoes, dry socks, while the crowd on the bridge stares down in the rain. But watch him closely. He never slows down. Not even once.",
-   "interrupt": "character",
-   "image": "a young man with brown hair in a blue hoodie crossing a whole river on dry shoes, a crowd watching from a bridge above, rain falling, storm-grey palette, slate grey, rain silver, photorealistic, no text",
-   "overlay": "NEVER SLOWS DOWN",
-   "sfx": null,
-   "transition": "diagbl",
-   "note": "escalation: the river. Sets up the Layer-2 question."
+   "text": "Now he crosses a whole river, dry shoes, dry socks, while the crowd on the bridge stares. But he never slows down. Not once."
   },
   {
    "id": "s5",
-   "section": "short",
-   "text": "So why can\u2019t he stop \u2014 not for one second?",
-   "interrupt": "audio",
-   "image": "Close-up of a young man with brown hair in a blue hoodie running across water, face set, rain falling, never slowing, storm-grey palette, slate grey, rain silver, photorealistic, no text",
-   "overlay": "WHY CAN\u2019T HE STOP?",
-   "sfx": null,
-   "transition": "smoothup",
-   "note": "Layer-2 question: spoken AND flagged for kinetic text. Answered in the long\u2019s a2 (~8s in)."
+   "text": "So why can\u2019t he stop \u2014 not for one second?"
   },
   {
    "id": "s6",
-   "section": "short",
-   "text": "The answer is one number \u2014 and it changes everything.",
-   "interrupt": "structural",
-   "image": "a young man with brown hair in a blue hoodie running across water toward the camera, rain falling, the river stretching behind him, storm-grey palette, slate grey, rain silver, photorealistic, no text",
-   "overlay": "ONE NUMBER",
-   "sfx": null,
-   "transition": "horzclose",
-   "note": "bridge line. Names no number, no mechanism, no Moon."
+   "text": "The answer is one number \u2014 and it changes everything."
   },
   {
    "id": "s7",
-   "section": "short",
-   "text": "Thirty metres a second, on every single step \u2014 and the one pause that sinks you. Full story: tap the video link under my name.",
-   "interrupt": "visual",
-   "image": "Frozen thumbnail frame: protagonist waist-deep and sinking in a puddle, arms out, ripples spreading, one foot still flat on the surface, storm-grey city rain, wet asphalt, slate grey, rain silver, neon reflections in puddles, no text",
-   "overlay": null,
-   "sfx": null,
-   "transition": "wipeup",
-   "note": "END-CARD VO (~5s, plays over the frozen thumbnail; coordinator owns the thumbnail). Names the withheld mechanism + signpost. NEVER \u201clink in description\u201d."
+   "text": "Thirty metres a second \u2014 and the one pause that sinks you. Tap the video link under my name."
   }
  ]
 }
