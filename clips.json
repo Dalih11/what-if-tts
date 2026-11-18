@@ -1,188 +1,32 @@
 {
  "clips": [
   {
-   "id": "a1",
+   "id": "s1",
    "text": "You come down from a hundred and seventy metres — and the ground does not forgive you."
   },
   {
-   "id": "a2",
-   "text": "One jump. A hundred and seventy metres into the sky — nearly twice the Statue of Liberty. The jump is not the story. The landing is."
+   "id": "s2",
+   "text": "Seconds earlier, he stood in the grass, staring up at one blade taller than he is."
   },
   {
-   "id": "a3",
-   "text": "Next: the spring, the launch, the flight — and the landing, explained. Rewind with me."
+   "id": "s3",
+   "text": "Look how high he goes. Past the Statue of Liberty — and still rising."
   },
   {
-   "id": "a4",
-   "text": "This is the morning after. You lie in the grass, legs folded wrong, the meadow towering over you like a forest. You jumped like a flea. You landed like a human."
+   "id": "s4",
+   "text": "He hangs there, weightless, fifty storeys up, nothing but sky below."
   },
   {
-   "id": "a5",
-   "text": "Minutes ago you stood here, on this same grass, looking up at a single blade taller than you are. A flea could clear it in one bound. You wanted to know what that felt like."
+   "id": "s5",
+   "text": "So if the jump is real — why does coming down break him?"
   },
   {
-   "id": "a6",
-   "text": "Here is the problem, plainly. A flea weighs less than a milligram — about seven-tenths of one, in the fleas Cambridge filmed. You weigh about seventy kilograms. One hundred million times heavier. Same legs, same jump — a very different landing."
+   "id": "s6",
+   "text": "The answer is one secret inside his chest."
   },
   {
-   "id": "a7",
-   "text": "Because the jump was never the hard part. The hard part is coming down. To understand why, we rewind — to a spring inside a chest smaller than a grain of rice."
-  },
-  {
-   "id": "b1",
-   "text": "Chapter two: the spring. Forget muscles. Your legs could never do this alone — no muscle on Earth fires fast enough. The flea cheats. It stores the jump first, then lets it go."
-  },
-  {
-   "id": "b2",
-   "text": "First: the squeeze. Two great muscles in the flea's chest contract slowly, pressing on a pad of resilin — a rubbery protein, springier than any rubber we make. The energy waits in the pad, like a drawn bow."
-  },
-  {
-   "id": "b3",
-   "text": "Resilin gives back almost everything it takes. Stretch it to more than three times its length, let go, and it returns up to ninety-seven percent of the energy — only three percent lost as heat. A rubber band wishes it were resilin."
-  },
-  {
-   "id": "b4",
-   "text": "Second: the latch. The legs lock while the muscles keep squeezing. Nothing moves. The spring is loaded, the catch is holding, and the flea is, for a long moment, a loaded catapult pretending to be an insect."
-  },
-  {
-   "id": "b5",
-   "text": "Third: the release. A small muscle shifts the catch, the latch slips, and all that stored energy fires at once. No muscle could move this fast. The spring does the jumping; the muscle only loads it."
-  },
-  {
-   "id": "b6",
-   "text": "Here is what it is not: trying harder. You cannot jump like a flea by training your legs. Muscle fires in hundredths of a second; this launch takes about one-thousandth. The difference is not strength. It is a spring."
-  },
-  {
-   "id": "b7",
-   "text": "So the spring is loaded, the latch is set — and the whole jump is about to happen in less time than a blink. That is the launch."
-  },
-  {
-   "id": "c1",
-   "text": "Chapter three: the launch. In 2011, Sutton and Burrows filmed hedgehog fleas with high-speed cameras at Cambridge — and settled a mystery that had stood since 1967."
-  },
-  {
-   "id": "c2",
-   "text": "The push lasts about one point four milliseconds. One point four thousandths of a second. Your fastest blink takes a hundred times longer. In that sliver of time, the flea goes from still to nearly two metres a second."
-  },
-  {
-   "id": "c3",
-   "text": "And the force? The flea takes off at more than a hundred times the pull of gravity — the filmed jumps peaked near a hundred and fifty. A roller coaster pulls about four. You, jumping, manage two or three."
-  },
-  {
-   "id": "c4",
-   "text": "Slow that launch down and something strange appears. The flea does not push with its knees. It pushes through its feet — the tips of its shin bones, down onto its toes. The knee leaves the ground early; the foot does the work."
-  },
-  {
-   "id": "c5",
-   "text": "For forty-four years, scientists argued about which part of the leg did the pushing. The films ended it: the force runs from the spring in the chest, through the leg like a lever, down to the toes. Feet, not knees."
-  },
-  {
-   "id": "c6",
-   "text": "Now the cousin that does it even harder. The meadow froghopper — a six-millimetre bug on a grass stem — launches at more than four hundred times gravity. Its best jumps hit four hundred and eight. The flea is fast. The froghopper is a cannon."
-  },
-  {
-   "id": "c7",
-   "text": "The froghopper's trick is a bow, not a pad: a curved arch of hard cuticle and resilin, bent like an archery bow, then released. Different spring, same idea — store it slow, spend it all at once."
-  },
-  {
-   "id": "c8",
-   "text": "So the launch is a catapult, not a muscle. And a catapult, once fired, cannot steer. Which is fine — until you remember how high you are going. That is the flight."
-  },
-  {
-   "id": "d1",
-   "text": "Chapter four: the flight. Take the flea's jump — roughly a hundred times its body length — and give it to a human a hundred and seventy centimetres tall. The arithmetic says a hundred and seventy metres. Straight up."
-  },
-  {
-   "id": "d2",
-   "text": "Picture it. The Statue of Liberty stands ninety-three metres from the ground to the torch. Your jump clears her — and keeps rising, to nearly twice her height. One bound, and you are looking down at the torch."
-  },
-  {
-   "id": "d3",
-   "text": "Or count it in floors. A hundred and seventy metres is about fifty storeys. You leave the pavement, pass the fiftieth floor, and only then — at the top of the arc — do you stop rising."
-  },
-  {
-   "id": "d4",
-   "text": "How fast are you moving at takeoff? To climb a hundred and seventy metres, you must leave the ground at about fifty-eight metres a second — over two hundred kilometres an hour. Faster than a car on a motorway. Straight up."
-  },
-  {
-   "id": "d5",
-   "text": "And here is the honest boundary. That hundred and seventy metres is arithmetic, not an experiment. Nobody has built a human flea. The flea's best jumps — forty-eight centimetres across, seventeen up — are measured records, not every jump. The hundred-times figure is rough, not a constant."
-  },
-  {
-   "id": "d6",
-   "text": "But the arithmetic is the point. Scale the spring up, and the height follows — the same way scaling the flea's weight up changes everything about the fall. Which brings us back to the grass."
-  },
-  {
-   "id": "d7",
-   "text": "In the air, you are weightless for a few seconds — the longest fall of your life, stretched above a meadow. Below you, grass blades stand like trees. The ground waits, patient as ever."
-  },
-  {
-   "id": "d8",
-   "text": "A flea spends its whole life doing this — leaping, landing, leaping again, a hundred times its own height, without a thought. To the flea, the air is a highway. To you, it is a countdown."
-  },
-  {
-   "id": "d9",
-   "text": "So you are up there, two hundred kilometres an hour at takeoff, fifty storeys high — and gravity has already started collecting. What comes down is the part the flea never worries about. That is the landing."
-  },
-  {
-   "id": "e1",
-   "text": "Chapter five: the landing. Why does the flea walk away from falls that would kill you? The answer is the square-cube law — the rule that says when you grow, your weight grows faster than your strength."
-  },
-  {
-   "id": "e2",
-   "text": "Make an animal ten times bigger, and its weight grows a thousand times — while its legs grow a hundred times thicker. Strength cannot keep up with weight. The flea is small enough that the maths forgives it. You are not."
-  },
-  {
-   "id": "e3",
-   "text": "A flea falling from any height is slowed by the air itself. Its body is so light, and its surface so large for its weight, that air drag catches it like a parachute. It drifts down. You fall like a stone."
-  },
-  {
-   "id": "e4",
-   "text": "Now your landing. You come down at the speed you left — about fifty-eight metres a second, two hundred kilometres an hour. Your legs, built for a walking animal, must stop a hundred million times the flea's weight in a fraction of a second. They cannot. That is the twist: the jump is the easy part."
-  },
-  {
-   "id": "e5",
-   "text": "So here is the question the story turns on: if you could jump a hundred times your height — but every landing would break you — would you still take the jump?"
-  },
-  {
-   "id": "e6",
-   "text": "There is no right answer. Only the answer your legs give — written the first time you looked down from fifty storeys. Which brings us to today. That is the choice."
-  },
-  {
-   "id": "e7",
-   "text": "One last thing: thank a flea the size of a grain of rice, a froghopper on a grass stem, and three teams who measured the impossible — then thank the air for being so gentle with small things."
-  },
-  {
-   "id": "f1",
-   "text": "Chapter six: today. You still stand in the meadow, still look up at a grass blade taller than you are, still feel the jump you will never take. Nothing has changed — except you know what that jump would cost."
-  },
-  {
-   "id": "f2",
-   "text": "Remember the numbers: about one point four milliseconds to launch; more than a hundred times gravity at takeoff; roughly a hundred times body length; a hundred and seventy metres for a human. One spring, and physics in your way."
-  },
-  {
-   "id": "f3",
-   "text": "And remember the twist: the enemy was never the height. It was the landing. The flea's spring is a gift only the small can afford — the jump is free, the landing is the price. The flea pays in milligrams. You pay in bones."
-  },
-  {
-   "id": "f4",
-   "text": "If you could jump 100 times your height but the landing would break you — where would you jump first? Tell us why."
-  },
-  {
-   "id": "f5",
-   "text": "Science note, plainly: forty-eight centimetres and seventeen are best-measured records, not every jump; a hundred times is a rough scale factor, not a constant; a hundred and seventy metres is scaling arithmetic, not an experiment; and recent work suggests resilin alone may store only a small share of the flea's jump energy — the spring is real; the rest is still being measured."
-  },
-  {
-   "id": "f6",
-   "text": "The named sources, so you can check me: Cadiergues, Joubert and Franc's flea jumps, 2000, in Veterinary Parasitology; Sutton and Burrows' flea mechanics, 2011, in the Journal of Experimental Biology; Bennet-Clark and Lucey's resilin spring, 1967; and Burrows' froghopper jumps, 2003 and 2006."
-  },
-  {
-   "id": "f7",
-   "text": "You come down from a hundred and seventy metres — and the ground does not forgive you. Next time you see a flea vanish from a dog's back, you will know: it did not fly. It fired a spring."
-  },
-  {
-   "id": "f8",
-   "text": "The jump was never the miracle. The landing was always the price. Goodnight. And if you ever wish you could jump like a flea — remember, the flea never has to land like you."
+   "id": "s7",
+   "text": "A spring, not muscle — and a landing no human survives. Tap the video link under my name."
   }
  ]
 }
