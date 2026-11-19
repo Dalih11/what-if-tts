@@ -1,188 +1,32 @@
 {
  "clips": [
   {
-   "id": "a1",
+   "id": "s1",
    "text": "You hold one note for three seconds — and the wine glass six inches from your face explodes."
   },
   {
-   "id": "a2",
-   "text": "One note. One glass. The rim wobbles wider and wider — about six millimetres, a quarter of an inch — then the whole glass bursts into glittering dust."
+   "id": "s2",
+   "text": "Seconds earlier, he stood in the concert hall, staring at one single glass on the table."
   },
   {
-   "id": "a3",
-   "text": "Next: the note, the volume, the proof — and the price. Listen close."
+   "id": "s3",
+   "text": "Watch the rim. It wobbles wider and wider — then the whole glass bursts into glittering dust."
   },
   {
-   "id": "a4",
-   "text": "This is the second after. You stand in a concert hall, shards glittering on the floor, your ears ringing. You sang one note. The glass did the rest."
+   "id": "s4",
+   "text": "He stands there in the silence, ears ringing, shards glittering on the floor around him."
   },
   {
-   "id": "a5",
-   "text": "Minutes ago the glass stood whole on a table, catching the light. You tapped it with a spoon, and it rang — one clear note, hanging in the air. That ring was the warning."
+   "id": "s5",
+   "text": "So if one note can do this — what makes this glass break, and the window just sit there?"
   },
   {
-   "id": "a6",
-   "text": "Here is the problem, plainly. Your voice is not a hammer. It is a push — a push that arrives hundreds of times a second. Push at the wrong rhythm, and nothing happens. Push at the right one, and the glass destroys itself."
+   "id": "s6",
+   "text": "The answer is one secret hiding in that note."
   },
   {
-   "id": "a7",
-   "text": "Because the glass was never broken by force. It was broken by timing. To understand why, we start with a swing — and a child who knows exactly when to kick."
-  },
-  {
-   "id": "b1",
-   "text": "Chapter two: resonance. Every object has a note it loves to sing — its natural frequency. Tap a wine glass, and it rings. Tap a window, and it thuds. The ring is the secret."
-  },
-  {
-   "id": "b2",
-   "text": "Think of a playground swing. Push at random, and the swing barely moves. Push at the exact moment it comes back to you, and every push adds to the last — higher, higher, higher."
-  },
-  {
-   "id": "b3",
-   "text": "A wine glass is a swing made of crystal. Sing the note it rings at, and every wave of sound pushes the rim a little further — until the rim is swinging wider than the glass can stand."
-  },
-  {
-   "id": "b4",
-   "text": "First, find the note. Tap the glass with a spoon and listen. Most wine glasses ring somewhere between four hundred and seven hundred vibrations a second. That ring is the note you must sing."
-  },
-  {
-   "id": "b5",
-   "text": "Second, hold it steady. A wobble in your pitch is a push at the wrong moment — it steals the energy back. The note must stay dead on, for seconds, while the glass swings wider."
-  },
-  {
-   "id": "b6",
-   "text": "Here is what it is not: screaming. Louder at the wrong note does nothing. A whisper at the right note does more than a shout at the wrong one. The difference is not volume. It is timing."
-  },
-  {
-   "id": "b7",
-   "text": "So the glass has a favourite note, and your voice must find it — but finding it is only half the trick. The other half is loud enough to matter. That is the volume."
-  },
-  {
-   "id": "c1",
-   "text": "Chapter three: the numbers. In 2005, a television show called MythBusters put the legend to the test — and a rock singer named Jaime Vendera became the first person ever filmed doing it with his voice alone."
-  },
-  {
-   "id": "c2",
-   "text": "The note was about five hundred and fifty-six vibrations a second. The volume was about a hundred and five decibels. Ordinary conversation sits at about fifty. Fifty-five decibels louder means more than three hundred thousand times the sound energy."
-  },
-  {
-   "id": "c3",
-   "text": "And the cost of getting there? Vendera tried twelve glasses before one broke — about twenty attempts in all. Eleven glasses rang, wobbled, and survived. The twelfth, on his twentieth try, burst."
-  },
-  {
-   "id": "c4",
-   "text": "Why so hard? Because a glass does not break just for being pushed. It breaks at its flaws — microscopic cracks, invisible to the eye, that buckle under the strain. The right glass matters as much as the right note."
-  },
-  {
-   "id": "c5",
-   "text": "Now the ceiling of the human voice. A trained opera singer can hold about a hundred decibels. The loudest shout ever recorded — Jill Drake, in the year 2000 — reached a hundred and twenty-nine. Loud enough is possible. Exact is the hard part."
-  },
-  {
-   "id": "c6",
-   "text": "And your ears pay for it. Damage begins with long exposure above eighty-five decibels. Pain starts near a hundred and twenty. The note that breaks the glass is loud enough to hurt the singer holding it."
-  },
-  {
-   "id": "c7",
-   "text": "Slow the moment down and something strange appears. Just before it breaks, the rim of the glass swings about six millimetres from side to side — a quarter of an inch, in a glass barely wider than your hand. The glass is dancing, and the dance kills it."
-  },
-  {
-   "id": "c8",
-   "text": "So the recipe is written: the right note, held steady, at a hundred and five decibels, on the right glass. But recipes lie by omission. They never say which glass will refuse. That is the proof — and the lie inside it."
-  },
-  {
-   "id": "d1",
-   "text": "Chapter four: the proof. Long before 2005, the whole world believed a singer could do it — because a television commercial showed Ella Fitzgerald doing exactly that."
-  },
-  {
-   "id": "d2",
-   "text": "The commercial was for Memorex tape, in the nineteen-seventies. Ella sang, a glass shattered, and the slogan asked: is it live, or is it Memorex? What the commercial did not say was that her voice was amplified through speakers."
-  },
-  {
-   "id": "d3",
-   "text": "The great tenor Enrico Caruso was said to do it too — until his wife denied it after his death. For decades, the stories piled up. The proof did not. Until 2005, no unaided human voice had ever been filmed breaking a glass."
-  },
-  {
-   "id": "d4",
-   "text": "That is why the MythBusters test matters. Not because a glass broke — but because a camera was running, a meter read a hundred and five decibels, and the glass was an inch from the singer's face when it burst."
-  },
-  {
-   "id": "d5",
-   "text": "And here is the honest boundary. The exact numbers vary a little by account — some say five hundred and fifty, some five hundred and sixty-two — because every glass rings at its own note. The range, four hundred to seven hundred, is the solid fact; the single number belongs to one glass."
-  },
-  {
-   "id": "d6",
-   "text": "But the arithmetic is the point. Fifty-five decibels above conversation is three hundred thousand times the energy — and still, eleven glasses survived. Volume opens the door. Luck picks the glass."
-  },
-  {
-   "id": "d7",
-   "text": "Now scale the same idea up — and watch a famous story fall apart. In 1940, the Tacoma Narrows Bridge twisted itself to pieces in a forty-mile-an-hour wind. Textbooks blamed resonance for decades. They were wrong."
-  },
-  {
-   "id": "d8",
-   "text": "The wind pulsed at about once a second. The bridge twisted at about once every five seconds. Five times too slow to match. The real killer was flutter — a self-feeding twist, where every sway made the next sway worse."
-  },
-  {
-   "id": "d9",
-   "text": "So resonance can break a glass, but it did not break that bridge — and knowing the difference is the whole game. Which brings us back to your voice, and the glass in front of your face. That is the test."
-  },
-  {
-   "id": "e1",
-   "text": "Chapter five: the test. Now the power is yours. One note, held steady, and any wine glass near you is in danger. So is every window? No — and the no is the twist."
-  },
-  {
-   "id": "e2",
-   "text": "A window is too thick, too stiff, too heavy to ring. Tempered glass is worse: heated to about six hundred and fifty degrees, then chilled, its skin locked in permanent squeeze. It will not sing, so it will not break."
-  },
-  {
-   "id": "e3",
-   "text": "Bulletproof glass is not one pane at all — it is glass and plastic, layered like a sandwich. It swallows the push instead of swinging with it. Your note is useless against it."
-  },
-  {
-   "id": "e4",
-   "text": "But the wine glass on your table? The one six inches from your face? That one bursts — and the shards fly toward the singer. The first person to do it on film held the glass an inch from his mouth. The prize for success is glass in your face."
-  },
-  {
-   "id": "e5",
-   "text": "So here is the question the story turns on: if your voice could shatter any glass you sang at — but every song put shards in your face and ringing in your ears — would you still sing?"
-  },
-  {
-   "id": "e6",
-   "text": "There is no right answer. Only the answer your throat gives — written the first time you look at a wine glass and hear it ring. Which brings us to today. That is the choice."
-  },
-  {
-   "id": "e7",
-   "text": "One last thing: thank a swing, a spoon, a singer who tried twenty times, and a bridge that taught the textbooks a lesson — then thank your ears for surviving the note."
-  },
-  {
-   "id": "f1",
-   "text": "Chapter six: today. You still stand in the concert hall, still look at the empty table where the glass stood, still feel the note in your throat. Nothing has changed — except you know what that note would cost."
-  },
-  {
-   "id": "f2",
-   "text": "Remember the numbers: about five hundred and fifty-six vibrations a second; about a hundred and five decibels; twelve glasses, twenty tries; a rim swinging six millimetres before it bursts."
-  },
-  {
-   "id": "f3",
-   "text": "And remember the twist: the enemy was never the volume. It was the timing. A whisper at the right note beats a shout at the wrong one — and the glass that breaks is the one with a flaw you cannot see."
-  },
-  {
-   "id": "f4",
-   "text": "If your voice could shatter any glass you sang at — what would you sing at first, and what would you never sing near again? Tell us why."
-  },
-  {
-   "id": "f5",
-   "text": "Science note, plainly: the five-hundred-and-fifty-six figure belongs to one MythBusters glass, and other retellings put it at five hundred and fifty to five hundred and sixty-two; the four-hundred-to-seven-hundred range is the solid fact. The Tacoma story is a correction: flutter, not resonance, broke the bridge. And no unaided voice broke glass on film before 2005."
-  },
-  {
-   "id": "f6",
-   "text": "The named sources, so you can check me: Scientific American on the opera singer and the glass; the MythBusters test of 2005 with singer Jaime Vendera; the University of Salford's guide to breaking glass with sound; and the American Physical Society on the Tacoma Narrows Bridge."
-  },
-  {
-   "id": "f7",
-   "text": "You hold one note for three seconds — and the wine glass six inches from your face explodes. Next time a glass rings when you tap it, you will know: it is not just a sound. It is a target."
-  },
-  {
-   "id": "f8",
-   "text": "The note was never the miracle. The timing was always the price. Goodnight. And if you ever wish your voice could break glass — remember, the glass never has to hear you coming."
+   "id": "s7",
+   "text": "One note, one volume — and the bridge story everyone gets wrong. Tap the video link under my name."
   }
  ]
 }
