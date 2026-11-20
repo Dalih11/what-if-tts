@@ -1,32 +1,188 @@
 {
  "clips": [
   {
-   "id": "s1",
-   "text": "Tonight, mid-fall, you realise you are dreaming — and instead of waking up, you stay, and you fly."
+   "id": "a1",
+   "text": "Tonight, your heart hands you its job — 100,000 beats a day, all yours."
   },
   {
-   "id": "s2",
-   "text": "A moment ago, he was asleep in a dark bedroom, safe under the covers. Then the floor fell away, without a sound."
+   "id": "a2",
+   "text": "His chest is silent. He presses two fingers to his wrist — nothing. Then he thinks the word beat — and one beat answers, slow and heavy."
   },
   {
-   "id": "s3",
-   "text": "Watch him. He does not wake up. He spreads his arms — and he flies."
+   "id": "a3",
+   "text": "Next: the normal beat, the switch, the proof — and the price. Stay with me."
   },
   {
-   "id": "s4",
-   "text": "Over rooftops, over a sleeping city, the wind in his face — and none of it is real."
+   "id": "a4",
+   "text": "This is the moment after. You wake up, and the thing that beat without you — every second of your life — has stopped. It is waiting for orders. Yours."
   },
   {
-   "id": "s5",
-   "text": "So if you can fly in a dream — why does your brain wake up inside it, and why can't you stay there all night?"
+   "id": "a5",
+   "text": "Everyone knows this feeling. Your heart races before an exam, on a first date, halfway up the stairs — and you have wished you could slow it down on command. Tonight, you can."
   },
   {
-   "id": "s6",
-   "text": "One secret hides inside the dream."
+   "id": "a6",
+   "text": "But a wish is not a job. A racing heart still beats itself — it speeds up, it slows down, and you never have to tell it to. Tonight, that changes."
   },
   {
-   "id": "s7",
-   "text": "Part of the brain wakes up inside the dream. Tap the video link under my name."
+   "id": "a7",
+   "text": "So here is the first test, and it starts now. Stop telling it to beat — and count. How long before the room goes dark? Ten seconds."
+  },
+  {
+   "id": "b1",
+   "text": "Chapter two: one hundred thousand beats. That is the job your heart does for you every single day — about one hundred thousand times, at roughly seventy beats a minute, while you think about none of them."
+  },
+  {
+   "id": "b2",
+   "text": "Count it up. About one hundred thousand beats a day becomes roughly thirty-six to thirty-nine million a year. And over a lifetime, nearly three billion beats — pumping about two thousand gallons of blood a day."
+  },
+  {
+   "id": "b3",
+   "text": "So what starts the beat? A tiny clump of cells in the upper right of the heart — the sinoatrial node. It fires on its own, sixty to one hundred times a minute, with no input from your brain at all."
+  },
+  {
+   "id": "b4",
+   "text": "The proof is almost too strange to say out loud. Take a heart out of a body, and it keeps beating. Give someone a transplanted heart, its nerves cut clean through, and it still finds its own rhythm."
+  },
+  {
+   "id": "b5",
+   "text": "At rest, most hearts sit between sixty and one hundred beats a minute; elite athletes can rest in the forties. Your fastest beat has a rough ceiling, about two hundred and twenty minus your age, give or take ten or twelve, but that is an estimate, not a measurement."
+  },
+  {
+   "id": "b6",
+   "text": "And it never clocks off. While you eat, while you sleep, while you read this sentence — about seventy beats a minute, every minute, all day, all night. The most reliable worker you will ever have."
+  },
+  {
+   "id": "b7",
+   "text": "So the beat starts in the heart, not the brain. Your brain only adjusts the tempo — faster when you run, slower when you rest. Then what is the brain's real job here? That is the switch."
+  },
+  {
+   "id": "c1",
+   "text": "Chapter three: eight hours. Tonight, you fall asleep — and nobody beats your heart. Eight hours, with no one on shift."
+  },
+  {
+   "id": "c2",
+   "text": "Here is the job, in numbers. One conscious decision per beat. About seventy decisions a minute. About one hundred thousand decisions a day. Miss one, and the next one is late."
+  },
+  {
+   "id": "c3",
+   "text": "You cannot sleep. You cannot be distracted. You cannot look away, not for a minute — because the moment your attention slips, the beat slips with it. There is no autopilot any more."
+  },
+  {
+   "id": "c4",
+   "text": "Try it now. Count your own beats for one minute — one, two, three — while you read the next sentence, while you think about dinner. You already lost count, did you not? That is the job, failing."
+  },
+  {
+   "id": "c5",
+   "text": "Sleep is the killer. The first night you fall asleep, nobody beats your heart. No alarm can save you — an alarm needs a heart to wake up to. You would have to stay awake, for ever."
+  },
+  {
+   "id": "c6",
+   "text": "And it is not just sleep. A phone call, a red light, a beautiful stranger walking past — any one of them steals your attention for a second. And a second without a beat is a second your brain notices."
+  },
+  {
+   "id": "c7",
+   "text": "So full control is not a superpower. It is a downgrade. You would trade a worker that never sleeps, never forgets, never gets distracted — for a manager who cannot count past ten without losing track."
+  },
+  {
+   "id": "c8",
+   "text": "But wait. Before you hand the job back, the science says you can already move it. A little. In a lab, in twenty thirteen, twenty-seven men were told to raise or lower their heart rate by will alone. And it worked."
+  },
+  {
+   "id": "d1",
+   "text": "Chapter four: twenty beats a minute. That is how slow a free diver's heart can go — twenty to thirty beats a minute, underwater, holding their breath. Your heart can already be moved."
+  },
+  {
+   "id": "d2",
+   "text": "First, the lab. In twenty thirteen, twenty-seven healthy men were asked to follow tones ten percent faster, or ten percent slower, than their own heart rate — by will alone. And it changed, in both directions, with no biofeedback machine at all."
+  },
+  {
+   "id": "d3",
+   "text": "Two years later, fifteen adults did it inside a brain scanner — and changed their heart rate without even changing how fast they breathed. Lowering it lit up the front of the brain. Raising it woke deeper regions — the amygdala, the brainstem."
+  },
+  {
+   "id": "d4",
+   "text": "And it is not only labs. At Harvard, people who simply measured their own heart rate every day for a week could then change it by will alone — and the people who paid the closest attention did it best."
+  },
+  {
+   "id": "d5",
+   "text": "Now the divers. Elite breath-hold divers drop to twenty to thirty beats a minute. Jacques Mayol's heart fell to twenty-seven beats a minute, one hundred and one metres down. And in one cold-water study, a single diver's heart dropped to five point six."
+  },
+  {
+   "id": "d6",
+   "text": "The trigger is not the breath hold itself. It is cold water on the face. Cold water cuts the heart rate by about a quarter — without it, the same breath hold cuts it by only about a tenth. The face tells the nerve: slow down."
+  },
+  {
+   "id": "d7",
+   "text": "Breath does it too. About six slow breaths a minute — in, out, in, out — pulls the heart down through the vagus nerve, the brake that slows the beat. Six breaths a minute is not a magic number. It is a resonance."
+  },
+  {
+   "id": "d8",
+   "text": "So here is the honest size of it. The real control humans already have is small — about a tenth, through breath and attention — and partial. Never total. Never precise. Never continuous. A nudge, not a steering wheel."
+  },
+  {
+   "id": "d9",
+   "text": "A nudge is real. But a nudge is not control. So what could you actually do with the full switch — slow it, stop it, speed it up? And what would each one cost? That is the test."
+  },
+  {
+   "id": "e1",
+   "text": "Chapter five: four minutes. The test. Slow it to fake death. Speed it to sprint without warming up. Stop it for ten seconds. Three tricks — and three prices."
+  },
+  {
+   "id": "e2",
+   "text": "First trick: slow it down. Drop your heart to twenty beats a minute, go limp, go cold — and anyone checking would swear you were gone. But your brain, starved of blood, is counting down the whole time."
+  },
+  {
+   "id": "e3",
+   "text": "Second trick: speed it up. Fire your heart to its ceiling before the race even starts — no warm-up, full speed from the first step. But a heart at its ceiling cannot climb higher. When the race gets hard, there is nothing left."
+  },
+  {
+   "id": "e4",
+   "text": "Third trick: stop it. Hold the beat, just for ten seconds. Ten seconds without blood flow, and consciousness goes. The room tilts, the edges go dark — and in about ten seconds, you faint."
+  },
+  {
+   "id": "e5",
+   "text": "And if the beat does not come back? Four to six minutes without blood flow, and the damage starts turning permanent. No CPR, and your chance falls by about seven to ten percent every minute. Good CPR buys time, about a quarter to a third of normal flow."
+  },
+  {
+   "id": "e6",
+   "text": "So here is the question the story turns on: if you could stop your own heart for ten seconds — and know it would start again — would you ever dare to try it?"
+  },
+  {
+   "id": "e7",
+   "text": "There is no right answer. Only the answer you give — the first time you hold your own heart in your hands, and you have to choose: keep beating it, or hand the job back. Which brings us to today."
+  },
+  {
+   "id": "f1",
+   "text": "Chapter six: three billion. Today — and the lifetime total. Nearly three billion beats in a lifetime, and you never had to order a single one. That is the price of control."
+  },
+  {
+   "id": "f2",
+   "text": "Remember the price, all of it. Ten seconds to faint if you stop. Four to six minutes to damage if it does not come back. Eight hours of sleep you can never take. And one hundred thousand beats a day that used to beat themselves."
+  },
+  {
+   "id": "f3",
+   "text": "So remember the two things that matter. Control would be a downgrade, not a superpower — the heart already beats on its own, with its own pacemaker and its own tiny brain of roughly forty thousand neurons. Your brain only adjusts the tempo."
+  },
+  {
+   "id": "f4",
+   "text": "If you could control your heartbeat for one day — slow it, stop it, or speed it up — what would you do first, and what would you never dare to try? Tell us why."
+  },
+  {
+   "id": "f5",
+   "text": "Science note, plainly. The forty-thousand-neuron figure is the commonly cited number, with a published range of about fourteen thousand to ninety-four thousand. The vagus traffic figure — most of it running heart-to-brain — comes from a review, not a lab constant. The four-to-six-minute window describes an unprotected brain with zero blood flow — CPR, cooling and a shockable rhythm change it. And the lab studies were small — twenty-seven men, fifteen adults — showing small changes, never total control."
+  },
+  {
+   "id": "f6",
+   "text": "My sources, to check me: Lumen Learning and BioEd on the heart's measurements; Armour, nineteen ninety-one, on the heart's own nervous system; Abukonna, twenty thirteen; Jones, twenty fifteen; Foster and Sheel on the diving response; and the American Heart Association."
+  },
+  {
+   "id": "f7",
+   "text": "Tonight, your heart hands you its job — one hundred thousand beats a day, all yours. Thank the labs that stayed up watching, the divers who sank slow and came back up, and the heart that has beaten nearly three billion times without ever asking you to help."
+  },
+  {
+   "id": "f8",
+   "text": "The beat was never yours to give. It was yours to keep — by leaving it alone. Goodnight. And if your heart races tonight — let it."
   }
  ]
 }
