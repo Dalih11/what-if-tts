@@ -1,188 +1,32 @@
 {
  "clips": [
   {
-   "id": "a1",
+   "id": "s1",
    "text": "Your mouth makes a liter of medicine a day — and you spit it out."
   },
   {
-   "id": "a2",
-   "text": "His palm is cut open. Blood wells up, no first-aid kit in sight — so he does what every child does. He puts the cut to his mouth, and waits."
+   "id": "s2",
+   "text": "He cut his palm — bleeding, no first-aid kit. So he did what we all do. He put it to his mouth."
   },
   {
-   "id": "a3",
-   "text": "Next: what is in that drop, five clues across two thousand years — and the price. Stay with me."
+   "id": "s3",
+   "text": "Bite the inside of your cheek. Gone in days — while a cut on your arm takes weeks, and leaves a scar."
   },
   {
-   "id": "a4",
-   "text": "This is the moment after. You are alone in the kitchen, your palm split open on a broken glass — and the only medicine in the whole room is the one your mouth is already making."
+   "id": "s4",
+   "text": "Your mouth heals wounds five to ten times faster than your skin."
   },
   {
-   "id": "a5",
-   "text": "Everyone knows this instinct. You cut a finger, and before you even think, it is in your mouth. A dog licks its paw. A mother kisses a scraped knee better. We all do it."
+   "id": "s5",
+   "text": "The cheek heals in days, the arm takes weeks. Something in your mouth is doing the work."
   },
   {
-   "id": "a6",
-   "text": "But an instinct is not proof. A kiss does not close a wound, and a licked paw is not a bandage. Tonight, we follow the evidence — five dated clues, two thousand years apart — to find out if spit really heals."
+   "id": "s6",
+   "text": "How much medicine does your mouth make every single day?"
   },
   {
-   "id": "a7",
-   "text": "So here is the case, and it opens now. A cut palm, a mouthful of medicine — and by morning, the cut is sealed shut. How? The first clue is two thousand years old."
-  },
-  {
-   "id": "b1",
-   "text": "Chapter one: the pharmacy in your mouth. About a liter of saliva a day — and it is ninety-nine percent water. The medicine is hiding in the last one percent."
-  },
-  {
-   "id": "b2",
-   "text": "Count it up. About a liter a day becomes more than twenty thousand liters in a lifetime — rough arithmetic, but picture it: a small swimming pool, made by your mouth, spat out, day after day."
-  },
-  {
-   "id": "b3",
-   "text": "So what is in the one percent? A wound-closing protein called histatin. An enzyme called lysozyme that bursts bacterial walls open. A painkiller called opiorphin. And growth factors — chemical messengers that tell wounded cells to rebuild."
-  },
-  {
-   "id": "b4",
-   "text": "And the rest of the drop is crowded. About a hundred million bacteria in every milliliter — more than seven hundred kinds of them, living in your mouth right now."
-  },
-  {
-   "id": "b5",
-   "text": "That is the paradox in one drop. The same mouthful that carries medicine carries a crowd of microbes. Healing and infection, riding in the same spit."
-  },
-  {
-   "id": "b6",
-   "text": "And here is the first warning, before we go any further. Human saliva carries far less growth factor than a mouse's — the animal version of this trick works better than ours. We are not mice, and our spit is not theirs."
-  },
-  {
-   "id": "b7",
-   "text": "So the pharmacy is real, and the crowd is real. But who first wrote any of this down? That is clue one — and it comes from Rome, in the year seventy-seven."
-  },
-  {
-   "id": "c1",
-   "text": "Clue one: the year seventy-seven. Pliny the Elder, writing his Natural History in Rome, prescribes fasting spit for boils, for sore eyes — even for snakebite. Spit as medicine, two thousand years ago."
-  },
-  {
-   "id": "c2",
-   "text": "Pliny was not a doctor. He was a collector of remedies, and plenty of his cures were nonsense. But this one — spit on a wound — survived two thousand years of folk medicine. Why did this one survive?"
-  },
-  {
-   "id": "c3",
-   "text": "Because every generation kept doing it. Soldiers, mothers, children — they all licked their wounds, and the wounds closed. The instinct outlived the empire that wrote it down."
-  },
-  {
-   "id": "c4",
-   "text": "Clue two jumps eighteen centuries. The twenty-first of November, nineteen twenty-one. Alexander Fleming has a cold — and he puts a drop of his own mucus on a plate covered in bacteria."
-  },
-  {
-   "id": "c5",
-   "text": "By morning, the bacteria are gone — cleared in a ring around the drop, like a halo. Fleming tests tears. He tests saliva. The same clearing, every time. He has found an enzyme, and he names it lysozyme."
-  },
-  {
-   "id": "c6",
-   "text": "Lysozyme works like a wrecking ball. It cuts the walls of bacterial cells until the cell bursts open. It is in your tears, your mucus, your milk — and your spit, right now."
-  },
-  {
-   "id": "c7",
-   "text": "Two clues, two thousand years apart — and both point the same way. Something in the fluids of your own body kills bacteria. But killing bacteria is not the same as closing a wound."
-  },
-  {
-   "id": "c8",
-   "text": "So the next clue has to answer the harder question. Can spit actually close a wound — and can it stop the pain? The answer comes from a laboratory, in two thousand and six."
-  },
-  {
-   "id": "d1",
-   "text": "Clue three: two thousand and six. In a Paris laboratory, scientists find a brand-new painkiller — in human saliva. Five amino acids, a tiny chain, and they call it opiorphin."
-  },
-  {
-   "id": "d2",
-   "text": "In rats, opiorphin matched morphine — one milligram of opiorphin did the work of three milligrams of morphine. And in the pin-pain test, rats needed up to six times as much morphine as opiorphin. In rats — remember that."
-  },
-  {
-   "id": "d3",
-   "text": "How does it work? Opiorphin does not numb you the way morphine does. It blocks the two enzymes that destroy your own natural painkillers — so your body's own relief lasts longer."
-  },
-  {
-   "id": "d4",
-   "text": "But here is the catch, and it matters. That six-times figure is rats only. No opiorphin drug has ever reached patients. The headline stayed in the laboratory — it never became a medicine."
-  },
-  {
-   "id": "d5",
-   "text": "Clue four: two thousand and eight. In lab dishes, scientists scratch a layer of wounded cells — and bathe half of them in saliva. By sixteen hours, the saliva-bathed scratches close up to twice as fast. In lab dishes."
-  },
-  {
-   "id": "d6",
-   "text": "The hero is histatin — the wound-closing protein in your spit. It tells the wounded cells to crawl forward and close the gap. In lab dishes, it works beautifully. Remember those words: in lab dishes."
-  },
-  {
-   "id": "d7",
-   "text": "That is a real result — but it is a dish result, not a body result. Cells in a dish have no immune system, no blood, no bacteria crowding in. A dish is not a wound, and a dish cannot get infected."
-  },
-  {
-   "id": "d8",
-   "text": "So the evidence is building: a painkiller stronger than morphine in rats, a wound-closer twice as fast in lab dishes, an enzyme that bursts bacteria. Three clues, all pointing at medicine — and all of them carrying their warnings with them."
-  },
-  {
-   "id": "d9",
-   "text": "But there is one clue left — the biggest one. A study that cut real wounds in real people, in two thousand and eighteen. And it changes the whole case."
-  },
-  {
-   "id": "e1",
-   "text": "Clue five: two thousand and eighteen. Thirty volunteers, and a careful, painful test. A three-millimeter hole cut in the inside of the cheek — and the very same hole cut in the skin of the arm."
-  },
-  {
-   "id": "e2",
-   "text": "The mouth wounds closed in days, with barely a scar. The skin wounds had scarcely changed after two weeks. Mouth wounds heal about five to ten times faster than skin wounds."
-  },
-  {
-   "id": "e3",
-   "text": "Now the test. What would healing spit do for your cut palm? Close it in hours. Kill the pain while it works. Leave no scar behind. Three gifts — and each one of them has a price."
-  },
-  {
-   "id": "e4",
-   "text": "First gift: speed. A cut closed in hours sounds like a miracle — until you remember the crowd. Every drop carries about a hundred million bacteria, and a licked wound can get infected. Speed, with a passenger."
-  },
-  {
-   "id": "e5",
-   "text": "Second gift: no pain. Opiorphin is strong in rats — but no opiorphin drug has ever reached patients, so your spit alone will not numb a real wound. And the third gift, no scar? That belongs to the mouth, not the spit."
-  },
-  {
-   "id": "e6",
-   "text": "Here is the correction — the twist the whole case turns on. The mouth heals fast because its tissue is permanently primed for repair. Its healing genes, SOX2 and PITX1, are already switched on. Skin has to warm up first."
-  },
-  {
-   "id": "e7",
-   "text": "So here is the question the case turns on: if the spit is real medicine — but the mouth does most of the healing — would you still lick a real wound?"
-  },
-  {
-   "id": "f1",
-   "text": "The verdict. Today, the case closes like this. Your spit really is medicine — histatin, lysozyme, opiorphin, all real, all in your mouth right now."
-  },
-  {
-   "id": "f2",
-   "text": "But the famous fast healing of mouth wounds is mostly the mouth itself — tissue permanently primed for repair — not the spit. And the same drop that heals can infect."
-  },
-  {
-   "id": "f3",
-   "text": "So remember the two things that matter. Spit is medicine — but licking a skin wound is a gamble, not a cure. In the worst cases, that infection turns septic. Do not lick a real wound."
-  },
-  {
-   "id": "f4",
-   "text": "If your spit could close any cut in hours — but every drop carried 100 million bacteria — would you use it on a real wound? Tell us where you'd draw the line."
-  },
-  {
-   "id": "f5",
-   "text": "Science note, plainly. Histatin's twice-as-fast figure comes from lab dishes, not bodies. Opiorphin's six-times figure comes from rats only, and no opiorphin drug has ever reached patients. About a liter a day is a range — half a liter to a liter and a half — and the lifetime figure is rough arithmetic."
-  },
-  {
-   "id": "f6",
-   "text": "My sources, to check me: Oudhoff, two thousand and eight, in the FASEB Journal, on histatin; Iglesias-Bartolome, two thousand and eighteen, on mouth wounds healing five to ten times faster; Wisner, two thousand and six, on opiorphin; Fleming, nineteen twenty-two, on lysozyme; and Pliny, in the year seventy-seven."
-  },
-  {
-   "id": "f7",
-   "text": "Your mouth makes a liter of medicine a day — and you spit it out. Thank the Romans who wrote it down, the scientist with a cold, and the thirty volunteers who let doctors cut their cheeks to prove it."
-  },
-  {
-   "id": "f8",
-   "text": "The medicine was in your mouth all along. The wisdom is knowing when not to use it. Goodnight. And if you cut yourself tonight — reach for the kit, not your tongue."
+   "id": "s7",
+   "text": "Your spit carries a wound-closing protein and a painkiller stronger than morphine — and a hundred million bacteria in every drop."
   }
  ]
 }
