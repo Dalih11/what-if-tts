@@ -1,188 +1,32 @@
 {
  "clips": [
   {
-   "id": "a1",
+   "id": "s1",
    "text": "Your tongue has around ten thousand taste buds — and it can also see."
   },
   {
-   "id": "a2",
-   "text": "Because seeing never lived in your eyes. It lived in your brain — and your tongue is wired straight into it."
+   "id": "s2",
+   "text": "He is blind. He has never seen a rock wall. But he is climbing one — and he is reading every hold with his tongue."
   },
   {
-   "id": "a3",
-   "text": "Next: the device, the chair that proved it, and the price. Stay with me."
+   "id": "s3",
+   "text": "Four hundred tiny pulses on his tongue — and within fifteen minutes, he can tell where things are. A doorway. A cup. A face."
   },
   {
-   "id": "a4",
-   "text": "This is the moment after. A blind man stands at the foot of a rock wall he has never seen — and he is about to climb it tonight, with a camera on his forehead and a lollipop on his tongue."
+   "id": "s4",
+   "text": "He plays tic-tac-toe with his daughter. He reads letters off cards. He climbs — seeing the wall through his tongue."
   },
   {
-   "id": "a5",
-   "text": "You know your tongue. It tastes your coffee, it finds the popcorn stuck in your teeth. It is the one part of you that never stops working — and you have never once asked it to see."
+   "id": "s5",
+   "text": "The camera films the world. His tongue feels the picture. And fifteen minutes later, the wall makes sense."
   },
   {
-   "id": "a6",
-   "text": "But tonight, a blind climber is about to prove it can. And the proof starts with a device that turns the world into tiny electric shocks — four hundred of them, painted on a tongue."
+   "id": "s6",
+   "text": "So why can your tongue work as a second pair of eyes?"
   },
   {
-   "id": "a7",
-   "text": "So here is the story, and it starts now. A tongue, a camera, and a brain that does not care where its pictures come from. The device is first."
-  },
-  {
-   "id": "b1",
-   "text": "Chapter one: the device. A pair of sunglasses with a camera, a controller the size of a phone — and a small square that sits on your tongue."
-  },
-  {
-   "id": "b2",
-   "text": "Count the points. Four hundred tiny electrodes, in a square the size of a postage stamp. Each one is a pixel — and together, they draw the world on your tongue."
-  },
-  {
-   "id": "b3",
-   "text": "Here is how it works. The camera films the world. The controller turns the picture into electric pulses. Bright things buzz hard, dark things stay quiet — and your tongue feels the picture."
-  },
-  {
-   "id": "b4",
-   "text": "And what does it feel like? Not like seeing. Like sparkling water. Like a thousand tiny bubbles on your tongue — prickly, fizzy, alive. One blind artist called it Coca-Cola bubbles."
-  },
-  {
-   "id": "b5",
-   "text": "Fifteen minutes. That is all it takes to start. Within fifteen minutes, a blind person using the device can tell where things are — a doorway, a cup, a face. Not clearly. But there."
-  },
-  {
-   "id": "b6",
-   "text": "Give it ten hours of training, and the picture sharpens. Users read letters off cards. They play tic-tac-toe with their children. They find elevator buttons without fumbling. They climb rock walls."
-  },
-  {
-   "id": "b7",
-   "text": "So the device works. But a device is not a proof — it is a gadget. The proof that a brain can learn to see through skin came fifty years earlier, in a dentist's chair."
-  },
-  {
-   "id": "c1",
-   "text": "Chapter two: the chair. Nineteen sixty-nine. A scientist named Paul Bach-y-Rita builds a dental chair with four hundred vibrating pins in the back of it."
-  },
-  {
-   "id": "c2",
-   "text": "The idea is mad, and it is simple. A camera films the room. The picture becomes a pattern of vibrations on the blind person's back. Four hundred pins, each one a pixel of pressure."
-  },
-  {
-   "id": "c3",
-   "text": "The first users feel nothing but buzzing. Then, after twenty to forty hours of training, something shifts. They stop feeling pins — and start seeing shapes."
-  },
-  {
-   "id": "c4",
-   "text": "They learn perspective. They learn shadows. A cup is a cup, a telephone is a telephone — and they can point at them across the room, without ever opening their eyes."
-  },
-  {
-   "id": "c5",
-   "text": "Bach-y-Rita called it sensory substitution. The brain does not care which door the signal walks through. Give it a picture through the skin, and it will build a picture in the mind."
-  },
-  {
-   "id": "c6",
-   "text": "And the chair had a problem the tongue does not. The back is blunt — two points have to be sixty-seven millimetres apart before the back can tell them apart. The tongue is a different animal entirely."
-  },
-  {
-   "id": "c7",
-   "text": "So the chair proved the idea, and the tongue perfected the wire. But why the tongue? Why not the fingertip, or the palm? The answer is in the tongue itself."
-  },
-  {
-   "id": "c8",
-   "text": "The next chapter is the tongue — the sharpest, wettest wire in your body. And the numbers in it are the reason this whole trick works."
-  },
-  {
-   "id": "d1",
-   "text": "Chapter three: why the tongue. Your tongue can tell two pinpricks about a millimetre apart. Your fingertips need more than twice that distance. Your back needs sixty-seven."
-  },
-  {
-   "id": "d2",
-   "text": "Picture it as a map. The back is a desert — one sensor every sixty-seven millimetres. The fingertip is a town. The tongue is a city — a sensor every millimetre, packed tight."
-  },
-  {
-   "id": "d3",
-   "text": "And the tongue is always wet. Saliva is salty water, and salty water carries electricity. The device does not have to fight dry skin — it paints straight onto a living wire."
-  },
-  {
-   "id": "d4",
-   "text": "Then there is the map in your brain. The tongue owns a huge patch of it — far bigger than its size deserves. Your brain spends more space on your tongue than on your whole back, and that extra space is what turns buzzing into pictures."
-  },
-  {
-   "id": "d5",
-   "text": "So the tongue is sharp, it is wet, and it is wired straight into the biggest switchboard you own. Four hundred points of light land on it — and the brain does the rest."
-  },
-  {
-   "id": "d6",
-   "text": "And here is the part scientists still argue about. Does the tongue's signal reach the part of the brain that normally sees — the visual cortex? Or does the touch part of the brain learn to do the seeing?"
-  },
-  {
-   "id": "d7",
-   "text": "Some users show activity in the visual cortex — the seeing part lighting up from a tongue signal. Others do not. The honest answer is: we do not know yet. The brain builds the picture. Exactly where it builds it is still an open question."
-  },
-  {
-   "id": "d8",
-   "text": "But the picture gets built. Sixty-nine out of seventy-four people, after a year of training, passed an object-recognition test with the device. Not perfect sight. Real sight, through a tongue."
-  },
-  {
-   "id": "d9",
-   "text": "So the tongue works. But every swap has a price — and this one is steep. Four hundred points against a hundred and twenty-six million. The next chapter is the bill."
-  },
-  {
-   "id": "e1",
-   "text": "Chapter four: the price. Your eye has roughly a hundred and twenty-six million light sensors. The device has four hundred. That is about three hundred thousand times fewer points."
-  },
-  {
-   "id": "e2",
-   "text": "Picture the gap. Four hundred dots — you can count them. A hundred and twenty-six million — a stadium full of dots, a city of them. The tongue sees the world in four hundred pixels. Your eye sees it in a hundred and twenty-six million."
-  },
-  {
-   "id": "e3",
-   "text": "Then the money. The device costs around ten thousand dollars. And the battery lasts about three hours. Three hours of seeing — then you plug your eyes in to charge."
-  },
-  {
-   "id": "e4",
-   "text": "Then the training. Ten hours with a certified instructor, minimum — and a year of practice before most users pass the object test. This is not a pair of glasses you put on. It is a language you learn."
-  },
-  {
-   "id": "e5",
-   "text": "And then the swap itself. While you see with your tongue, you cannot taste. The device sits right where your food goes. You cannot eat and see at the same time — and you cannot talk clearly either, not with a lollipop buzzing on your tongue."
-  },
-  {
-   "id": "e6",
-   "text": "And it is not a replacement for sight. The FDA approved it only as a helper — alongside a cane, alongside a guide dog. It does not restore vision. It lends you a little of it, through a wire."
-  },
-  {
-   "id": "e7",
-   "text": "So here is the question the whole story turns on: if seeing meant giving up tasting — giving up talking while you see — would you still take the swap?"
-  },
-  {
-   "id": "f1",
-   "text": "The verdict. Today, the story closes like this. Your tongue can see — because seeing never lived in your eyes. It lived in your brain."
-  },
-  {
-   "id": "f2",
-   "text": "The proof is a chair from 1969, a device from 2015, and a blind climber on a rock wall in the dark. Four hundred points of light, a tongue sharp enough to read them, and a brain that builds the picture from whatever door the signal walks through."
-  },
-  {
-   "id": "f3",
-   "text": "But remember the price. Four hundred points against a hundred and twenty-six million. Ten thousand dollars. Ten hours of training. And while you see, you cannot taste — and you cannot talk. A real swap, with a real bill."
-  },
-  {
-   "id": "f4",
-   "text": "If seeing with your tongue meant you couldn't taste food while you saw — would you take the swap? Tell us what you'd give up, and what you'd want to see first."
-  },
-  {
-   "id": "f5",
-   "text": "Science note, plainly. The taste-bud count is a range — two thousand to ten thousand, most adults around ten thousand. The one-millimetre touch figure is a range too — about one to three millimetres across sources. The fifteen-minute learning figure comes from the early tongue device, not the 2015 model."
-  },
-  {
-   "id": "f6",
-   "text": "My sources, to check me: Bach-y-Rita, nineteen sixty-nine, in Nature, on the chair with four hundred pins; the FDA, two thousand and fifteen, on the BrainPort device; Scientific American, two thousand and nine, on the fifteen minutes and the open question of which part of the brain builds the picture; and the Radiolab story of Emilie, who called it Coca-Cola bubbles on her tongue."
-  },
-  {
-   "id": "f7",
-   "text": "Your tongue has around ten thousand taste buds — and it can also see. Thank the scientist with the vibrating chair, the blind climber on the wall, and the artist who tasted the light first."
-  },
-  {
-   "id": "f8",
-   "text": "The light was in your brain all along. Your tongue was just another way in. Goodnight. And if you close your eyes tonight — remember, your tongue is still awake."
+   "id": "s7",
+   "text": "Your brain builds the picture, not your eyes — and the price is you can't taste while you see."
   }
  ]
 }
