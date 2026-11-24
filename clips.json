@@ -1,32 +1,188 @@
 {
  "clips": [
   {
-   "id": "s1",
-   "text": "Snow throws back 80 percent of the sun's burning light — how did bone save his sight?"
+   "id": "a1",
+   "text": "The quietest room on Earth is twenty-five decibels below silence — and it will deafen you."
   },
   {
-   "id": "s2",
-   "text": "He is a hunter on the spring ice — and his sunglasses are a strip of bone with a slit in it."
+   "id": "a2",
+   "text": "So why can you hear your own heartbeat in the quietest room on Earth? Because your ears never switch off — they turn up. Alone in the dark, hand pressed to your chest, your heartbeat sounds like a drum."
   },
   {
-   "id": "s3",
-   "text": "No glass. No lenses. And the slit makes him see SHARPER, not worse."
+   "id": "a3",
+   "text": "Next: the room, the clock, and the lie everyone believes about forty-five minutes. Stay with me."
   },
   {
-   "id": "s4",
-   "text": "He walks all day across a burning white mirror — and his eyes stay safe."
+   "id": "a4",
+   "text": "This is the moment after. The steel door has sealed shut behind you, and the man outside — Steven Orfield, who built this room — has just locked it."
   },
   {
-   "id": "s5",
-   "text": "The bone blocks the glare. The slit does the seeing."
+   "id": "a5",
+   "text": "You know what quiet feels like. A library after closing. An empty house at night. The minute after the kids fall asleep. Now take all of that quiet — and take away its last sound."
   },
   {
-   "id": "s6",
-   "text": "How did bone save his sight?"
+   "id": "a6",
+   "text": "One chair in the middle of the room. Grey wedges cover every wall, the floor, the ceiling — wedges a metre deep, swallowing sound. You sit down. The door is shut. The clock is running."
   },
   {
-   "id": "s7",
-   "text": "The slit cuts the burning light to almost nothing — and sharpens his sight like a pinhole camera."
+   "id": "a7",
+   "text": "Here is the story. One chair, one locked door, one clock on the wall — and a room so quiet it will make you hear yourself. The room is first."
+  },
+  {
+   "id": "b1",
+   "text": "Chapter one: the room. The myth goes like this — silence is empty. Nothing to hear, nothing to feel. This room proves that wrong."
+  },
+  {
+   "id": "b2",
+   "text": "Count the record. In 2004, the quietest room measured minus nine point four decibels. By 2012, about minus thirteen. In 2015, Microsoft took the title with minus twenty point three five. Then, in 2021, Orfield took it back — minus twenty-four point nine."
+  },
+  {
+   "id": "b3",
+   "text": "Zero decibels is roughly the quietest sound a human ear can hear. A whisper is about thirty. This room measures twenty-five below zero — quieter than silence itself. And still, the loudest place you will sit."
+  },
+  {
+   "id": "b4",
+   "text": "The room is a steel cube, twelve feet long, ten wide, seven high — a room inside a room inside a room. Double walls of insulated steel, about a foot of concrete. The inner room hangs on springs, so no vibration from outside can reach you."
+  },
+  {
+   "id": "b5",
+   "text": "Every surface is lined with wedges of fibreglass, about a metre deep — giant grey teeth, pointing at you from all six sides. They swallow ninety-nine point nine nine percent of all sound. Almost nothing is left."
+  },
+  {
+   "id": "b6",
+   "text": "Here is the truth the myth gets backwards. Silence does not get quieter. It gets louder — until the only sound left is you."
+  },
+  {
+   "id": "b7",
+   "text": "The room is real, the number is real, and the silence is waiting. Now the clock starts. Minute one — and your own voice already sounds wrong."
+  },
+  {
+   "id": "c1",
+   "text": "Chapter two: the clock. The myth goes like this — you will hear nothing in there. Just sit, and wait. Minute by minute, the opposite happens."
+  },
+  {
+   "id": "c2",
+   "text": "Minute one. You speak — and your voice sounds wrong. With no echo, your words die at your lips. Nothing for sound to bounce off, so your voice comes back flat and small, like it belongs to someone else."
+  },
+  {
+   "id": "c3",
+   "text": "Minute five. A ringing starts in your ears — a faint high note, hiding under the noise of the world. Now the world is gone, and the ringing has the room."
+  },
+  {
+   "id": "c4",
+   "text": "Minute fifteen. Now you hear your heartbeat — a slow drum in your chest. Under it, your blood moving, your stomach gurgling, your eyelids shutting. Your body has become the loudest thing in the room."
+  },
+  {
+   "id": "c5",
+   "text": "Minute thirty. You try to stand — and you cannot. Not weak legs — you have lost the cues your balance relies on. Orfield says it plainly: after half an hour, you have to be in a chair."
+  },
+  {
+   "id": "c6",
+   "text": "Your balance does not come from sound. It comes from fluid-filled canals in your inner ear — and they still work. What is gone is the echo. Without it, your brain has no map of the room — no map, no standing."
+  },
+  {
+   "id": "c7",
+   "text": "One man heard the same climb. Callux, in a chamber in London, heard ringing at five minutes, his own blood at fifteen — and after about an hour, he started seeing things that were not there. A train underneath him. People walking. None of it was real."
+  },
+  {
+   "id": "c8",
+   "text": "The clock is real, the climb is real, and the room is doing what it does to everyone. But the famous limit — the one everyone quotes — is where the story turns. Minute forty-five is next."
+  },
+  {
+   "id": "d1",
+   "text": "Chapter three: the limit. The myth goes like this — nobody can last more than forty-five minutes in the quietest room on Earth. After that, you go mad. That line was not science — it was a headline."
+  },
+  {
+   "id": "d2",
+   "text": "Minute forty-five. The number comes from a newspaper — the Daily Mail, in 2012. 'The longest anyone can bear Earth's quietest place is forty-five minutes.' That was the headline. Orfield says the 'going mad' quote was made up. It appalled him."
+  },
+  {
+   "id": "d3",
+   "text": "There was never a contest. There was never a cash prize. The seven-million-dollar prize was a rumour, spread on social media — and the lab was bombarded with people demanding to try it. The 'challenge' is paid, not a prize."
+  },
+  {
+   "id": "d4",
+   "text": "The real record is three hours. A journalist named Caity Weaver booked a three-hour session in the dark — the record before her was two hours. She sat alone for three hours, and came out feeling like she had been to a spa."
+  },
+  {
+   "id": "d5",
+   "text": "After fifteen minutes, she saw her first flash of light in the dark. That was it. One flash, in three hours. She wrote that the only hallucination she had was one made up in other people's heads — a fantasy that a room could be hazardously quiet."
+  },
+  {
+   "id": "d6",
+   "text": "Some people hallucinate. Some people get bored. Callux saw people walking around a room that was empty. Weaver saw one flash of light and felt rested. Same room, same silence — different brains, different stories. Nobody went mad."
+  },
+  {
+   "id": "d7",
+   "text": "Here is the differentiator, plainly. The famous forty-five-minute limit is not science. It is a tabloid headline from 2012. The real record is three hours in the dark — and the woman who set it came out rested."
+  },
+  {
+   "id": "d8",
+   "text": "Even Microsoft's chamber tells the same story. The longest anyone stayed in theirs was about fifty-five minutes — and they walked out fine. The room does not break you. It waits for you to listen."
+  },
+  {
+   "id": "d9",
+   "text": "The limit is a lie, the record is three hours, and nobody went mad. But the room still does something real — something a composer discovered in 1951, long before any headline. The next chapter is the mechanism."
+  },
+  {
+   "id": "e1",
+   "text": "Chapter four: the mechanism. The myth goes like this — the room drives you mad because the silence breaks your mind. The truth is simpler. Your ears never switch off. They turn up."
+  },
+  {
+   "id": "e2",
+   "text": "In 1951, a composer named John Cage walked into a chamber at Harvard, expecting silence. He heard two sounds — one high, one low. He had come looking for nothing, and found his own body, playing."
+  },
+  {
+   "id": "e3",
+   "text": "The engineer told him what the sounds were. The high one, he said, was his nervous system. The low one was his blood in circulation. Two sounds — one high, one low — and no silence anywhere."
+  },
+  {
+   "id": "e4",
+   "text": "That explanation is disputed. Some experts say the high sound may simply have been ringing in his ears — tinnitus, not his nervous system. Say it carefully: the engineer told him so. The room told him something else — there is no such thing as silence."
+  },
+  {
+   "id": "e5",
+   "text": "Cage wrote it down: 'Until I die there will be sounds. There is no such thing as silence.' A year later, his silent piece — four minutes and thirty-three seconds of a pianist playing nothing — premiered in Woodstock. The audience heard the room instead."
+  },
+  {
+   "id": "e6",
+   "text": "Here is why your brain fills the dark. Starved of sound, it turns up its own gain — and when there is still nothing to hear, it invents something. The gap is enormous: a whisper carries roughly three hundred thousand times more sound energy than this room. Your brain makes its own noise."
+  },
+  {
+   "id": "e7",
+   "text": "Here is the question the whole story turns on: if silence gets louder until the only sound left is you — what does a whole day in that room do to a person?"
+  },
+  {
+   "id": "f1",
+   "text": "The verdict. Tonight, the story closes like this. A whole day in the quietest room on Earth would not drive you mad. It would bore you, and introduce you to yourself."
+  },
+  {
+   "id": "f2",
+   "text": "But remember the price. Every blink, every swallow, every joint creaking as you move — deafening. You become the sound, and the sound never stops."
+  },
+  {
+   "id": "f3",
+   "text": "The proof is a steel cube, a chair, and a clock. Minus twenty-four point nine decibels, measured by Guinness. Three hours in the dark, set by a journalist who came out rested. A limit that was never real."
+  },
+  {
+   "id": "f4",
+   "text": "If you had one hour alone in the quietest room on Earth — no phone, no music, just you and the silence — how long do you think you'd last? Tell us what you'd hear first."
+  },
+  {
+   "id": "f5",
+   "text": "Science note, plainly. The forty-five-minute limit is a myth — a 2012 headline, never a study. Cage's nervous-system explanation is the engineer's claim, and it is disputed. The three-hundred-thousand-times figure is rough arithmetic, not a measurement. 'Bones grinding' is a reported claim, not a study. Minus twenty-four point nine does not mean negative sound — only sound below the limit of hearing."
+  },
+  {
+   "id": "f6",
+   "text": "My sources: Guinness World Records, on the quietest place, minus twenty-four point nine decibels, November 2021; John Cage, in Silence, on the two sounds at Harvard in 1951; Caity Weaver, in the New York Times Magazine, on three hours in the dark; and the Skeptical Inquirer, on the forty-five-minute myth."
+  },
+  {
+   "id": "f7",
+   "text": "The quietest room on Earth is twenty-five decibels below silence — and it will deafen you. Thank the composer who heard two sounds, the journalist who sat three hours in the dark, and the man who built it."
+  },
+  {
+   "id": "f8",
+   "text": "Silence does not get quieter. It gets louder, until the only sound left is you. Goodnight. If you ever sit in a quiet room tomorrow — listen. You are already the sound."
   }
  ]
 }
