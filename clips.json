@@ -1,188 +1,32 @@
 {
  "clips": [
   {
-   "id": "a1",
+   "id": "s1",
    "text": "One traffic jam stretched a hundred kilometres — and lasted twelve days."
   },
   {
-   "id": "a2",
-   "text": "So why does a traffic jam last twelve days when there's no crash, no closure, nothing blocking the road? Because a traffic jam isn't a wall. It's a wave — and it's coming for you backwards. You are not stuck in the jam. The jam is stuck on you."
+   "id": "s2",
+   "text": "You are sitting in it. The brake lights ahead have not moved since sunrise."
   },
   {
-   "id": "a3",
-   "text": "Next: the wave, the record, and the two clocks inside your car. Stay with me."
+   "id": "s3",
+   "text": "A hundred kilometres of cars, standing still for twelve days — moving about a kilometre a day."
   },
   {
-   "id": "a4",
-   "text": "This is the moment after. You woke up in your car on a highway that has not moved in hours. The dashboard clock says half past seven. The brake lights ahead have not moved since sunrise."
+   "id": "s4",
+   "text": "And here is the strangest part. The jam is moving — backwards, toward you."
   },
   {
-   "id": "a5",
-   "text": "You know this feeling. The red lights ahead. The engine ticking. The driver in front checking his mirror. Only this time, the road has forgotten you exist."
+   "id": "s5",
+   "text": "You do not drive out of it. It drives past you."
   },
   {
-   "id": "a6",
-   "text": "Look at your dashboard. Two gauges tell the whole story. Half a tank of fuel. One bottle of water. Your sister, in the passenger seat, is already doing the maths."
+   "id": "s6",
+   "text": "So why does a traffic jam last twelve days when there's no crash, no closure, nothing blocking the road?"
   },
   {
-   "id": "a7",
-   "text": "Here is the story. One car, one passenger, one highway — and three clocks ticking down. The wave is first."
-  },
-  {
-   "id": "b1",
-   "text": "Chapter one: the wave. Here is the first surprise — there is no crash ahead. No closure. Nothing blocking the road. And still, nobody moves."
-  },
-  {
-   "id": "b2",
-   "text": "Watch one driver tap the brakes. The driver behind takes about a second to react — and brakes a little harder. Ten cars back, someone stops dead. That is the wave being born."
-  },
-  {
-   "id": "b3",
-   "text": "The wave rolls backwards down the highway, against the traffic, at roughly twenty kilometres an hour. The cars ahead of you are already moving. The jam itself is what is stuck."
-  },
-  {
-   "id": "b4",
-   "text": "In 2008, Japanese physicists proved it: twenty-two cars on a ring road, told to hold a steady speed and even spacing. Within minutes, small wobbles became a stop-and-go wave circling the track forever — a jam with no bottleneck, no junction, no obstacle."
-  },
-  {
-   "id": "b5",
-   "text": "Here is the arithmetic. When the queue starts moving, each driver pulls away one point eight seconds after the one in front. Stopped cars stand seven point four metres apart. Seven point four metres, every one point eight seconds — about fifteen kilometres an hour, the speed the queue empties backwards."
-  },
-  {
-   "id": "b6",
-   "text": "So here is the truth, plainly. A traffic jam is not a wall. It is a wave, and it is coming for you backwards. You do not drive out of a jam. The jam drives past you."
-  },
-  {
-   "id": "b7",
-   "text": "The wave is real, the maths is real, and the road is full of waves. But one wave in China, in August 2010, became the longest jam in history. The record is next."
-  },
-  {
-   "id": "c1",
-   "text": "Chapter two: the record. The fourteenth of August, 2010. A highway in China called the G110 — and a jam that would stretch more than a hundred kilometres and last twelve days."
-  },
-  {
-   "id": "c2",
-   "text": "Count the record. More than a hundred kilometres of cars. Twelve days, the fourteenth to the twenty-sixth of August. Cars moving about one kilometre a day. And a bottle of water that cost one yuan — sold for ten."
-  },
-  {
-   "id": "c3",
-   "text": "There was no accident. A spike in heavy coal trucks heading to Beijing, and roadworks that cut the road's capacity in half. Traffic had grown forty percent every year — and was already sixty percent over its design capacity."
-  },
-  {
-   "id": "c4",
-   "text": "And the hard shoulder became a market. Vendors walked between the cars selling food, water and cigarettes at inflated prices. One bottle of water — ten times the normal price. When the road stops, the roadside starts selling."
-  },
-  {
-   "id": "c5",
-   "text": "Some drivers were stuck for five days. Five days in one car on one road, moving about a kilometre a day. Nobody sat in it for all twelve — the jam lasted twelve days, but its drivers came and went."
-  },
-  {
-   "id": "c6",
-   "text": "Here is why the arithmetic stopped adding up. A motorway lane carries at most about two thousand vehicles an hour — a standard figure, not a measurement from this jam. Past that point, throughput collapses."
-  },
-  {
-   "id": "c7",
-   "text": "The jam is not one fixed group of cars. Cars join at the back and accelerate away at the front. The wave persists for hours and travels tens of kilometres. The cars change. The wave stays."
-  },
-  {
-   "id": "c8",
-   "text": "The record is real, the numbers are real, and the jam outlasted holidays. But the jam is not what breaks you. Your own car is. The fuel clock is next."
-  },
-  {
-   "id": "d1",
-   "text": "Chapter three: the fuel clock. Half a tank. About a litre an hour with the air-con on. Do the maths — and the maths is not kind."
-  },
-  {
-   "id": "d2",
-   "text": "A typical small car idling with the air-con on burns about a litre an hour — a range, roughly half a litre to one and a half. Half a tank is roughly twenty-five litres, so twenty-five divided by about one is about a day of air-con. Rough arithmetic, not a measurement."
-  },
-  {
-   "id": "d3",
-   "text": "Your sister does the maths out loud. Half a tank, a litre an hour, twelve days of jam. 'We have about a day of cool air,' she says. 'Then we choose: fuel, or shade.'"
-  },
-  {
-   "id": "d4",
-   "text": "Here is what happens when you switch it off. In a parked car in the sun, the inside heats up nineteen degrees Fahrenheit in ten minutes. Twenty-nine in twenty. Forty-three in an hour. Most of the rise happens in the first half hour."
-  },
-  {
-   "id": "d5",
-   "text": "Crack the windows? It barely helps — about two or three degrees. The car is a greenhouse with the doors locked. Ten minutes in the sun, and the inside is nineteen degrees hotter than the outside."
-  },
-  {
-   "id": "d6",
-   "text": "So here is the choice, and there is no good answer. Keep the air-con on, and you burn your fuel in about a day. Switch it off, and your car becomes an oven in ten minutes."
-  },
-  {
-   "id": "d7",
-   "text": "The jam is not what breaks you. Your own car is. Half a tank and one bottle of water, against twelve days — the road is not the problem. The clocks inside your car are."
-  },
-  {
-   "id": "d8",
-   "text": "Bigger cars burn faster — a large SUV can drink two to nearly four litres an hour idling. The truck driver in the next lane has the same maths, bigger tank, bigger engine. Nobody on this road is winning."
-  },
-  {
-   "id": "d9",
-   "text": "The fuel clock is ticking, the heat is rising, and the air-con is a choice every hour. But there is a second clock, quieter than the first. The water clock is next."
-  },
-  {
-   "id": "e1",
-   "text": "Chapter four: the water clock. One bottle. Twelve days. And a body that loses roughly two litres of water a day, just sitting still."
-  },
-  {
-   "id": "e2",
-   "text": "You have one bottle. At rest, a healthy adult loses roughly two to two and a half litres a day. One bottle is not a day's water — a few hours' worth. And the vendors are charging ten times the price."
-  },
-  {
-   "id": "e3",
-   "text": "Roughly — and it varies — thirst and a headache within hours. Confusion and a failing memory by about a day. By a day and a half, the kidneys are struggling and urine nearly stops. These are rough stages, not a death clock."
-  },
-  {
-   "id": "e4",
-   "text": "People say three days without water. That is a rough average, not a law. One review of a hundred and twenty-seven cases put the median at about thirty-eight hours. Some lasted far longer. Some did not. It varies — with heat, with activity, with health."
-  },
-  {
-   "id": "e5",
-   "text": "And there is a second price for sitting still. After four hours seated and immobile, the risk of a blood clot in your legs doubles — plane, train, bus or car. The absolute risk stays low, about one in six thousand. But the doubling is real, and the clock starts at four hours."
-  },
-  {
-   "id": "e6",
-   "text": "The truck driver in the next lane has sat longer than you. He stretches when the wave lets him move a car's length. Same lesson for everybody here: a car seat is not a chair. After four hours, it is a risk."
-  },
-  {
-   "id": "e7",
-   "text": "So here is the question the whole story turns on: if the jam is a wave, and the clocks inside your car are the real danger — what would you spend first? Your fuel, or your water?"
-  },
-  {
-   "id": "f1",
-   "text": "The verdict. Tonight, the story closes like this. A traffic jam is not a wall. It is a wave. And you do not drive out of it — it drives past you."
-  },
-  {
-   "id": "f2",
-   "text": "The jam clears from the front, not the back. Cars at the front accelerate away, one point eight seconds at a time — and the wave rolls backwards until there is no wave left. By the twenty-sixth of August, the longest jam in history had largely gone."
-  },
-  {
-   "id": "f3",
-   "text": "The proof is a highway, a gauge, and a bottle. More than a hundred kilometres. Twelve days. About a kilometre a day. Half a tank, about a litre an hour. One bottle, ten times the price."
-  },
-  {
-   "id": "f4",
-   "text": "If you were stuck in the world's longest traffic jam with half a tank and one bottle of water — would you keep the air-con on and burn the fuel, or switch it off and bake? Tell us what you'd do first."
-  },
-  {
-   "id": "f5",
-   "text": "Science note, plainly. The dehydration timeline is approximate — it varies with heat, activity and health, and the three-day figure is a rough average, not a law. The fuel figure is a range, and half a tank lasting about a day of air-con is rough arithmetic. I am not stating the size of the track, because it was not verified."
-  },
-  {
-   "id": "f6",
-   "text": "My sources: Wikipedia, on the China National Highway 110 traffic jam; Jalopnik, on the worst jam ever recorded; Sugiyama and colleagues, 2008, on the ring-road experiment; the NGSIM data from the I-80; McLaren, Null and Quinn, 2005, on heat in enclosed vehicles; and the World Health Organization's WRIGHT project, on the clot risk."
-  },
-  {
-   "id": "f7",
-   "text": "One traffic jam stretched a hundred kilometres — and lasted twelve days. Thank the physicists who drove in circles, the truckers who waited five days, and the vendors who sold water on the hard shoulder."
-  },
-  {
-   "id": "f8",
-   "text": "A traffic jam is not a wall. It is a wave, coming for you backwards. Goodnight. If you ever sit in traffic tomorrow — look at your gauges. The road is not the problem. The clocks inside your car are."
+   "id": "s7",
+   "text": "The jam is a wave travelling backwards — and inside your car, the fuel and the water are running out. Tap the video link under my name."
   }
  ]
 }
