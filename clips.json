@@ -1,32 +1,188 @@
 {
  "clips": [
   {
-   "id": "s1",
-   "text": "One traffic jam stretched a hundred kilometres — and lasted twelve days."
+   "id": "a1",
+   "text": "The oldest cooking pot is twenty thousand years old."
   },
   {
-   "id": "s2",
-   "text": "You are sitting in it. The brake lights ahead have not moved since sunrise."
+   "id": "a2",
+   "text": "So why did a lump of river mud survive the fire twenty thousand years before farms? Because fire did not just dry it. Fire changed it into something water could not take back."
   },
   {
-   "id": "s3",
-   "text": "A hundred kilometres of cars, standing still for twelve days — moving about a kilometre a day."
+   "id": "a3",
+   "text": "One pot. River mud, fire, dinner, broken shards, and a cave floor."
   },
   {
-   "id": "s4",
-   "text": "And here is the strangest part. The jam is moving — backwards, toward you."
+   "id": "a4",
+   "text": "Start with the cold. This is the Last Glacial Maximum, the coldest stretch of the last ice age, and dinner is not waiting in a planted field or a stored harvest. Every meal has to be found, carried, and made edible before dark."
   },
   {
-   "id": "s5",
-   "text": "You do not drive out of it. It drives past you."
+   "id": "a5",
+   "text": "You are hungry in a cave, with snow outside and no farm anywhere in your world. Raw food gives back less energy, and winter is taking more strength than the day returns. The cave is shelter, but shelter alone does not make food easier to use."
   },
   {
-   "id": "s6",
-   "text": "So why does a traffic jam last twelve days when there's no crash, no closure, nothing blocking the road?"
+   "id": "a6",
+   "text": "The problem is simple and brutal: without a container that survives fire, you cannot boil anything. You can roast over flame. You can chew tough food. But boiling needs a vessel fire cannot ruin. That missing vessel is the whole invention waiting inside the mud."
   },
   {
-   "id": "s7",
-   "text": "The jam is a wave travelling backwards — and inside your car, the fuel and the water are running out. Tap the video link under my name."
+   "id": "a7",
+   "text": "So follow one pot from the riverbank. It begins as mud that would melt in water, shaped by hands that need dinner to work. The river is first."
+  },
+  {
+   "id": "b1",
+   "text": "Chapter one: shaped. At Xianrendong Cave, in Jiangxi, about a hundred kilometres south of the Yangtze, the oldest known pottery begins with wet earth, sand, water, and patient hands."
+  },
+  {
+   "id": "b2",
+   "text": "The vessels were crude pots and bowls, about twenty centimetres across, with uneven thick walls from seven-tenths to one point two centimetres, round bases, and sand mixed into the clay."
+  },
+  {
+   "id": "b3",
+   "text": "Picture it in your hands. Not a neat kitchen pot. A heavy little bowl, pinched and pressed, with walls thick enough to feel clumsy and a round base that wants to rock on stone. It is small enough to carry and heavy enough to matter."
+  },
+  {
+   "id": "b4",
+   "text": "Wet clay is obedient at first. It takes the shape of your thumbs. It holds water for a moment. Then it remembers it is mud, softens at the edge, and starts to slump."
+  },
+  {
+   "id": "b5",
+   "text": "That is the trap. Dried mud can look solid in the hand, but water undoes it. A bowl that melts back toward the river cannot carry dinner through a fire or hold a boil."
+  },
+  {
+   "id": "b6",
+   "text": "Sand in the clay matters here. The old sherds carry that gritty temper, a practical detail in a pot made by people who needed it to work in winter, not to shine on a shelf. The detail is humble, and humble details are what survival usually looks like."
+  },
+  {
+   "id": "b7",
+   "text": "The shape is ready, but shape is not enough. Put this bowl in water now, and it fails. Fire has to change what the clay is, not just how it looks."
+  },
+  {
+   "id": "c1",
+   "text": "Chapter two: fired. The pot goes toward the hearth still fragile, still closer to river mud than stone, with winter pressing at the cave mouth and embers breathing orange in the dark."
+  },
+  {
+   "id": "c2",
+   "text": "At first, heat only dries it. The surface tightens. The colour deepens from wet silt toward terracotta. But drying is reversible, and reversible is useless when dinner needs boiling water to stay hot."
+  },
+  {
+   "id": "c3",
+   "text": "Then comes the turn. In typical clays, chemically bound water leaves roughly between four hundred eighty and six hundred degrees, and past about six hundred degrees the particles begin to sinter and bond."
+  },
+  {
+   "id": "c4",
+   "text": "That is the mechanism. Below that heat, mud can become mud again. Above it, the clay has crossed into ceramic, and water cannot simply talk it back into the riverbank it came from."
+  },
+  {
+   "id": "c5",
+   "text": "Say the boundary plainly: about six hundred degrees is the general ceramic-change threshold for typical clays. It is not a precise kiln number for Xianrendong, and these early pots were poorly fired."
+  },
+  {
+   "id": "c6",
+   "text": "Poorly fired means breakable. It means uneven, fragile, easy to ruin with one bad knock. But breakable is not the same as useless. A pot only has to survive long enough to hold a meal. One meal can be the difference between a tool and a curiosity."
+  },
+  {
+   "id": "c7",
+   "text": "Now the river mud has a new fate. It can sit near embers without slumping. It can take heat, hold water, and stay itself while the fire does the slow work of cooking. Steam becomes a signal that the cave has beaten the riverbank."
+  },
+  {
+   "id": "c8",
+   "text": "The pot has crossed the line from mud to ceramic. But a container is only a promise until something boils inside it and someone eats. Dinner is next."
+  },
+  {
+   "id": "d1",
+   "text": "Chapter three: dinner. Snow blows past the cave mouth, the hearth glows orange, and the little pot steams over the fire like it belongs there, holding heat against the cold."
+  },
+  {
+   "id": "d2",
+   "text": "Put the dates side by side. The oldest known pottery is about twenty thousand years old. Farming begins about twelve thousand years ago. Pottery was used some ten thousand years before people became sedentary or began cultivating plants."
+  },
+  {
+   "id": "d3",
+   "text": "So say it plainly: pots did not come from farming. Hunter-gatherers were likely boiling food about ten thousand years before fields. Dinner came first. Farms came later. That oldest known cooking pot belongs to hunters, not farmers."
+  },
+  {
+   "id": "d4",
+   "text": "Why would boiling matter in the cold? The research team reasoned that extreme cold caused food shortages, and cooked food yields more energy than raw food, so cooking may have helped people survive. That is why the little pot matters beyond its size."
+  },
+  {
+   "id": "d5",
+   "text": "That motive is reasoning, not proven intent. We cannot hear the cook explain the plan. We can see the problem winter set, and the tool that made hot food possible in a cave."
+  },
+  {
+   "id": "d6",
+   "text": "The evidence is written on the clay. Outer surfaces carry scorch marks and soot, and the paper's wording is careful: likely used for cooking. Likely is the honest word, and it stays in the story."
+  },
+  {
+   "id": "d7",
+   "text": "Other uses were also proposed: storage, fermentation, grinding grains, and extracting marrow. So do not turn every dark patch into proof of boiling. The leading reading is cooking, not the only possible one. The honest story keeps the door open while following the strongest clue."
+  },
+  {
+   "id": "d8",
+   "text": "A second cave keeps this from looking like a one-cave accident. Yuchanyan Cave has pottery at eighteen thousand three hundred cal BP, with deer-bone processing for marrow and grease in the same deep past. The pattern is wider than one hearth, even if the evidence stays fragmentary."
+  },
+  {
+   "id": "d9",
+   "text": "The meal is eaten. The fire sinks lower. But a poorly fired pot lives close to breaking, and breaking is where its second life begins in the cave floor."
+  },
+  {
+   "id": "e1",
+   "text": "Chapter four: broken. The pot cracks, as poorly fired clay so often does, and the bowl that held dinner becomes curved pieces scattered across the cave floor."
+  },
+  {
+   "id": "e2",
+   "text": "From the oldest levels at Xianrendong came two hundred eighty-two sherds. Their dates form a range, nineteen thousand two hundred to twenty thousand nine hundred cal BP, which is why the voice says about twenty thousand years."
+  },
+  {
+   "id": "e3",
+   "text": "A sherd is a rude kind of evidence. It keeps the curve of the wall, the grit in the clay, and the scorch on the outside, but it refuses to give back the whole meal. It is enough to argue from, and not enough to finish the argument."
+  },
+  {
+   "id": "e4",
+   "text": "That limit matters. Wood, skin, and basket containers can rot away. Fired clay survives, so the record is biased toward clay. Oldest known pottery is the careful phrase, not proof that no earlier container existed. Absence in the ground is not the same as absence in life."
+  },
+  {
+   "id": "e5",
+   "text": "Then the shards give up a stranger fact. Fire had already learned another trick with clay, thousands of years before the oldest known pot, in a colder world of mammoth hunters."
+  },
+  {
+   "id": "e6",
+   "text": "At Dolní Věstonice, a fired-clay figurine only eleven point one centimetres tall was made up to twenty-nine thousand years ago, fired between five hundred and eight hundred degrees. Art came before dinner."
+  },
+  {
+   "id": "e7",
+   "text": "Hundreds of ceramic animal figures and two kiln structures were found at that mammoth-hunter site. The answer is written in what fire leaves behind. So what survives better: the meal, or the thing that held it?"
+  },
+  {
+   "id": "f1",
+   "text": "Chapter five: dug up. Twenty thousand years later, the cave floor gives back curved pieces of terracotta, and the broken pot starts speaking in fragments instead of steam."
+  },
+  {
+   "id": "f2",
+   "text": "Lay the whole life out in order. Fired-clay art up to twenty-nine thousand years ago. Oldest known pottery about twenty thousand years ago. Farming about twelve thousand years ago. The pot sits between art and agriculture."
+  },
+  {
+   "id": "f3",
+   "text": "The proof is a cave, a wall thickness, a scorch mark, and a date range. Xianrendong, Jiangxi, about a hundred kilometres south of the Yangtze. Two hundred eighty-two sherds. Round bases. Sand temper. Soot outside. Each piece is small. Together they carry the weight of the claim."
+  },
+  {
+   "id": "f4",
+   "text": "If you had one clay pot and one fire in the coldest winter on record — what would you boil first? Tell us your first meal."
+  },
+  {
+   "id": "f5",
+   "text": "Science note, plainly. Say oldest known pottery, not a claim about every container ever made. The date is a range. Cooking is inferred from scorch and soot. The cold-weather energy motive is team reasoning. About six hundred degrees is a general threshold for typical clays. Dolní Věstonice is given as a range in the description, not a single birthday."
+  },
+  {
+   "id": "f6",
+   "text": "My sources: Wu and colleagues, 2012, in Science, on the Xianrendong pottery; New Scientist and Boston University summaries of that work; the Journal of Austronesian Studies review; Guinness World Records and Wikipedia on Dolní Věstonice; and the Ceramic Dictionary on firing. Those sources carry the numbers; the cave carries the silence between them."
+  },
+  {
+   "id": "f7",
+   "text": "The oldest cooking pot is twenty thousand years old. Thank the hands that pressed river mud into a bowl, the fire that changed it, and the cave floor that kept the pieces."
+  },
+  {
+   "id": "f8",
+   "text": "Pots did not come from farming. Hunter-gatherers were likely boiling food about ten thousand years before fields. Goodnight. If you boil dinner tonight, look at the pot. Mud learned to survive fire."
   }
  ]
 }
