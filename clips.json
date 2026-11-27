@@ -1,32 +1,192 @@
 {
  "clips": [
   {
-   "id": "s1",
-   "text": "The oldest cooking pot is twenty thousand years old."
+   "id": "a1",
+   "text": "So why could a brain squeezed to one millimetre still score one hundred twenty-six?"
   },
   {
-   "id": "s2",
-   "text": "A wet mud bowl slumps in water and falls back into the riverbank before dinner even starts."
+   "id": "a2",
+   "text": "Because the squeeze was slow. It took decades, and the thin sheet left behind kept working while fluid filled the space around it."
   },
   {
-   "id": "s3",
-   "text": "But the fired pot holds its shape and steams over a cave fire while snow blows past the cave mouth."
+   "id": "a3",
+   "text": "Two men. One fixed box. And a slow clock inside the skull."
   },
   {
-   "id": "s4",
-   "text": "It is the oldest known cooking pot, about twenty thousand years old."
+   "id": "a4",
+   "text": "Start in Sheffield. A young man was sent for a scan because his head was slightly large, not because his life was falling apart. He was living the kind of ordinary student life that gives no warning at all."
   },
   {
-   "id": "s5",
-   "text": "That is about ten thousand years before anyone planted a field or kept a farm."
+   "id": "a5",
+   "text": "The scan should have ended the story. Instead of a deep cushion of brain tissue between the chambers and the surface, it showed a thin mantle pressed around fluid, as if the inside of the skull had been quietly rearranged."
   },
   {
-   "id": "s6",
-   "text": "So why did a lump of river mud survive the fire twenty thousand years before farms?"
+   "id": "a6",
+   "text": "Then came the number that makes the picture impossible. The same young man scored one hundred twenty-six on an intelligence test and took first-class honours in mathematics. The scan looked empty. The examination results did not."
   },
   {
-   "id": "s7",
-   "text": "Past about six hundred degrees, mud changes for good, bonds, and cannot melt back. Tap the video link under my name."
+   "id": "a7",
+   "text": "The famous headline says ninety percent missing. Nobody measured that. The real story is slower, stranger, and much more honest: fluid squeezed the brain over time, and time changed what the squeeze meant."
+  },
+  {
+   "id": "b1",
+   "text": "Chapter one: the student. John Lorber studied hydrocephalus in Sheffield, the condition where fluid builds inside the brain's chambers and can squeeze the tissue outward. His cases forced a question medicine still finds uncomfortable."
+  },
+  {
+   "id": "b2",
+   "text": "In a typical scan, the tissue between the ventricles and the surface is about forty-five millimetres deep. That depth is white matter and cortex together, not cortex alone, and it is the comparison that makes the next image so hard to accept."
+  },
+  {
+   "id": "b3",
+   "text": "In this student, Lorber described that mantle as about a millimetre thick, with the cranium filled mainly by cerebrospinal fluid. The word about matters. This was a reading of early scans, not a modern volume measurement."
+  },
+  {
+   "id": "b4",
+   "text": "Say the boundary clearly: one millimetre was Lorber's description of the mantle depth, and scan interpretation was debated even then. The story does not need false precision. A thin sheet is strange enough without pretending the ruler was perfect."
+  },
+  {
+   "id": "b5",
+   "text": "Yet the man was socially normal. He studied mathematics, finished with first-class honours, and tested at one hundred twenty-six. Whatever the scan seemed to promise, his daily life refused to perform the catastrophe."
+  },
+  {
+   "id": "b6",
+   "text": "Lorber could not say whether the brain weighed fifty grams or one hundred fifty grams. He only said it was nowhere near the normal one point five kilograms. Even the weight was an honest unknown inside a very visible paradox."
+  },
+  {
+   "id": "b7",
+   "text": "That is the paradox in one body: a scan that looks almost empty, and a life that kept passing examinations. If you only saw the picture, you would predict disaster. If you only saw the man, you would miss the picture entirely."
+  },
+  {
+   "id": "b8",
+   "text": "So do not picture a brain suddenly removed. Picture tissue compressed against the inside of a fixed skull, year after year, while school, work, and ordinary mornings continued on the other side of the bone."
+  },
+  {
+   "id": "c1",
+   "text": "Chapter two: the fixed box. Your skull is not a bag that stretches. Brain, blood, and fluid share one rigid volume, and every extra drop of fluid has to take room from something else."
+  },
+  {
+   "id": "c2",
+   "text": "The fluid is cerebrospinal fluid. It cushions the brain and spinal cord, and most of it is made by the choroid plexus inside the ventricles, the brain's internal chambers. It is not an invader. Your body makes it on purpose."
+  },
+  {
+   "id": "c3",
+   "text": "Your body makes about five hundred millilitres of it every day. At any moment only about one hundred twenty-five to one hundred fifty millilitres are present, so the whole supply is replaced roughly every seven and a half hours."
+  },
+  {
+   "id": "c4",
+   "text": "That rhythm is the first surprise. The fluid around your brain is not a still pond sealed away for life. It is a moving system, produced, circulated, and drained again and again while you sleep, work, and forget it exists."
+  },
+  {
+   "id": "c5",
+   "text": "It normally exits through small openings, including the foramina of Magendie and Luschka, then returns toward the blood. When the exit narrows or blocks, the chambers upstream begin to swell."
+  },
+  {
+   "id": "c6",
+   "text": "Block the exit, and the ventricles swell. More fluid inside the box means less room for brain tissue and blood. The tissue is pushed outward, thinned against the skull, and asked to keep working in a narrower home."
+  },
+  {
+   "id": "c7",
+   "text": "Doctors call that fixed-volume rule the Monro-Kellie doctrine. If one part grows, another part must give way, or pressure rises. It is a simple rule with a brutal consequence: inside the skull, volume is a zero-sum bargain."
+  },
+  {
+   "id": "c8",
+   "text": "The squeeze is therefore not magic. It is plumbing inside a box that cannot expand. And time decides whether the tissue is crushed by the change or given decades to reorganise around it."
+  },
+  {
+   "id": "d1",
+   "text": "Chapter three: the second life. In Marseille, a forty-four-year-old civil servant came to hospital with two weeks of mild weakness in his left leg. Two weeks. That was the symptom that opened the door."
+  },
+  {
+   "id": "d2",
+   "text": "He was married, a father of two, and working an ordinary job. Nothing in that life announced what the scan was about to show. The family table and the office desk had been telling one story for years."
+  },
+  {
+   "id": "d3",
+   "text": "As a baby, at six months old, he had a shunt placed to drain hydrocephalus, the build-up of fluid inside the skull. A shunt is a small drain, a mechanical answer to a plumbing problem."
+  },
+  {
+   "id": "d4",
+   "text": "At fourteen, after leg symptoms settled and the shunt was revised, the shunt was later removed. From the outside, that could look like the end of the story. Inside the fixed box, the slow clock restarted."
+  },
+  {
+   "id": "d5",
+   "text": "For thirty years, fluid could gather again. The ventricles enlarged massively, and the cortical mantle became very thin. The change was not a single injury. It was a tide rising so slowly that life could keep pace with it."
+  },
+  {
+   "id": "d6",
+   "text": "His intelligence quotient was seventy-five, verbal eighty-four and performance seventy. That is below the average of one hundred. He was functional and socially normal, but he was not untouched, and the story must say so plainly."
+  },
+  {
+   "id": "d7",
+   "text": "After a new shunt operation, his neurological examination became normal within weeks. His intelligence score and scan appearance did not change. The drain relieved the symptom, but the thin sheet remained the thin sheet."
+  },
+  {
+   "id": "d8",
+   "text": "The leg weakness brought him in. The scan revealed a life that had been ordinary beside a skull full of fluid. Two men, two countries, one uncomfortable question: how much brain does a life actually need?"
+  },
+  {
+   "id": "e1",
+   "text": "Chapter four: the honest number. The internet headline says ninety percent of his brain was missing. That number was not measured. It is a headline wearing a lab coat, and it has to be taken off."
+  },
+  {
+   "id": "e2",
+   "text": "Lionel Feuillet told New Scientist it was hard to give an exact percentage of reduction, because the team did not use software to measure the volume. That sentence is the guardrail for everything that follows."
+  },
+  {
+   "id": "e3",
+   "text": "His visual estimate was more than a fifty to seventy-five percent reduction. Visually, he said. Not by software. Not ninety. The honest range is still enormous, and it does not need exaggeration to be astonishing."
+  },
+  {
+   "id": "e4",
+   "text": "The whole brain was reduced: frontal, parietal, temporal, and occipital lobes, on both sides. Those regions are tied to movement, sensation, language, vision, hearing, and thought. This was not one quiet corner giving way."
+  },
+  {
+   "id": "e5",
+   "text": "Lorber's wider series makes the warning sharper. He sorted more than six hundred hydrocephalus scans by how much room the ventricles filled. Two remarkable men can mislead us if we forget the crowd behind them."
+  },
+  {
+   "id": "e6",
+   "text": "In the most severe group, under ten percent of his series, the ventricles filled about ninety-five percent of the cranium. That is the group where the scan looks most impossible, and where the outcomes split hardest."
+  },
+  {
+   "id": "e7",
+   "text": "About half of that severe group were severely impaired. About half had intelligence scores above one hundred. Escape was not guaranteed. The same squeeze that one life absorbed could leave another life badly damaged."
+  },
+  {
+   "id": "e8",
+   "text": "So the two men are not proof that brains are optional. They are the escape cases inside a much harsher distribution. The wonder is real, and so is the warning standing right beside it."
+  },
+  {
+   "id": "f1",
+   "text": "Chapter five: still thinking. The scan looks like a brain that is missing. The mechanism is a brain that was slowly compressed, not suddenly removed. That difference is the whole story in one sentence."
+  },
+  {
+   "id": "f2",
+   "text": "Speed is the difference between disaster and adaptation. A sudden squeeze gives tissue no time to reroute. A squeeze over decades may let other parts take up functions that would normally belong elsewhere."
+  },
+  {
+   "id": "f3",
+   "text": "That is the leading explanation: reorganisation over time. It is not settled proof, and it does not solve consciousness. It says the remaining sheet may have learned to carry more of the work than a scan can show."
+  },
+  {
+   "id": "f4",
+   "text": "Picture your own skull as the fixed box. The fluid river is moving now, produced and drained while you listen. If the drain narrowed slowly, the question would not be whether the box changed. It would be whether time let you change with it."
+  },
+  {
+   "id": "f5",
+   "text": "The proof is a scan, a score, a job, a family, and a warning. One millimetre, about. One hundred twenty-six. Seventy-five. Fifty to seventy-five percent, visually. Half impaired, half above one hundred. Every number has a boundary attached."
+  },
+  {
+   "id": "f6",
+   "text": "If a scan tomorrow showed your brain squeezed into a thin layer — but you felt completely fine — would you want the operation, or leave it alone? Tell us what you'd choose."
+  },
+  {
+   "id": "f7",
+   "text": "Science note, plainly. Ninety percent missing is a headline, not a measurement. Feuillet's fifty to seventy-five percent was visual, without volume software. One millimetre was Lorber's early scan reading. Half of the severest group were impaired. Reorganisation over decades is the leading explanation, not proof."
+  },
+  {
+   "id": "f8",
+   "text": "My sources: Feuillet and colleagues in The Lancet; New Scientist's original report; Lorber's Sheffield cases in Science; McGill's summary; StatPearls on cerebrospinal fluid; and the McMaster synopsis of the fixed box. The scan looks empty. The life says otherwise. Goodnight."
   }
  ]
 }
