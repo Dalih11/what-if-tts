@@ -1,192 +1,32 @@
 {
  "clips": [
   {
-   "id": "a1",
+   "id": "s1",
    "text": "So why can one in ten thousand people live with a heart on the right side and never know?"
   },
   {
-   "id": "a2",
-   "text": "Because the mirror is complete. The heart, liver, stomach, spleen and appendix moved together, so the body still works, and the first clue is a heartbeat hiding on the right."
+   "id": "s2",
+   "text": "A stethoscope on the left chest heard almost nothing."
   },
   {
-   "id": "a3",
-   "text": "One night. One map. Every clue on the wrong side."
+   "id": "s3",
+   "text": "Move it to the right, and the heartbeat thumped in loud and clear."
   },
   {
-   "id": "a4",
-   "text": "Picture an emergency room at two in the morning. A man in his fifties has fever, nausea, vomiting, and pain low on the left side of his abdomen, and nobody in the room likes how the clues disagree. The room is quiet, the monitor keeps its rhythm, and the chart on the wall suddenly looks less trustworthy than the person on the bed."
+   "id": "s4",
+   "text": "The scan showed the organs mirrored, yet the man had lived an ordinary life."
   },
   {
-   "id": "a5",
-   "text": "The pain chart in every head says appendix trouble belongs low on the right. His pain is sitting in the mirror place, and appendicitis runs on hours, so the clock is already running."
+   "id": "s5",
+   "text": "Then pain low on the left made the emergency team redraw the map."
   },
   {
-   "id": "a6",
-   "text": "A stethoscope on the left chest hears almost nothing. The doctor moves it across the chest, and the heartbeat thumps in from the right, strong and ordinary and completely in the wrong place."
+   "id": "s6",
+   "text": "So why can one in ten thousand people live with a heart on the right side and never know?"
   },
   {
-   "id": "a7",
-   "text": "That is the first wrong-side clue. The body is not failing in that moment. The map in the room is wrong, and every next clue will redraw the same body flipped."
-  },
-  {
-   "id": "b1",
-   "text": "Chapter one: the mirror map. Situs inversus totalis means the organs are arranged as a complete mirror image of the usual layout, left and right exchanged as one whole pattern."
-  },
-  {
-   "id": "b2",
-   "text": "The heart sits on the right. The liver sits on the left. The stomach and spleen are on the right, and even the lung lobes are reversed, so the whole inner map reads backward."
-  },
-  {
-   "id": "b3",
-   "text": "About one in ten thousand people are born this way. Say about, because published estimates vary, and one review gives one in five thousand to ten thousand live births, while older literature ranges wider."
-  },
-  {
-   "id": "b4",
-   "text": "Most people have no symptoms from the mirror itself. The arrangement is often found by accident during imaging, an electrocardiogram, or a physical examination, long after the body has already proved it can cope."
-  },
-  {
-   "id": "b5",
-   "text": "That accident matters. A person can reach middle age, work, exercise, and raise a family while every organ quietly keeps the mirrored arrangement, because the mirror preserves the relationships between organs."
-  },
-  {
-   "id": "b6",
-   "text": "The appendix also moves to the left. So the pain that usually points one way can point to the opposite side in this body, and the familiar clue becomes a trap for anyone reading the standard map."
-  },
-  {
-   "id": "b7",
-   "text": "A chest image can look familiar at first glance. Then the stomach bubble and heart shadow refuse to sit where training expects them, and the image has to be read as a mirror, not a mistake."
-  },
-  {
-   "id": "b8",
-   "text": "The map is not torn up. It is flipped as one piece, and that single flip explains the silent chest, the strange pain, and the scan that looks wrong only until the mirror is named."
-  },
-  {
-   "id": "c1",
-   "text": "Chapter two: the clue that hurts. Appendicitis is the trap, because the textbook pain is usually low on the right, and a mirrored body breaks that first assumption."
-  },
-  {
-   "id": "c2",
-   "text": "In a complete mirror, the appendix is usually low on the left. The pain can therefore arrive on the side that makes clinicians hesitate, even while the disease itself is following its ordinary course."
-  },
-  {
-   "id": "c3",
-   "text": "A reported case describes a fifty-year-old man with left lower abdominal pain, fever, nausea and vomiting. Imaging showed left-sided appendicitis with situs inversus totalis, and the scan turned confusion into a diagnosis."
-  },
-  {
-   "id": "c4",
-   "text": "That case is not a rule for every pain. It is a warning that anatomy can reverse the clue while the disease stays the same, which is why the scan matters more than the first guess."
-  },
-  {
-   "id": "c5",
-   "text": "Reviews note that situs inversus accounts for more than two thirds of left-sided appendicitis cases. The number matters because rare anatomy can hide inside a common emergency and borrow its clock."
-  },
-  {
-   "id": "c6",
-   "text": "But usually is not always. Published series include right-sided and bilateral pain presentations, so the side alone cannot settle the diagnosis, and the mirror must be proved, not assumed."
-  },
-  {
-   "id": "c7",
-   "text": "The scan settles what the symptom cannot. It shows the appendix where the mirror put it, and the team can stop arguing with the chart and start treating the person in front of them."
-  },
-  {
-   "id": "c8",
-   "text": "The danger was never that the body forgot how to work. The danger was delay, while every familiar clue pointed away from the answer and the hours kept moving."
-  },
-  {
-   "id": "d1",
-   "text": "Chapter three: not scrambled. A mirror is not a shuffle. If organs were moved at random, connections would break and the body would be in trouble, but a mirror keeps the pattern whole."
-  },
-  {
-   "id": "d2",
-   "text": "In a complete mirror, neighbours stay neighbours. Vessels, ducts and nerves still meet the organs they serve, only from the opposite side, so the connected system can keep doing its ordinary work."
-  },
-  {
-   "id": "d3",
-   "text": "That preserved relationship is why a perfect mirror can be compatible with a normal life. The layout changed; the wiring plan did not collapse, and the organs still answer to one another."
-  },
-  {
-   "id": "d4",
-   "text": "Popular claims that mirrored people rarely reach middle age blur the forms. That warning belongs mainly to incomplete arrangements, not the complete mirror, and the distinction changes the whole risk story."
-  },
-  {
-   "id": "d5",
-   "text": "A small minority of people with situs inversus totalis have congenital heart defects. Secondary sources disagree on the share, with figures from about three to five percent to five to ten percent."
-  },
-  {
-   "id": "d6",
-   "text": "Heterotaxy and isolated levocardia are different problems. In those incomplete forms, heart-defect risk is much higher, and the mirror is not clean, so they must never be folded into the complete-mirror story."
-  },
-  {
-   "id": "d7",
-   "text": "So the word complete carries the story. Complete means the whole map flipped together. Incomplete means some structures stayed, some moved, and the connections can suffer in ways a perfect mirror avoids."
-  },
-  {
-   "id": "d8",
-   "text": "The body is not a bag of loose parts. It is a connected map, and a flipped map can still lead every road home, which is why the emergency clues mislead before they explain."
-  },
-  {
-   "id": "e1",
-   "text": "Chapter four: the first current. Left and right are decided early, before the organs settle into their familiar places and long before any doctor listens to a chest."
-  },
-  {
-   "id": "e2",
-   "text": "In vertebrate embryos, tiny rotating cilia in a small node drive fluid toward the left. That leftward flow helps switch on left-sided signals, giving the body its first sense of direction."
-  },
-  {
-   "id": "e3",
-   "text": "Calcium signals and genes such as Nodal and Pitx2 follow that flow. The heart, liver and gut then build their asymmetry from the signal, each organ taking its side from the same early instruction."
-  },
-  {
-   "id": "e4",
-   "text": "Flip the first signal, and the whole map can mirror cleanly. The result is not chaos; it is the same plan read from the other side, with every later structure following the reversed instruction."
-  },
-  {
-   "id": "e5",
-   "text": "The mechanism is established in vertebrate embryos, especially mouse node studies. Human left-right determination is inferred from the same pathway and from cilia-defect syndromes, not filmed inside a human embryo."
-  },
-  {
-   "id": "e6",
-   "text": "Kartagener syndrome shows the randomising case. When cilia cannot move properly, left-right determination can become a coin toss, and about half of those patients have the mirrored arrangement."
-  },
-  {
-   "id": "e7",
-   "text": "Primary ciliary dyskinesia affects a subset, not everyone with situs inversus. Most people with the complete mirror do not have that chronic cilia condition, so mirrored organs must not be read as chronic lung disease."
-  },
-  {
-   "id": "e8",
-   "text": "So the flip begins as physics before it becomes anatomy: a current, a signal, then a body built around the answer, and decades later a stethoscope finds the echo on the right. The same reversed instruction that built the body also explains why the first listening check can mislead a careful team."
-  },
-  {
-   "id": "f1",
-   "text": "Chapter five: mirror life. Back in the emergency bay, the scan flips the map and the pain finally makes sense, because the clue was right and the expected side was wrong."
-  },
-  {
-   "id": "f2",
-   "text": "The doctor's tools must flip too. Electrocardiogram leads placed for the usual layout can draw a trace that looks inverted until the mirror is recognised and the leads are read with the anatomy."
-  },
-  {
-   "id": "f3",
-   "text": "That is the practical twist. The body works, but every routine built for the standard map may need one careful reversal, from where a stethoscope lands to how a pain chart is read."
-  },
-  {
-   "id": "f4",
-   "text": "Picture your own chest in that room. The heartbeat is strong, the organs are connected, and only the directions have changed, which is why the mirror can hide inside an ordinary life."
-  },
-  {
-   "id": "f5",
-   "text": "The proof is a silent left chest, a heartbeat on the right, a scan with organs mirrored, and pain usually on the left. Every clue points the wrong way until the map is flipped."
-  },
-  {
-   "id": "f6",
-   "text": "If a scan tomorrow showed your organs mirrored — but you felt completely fine — would you tell every doctor you ever meet, or only mention it in an emergency? Tell us what you'd choose."
-  },
-  {
-   "id": "f7",
-   "text": "Science note, plainly. One in ten thousand is an estimate, not a census. A complete mirror is usually compatible with normal life, but a small minority have heart defects. Appendix pain is usually left-sided, not always. The cilia current is established in vertebrate embryos and inferred in humans. This story is education, not medical advice."
-  },
-  {
-   "id": "f8",
-   "text": "My sources: Cleveland Clinic on situs inversus; the Journal of Clinical and Diagnostic Research review; Radiology Case Reports on left-sided appendicitis; PNAS on embryonic fluid flow; BMC Biology on cilia and calcium; and Hirokawa and colleagues on nodal flow. The map flipped. The life did not."
+   "id": "s7",
+   "text": "The mirror is perfect, so everything still connects — and the flip began with a current before birth. Tap the video link under my name."
   }
  ]
 }
